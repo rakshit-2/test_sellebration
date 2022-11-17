@@ -1,0 +1,26 @@
+[
+  {
+    "id": 4,
+    "date": "2022-10-30T18:30:00.000Z",
+    "info": "testen",
+    "link": "Test1-Link"
+  },
+  {
+    "id": 2,
+    "date": "2022-10-01T18:30:00.000Z",
+    "info": "2Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der branchenübliche Dummy-Text",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 1,
+    "date": "01.06.2022T18:30:00.000Z",
+    "info": "1Lorem Ipsum ist einfach Blindtext der Druck- und Setzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der branchenübliche Dummy-Text",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 3,
+    "date": "2022-01-01T18:30:00.000Z",
+    "info": "3Lorem Ipsum ist einfach Blindtext der Druck- und Setzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der branchenübliche Dummy-Text",
+    "link": "hier verlinken"
+  }
+]

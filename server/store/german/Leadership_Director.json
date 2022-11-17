@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Rakshit",
+    "jobtitle": "Entwickler",
+    "img": "./../../assets/image/profile.png"
+  },
+  {
+    "id": 2,
+    "name": "Samarth",
+    "jobtitle": "Entwickler",
+    "img": "./../../assets/image/profile.png"
+  },
+  {
+    "id": 3,
+    "name": "Test1-Direktor",
+    "jobtitle": "Berufsbezeichnungtest1",
+    "img": "home3.jpg"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "info": "2Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria",
+    "img": null,
+    "name": "2 la tradición en sí"
+  },
+  {
+    "id": 2,
+    "info": "3Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria",
+    "img": null,
+    "name": "3 la tradición en sí"
+  },
+  {
+    "id": 3,
+    "info": "4Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria",
+    "img": null,
+    "name": "4 la tradición misma"
+  },
+  {
+    "id": 4,
+    "info": "chequeo prueba 1 tarjeta innovación post solicitud",
+    "img": "casa5.jpg",
+    "name": "innovación de la tarjeta test1"
+  }
+]

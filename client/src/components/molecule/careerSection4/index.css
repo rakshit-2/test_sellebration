@@ -1,0 +1,174 @@
+
+.career__inner__section4{
+    width:100%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.career__inner__section4__inner{
+    width:100%;
+    height:fit-content;
+}
+.career__inner__section4__heading{
+    width:100%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 59px;
+    text-transform: capitalize;
+    color: #374E91;
+}
+.career__inner__section4__display{
+    width: 100%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+.career__inner__section4__display1{
+    width: 100%;
+    height:fit-content;
+    display: none;
+}
+.career__inner__section4__display__each{
+    width:fit-content;
+    height:fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin:1rem;
+}
+.career__inner__section4__display__each__img{
+    width:250px;
+    height:250px;
+    background-color: grey;
+}
+.career__inner__section4__display__each__text{
+    margin-top: 1rem;
+    width:250px;
+    height:fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #374E91;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:1500px)
+{
+    .career__inner__section4__inner{
+        width:90%;
+    }
+}
+
+@media screen and (min-width:1700px)
+{
+    .career__inner__section4__inner{
+        width:80%;
+    }
+}
+
+@media screen and (min-width:2000px)
+{
+    .career__inner__section4__inner{
+        width:70%;
+    }
+}
+
+@media screen and (min-width:2100px)
+{
+    .career__inner__section4__inner{
+        width:65%;
+    }
+}
+
+@media screen and (min-width:2462px)
+{
+    .career__inner__section4__inner{
+        width:55%;
+    }
+}
+
+
+
+
+@media screen and (max-width:1118px)
+{
+    .career__inner__section4__heading{
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 29px;
+    }
+    .career__inner__section4__display__each__img{
+        width:200px;
+        height:190px;
+    }
+    .career__inner__section4__display__each__text{
+        margin-top: 0.5rem;
+        width:200px;
+        font-weight: 500;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:922px)
+{
+    .career__inner__section4__display{
+        display: none;
+    }
+    .career__inner__section4__display1{
+        display: block;
+    }
+    .career__inner__section4__display__each__img{
+        width:280px;
+        height:160px;
+    }
+    .career__inner__section4__display__each__text{
+        margin-top: 0.2rem;
+        line-height: 18px;
+        width:280px;
+    }
+    .career__inner__section4__display__each{
+        margin:auto;
+        margin-top: 2rem;
+        margin-bottom: 3rem;
+    }
+}
+
+
+@media screen and (max-width:696px)
+{
+    .career__inner__section4__heading{
+        width:100%;
+        padding-top: 1rem;
+        padding-bottom: 0.5rem;
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 30px;
+    }
+}

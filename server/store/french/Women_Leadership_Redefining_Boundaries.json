@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": null,
+    "name": "1 Savoir lui-même",
+    "info": "1Lorem Ipsum est simplement un texte factice de l'industrie de l'impression et de la composition."
+  },
+  {
+    "id": 2,
+    "img": null,
+    "name": "2 La tradition elle-même",
+    "info": "2Lorem Ipsum est simplement un texte factice de l'industrie de l'impression et de la composition."
+  },
+  {
+    "id": 3,
+    "img": "home5.jpg",
+    "name": "essai 1",
+    "info": "tester les limites test1"
+  }
+]

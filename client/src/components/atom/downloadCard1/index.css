@@ -1,0 +1,119 @@
+
+.downloads__card1__outer{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+.downloads__card1__img{
+    width: 290px;
+    height: 180px;
+}
+.downloads__card1__img__outer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    width: 100%;
+    margin-top: 1rem;
+    margin-bottom: 0.2rem;
+}
+
+.downloads__card1__data{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    margin-top: 1rem;
+    margin-bottom: 0.3rem;
+}
+
+.downloads__card1__button__outer{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.downloads__card1__button__inner{
+    width: 80%;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:0.5rem 0.5rem 0.5rem 0.5rem;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: #0AB1EE;
+    text-transform: capitalize;
+    border-radius: 20px;
+    color: #FFFFFF;
+}
+
+.downloads__card1__size{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    color: #FFFFFF;
+    margin-top: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:923px)
+{
+    .downloads__card1__img{
+        width: 240px;
+        height: 150px;
+    }
+    .downloads__card1__data{
+        font-weight: 800;
+        font-size: 16px;
+        line-height: 29px;
+        margin-top: 0.2rem;
+        margin-bottom: 0.1rem;
+    }
+    .downloads__card1__size{
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 17px;
+        margin-top: 0.5rem;
+        margin-bottom: 1rem;
+    }
+}

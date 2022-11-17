@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Rakshit",
+    "jobtitle": "डेवलपर",
+    "img": "./../../ संपत्ति/छवि/प्रोफाइल.png"
+  },
+  {
+    "id": 2,
+    "name": "Samarth",
+    "jobtitle": "डेवलपर",
+    "img": "./../../ संपत्ति/छवि/प्रोफाइल.png"
+  },
+  {
+    "id": 3,
+    "name": "testjobtitle",
+    "jobtitle": "testjobtitle",
+    "img": "होम4.जेपीजी"
+  }
+]

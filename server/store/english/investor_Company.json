@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Company2",
+    "info": "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry. Lorem Ipsum Has Been The Industry's Standard Dummy Text Ever Since The 1500s, The Industry's Standard Dummy Text Ever Since The 1500s,"
+  },
+  {
+    "id": 2,
+    "name": "Company3",
+    "info": "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry. Lorem Ipsum Has Been The Industry's Standard Dummy Text Ever Since The 1500s, The Industry's Standard Dummy Text Ever Since The 1500s,"
+  },
+  {
+    "id": 3,
+    "name": "Company4",
+    "info": "Lorem Ipsum Is Simply Dummy Text Of The Printing And Typesetting Industry. Lorem Ipsum Has Been The Industry's Standard Dummy Text Ever Since The 1500s, The Industry's Standard Dummy Text Ever Since The 1500s,"
+  },
+  {
+    "id": 4,
+    "name": "test1",
+    "info": "testing info investor company"
+  }
+]

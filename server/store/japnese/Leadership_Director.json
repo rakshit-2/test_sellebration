@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "ラクシット",
+    "jobtitle": "デベロッパー",
+    "img": "./../../assets/image/profile.png"
+  },
+  {
+    "id": 2,
+    "name": "サマース",
+    "jobtitle": "デベロッパー",
+    "img": "./../../assets/image/profile.png"
+  },
+  {
+    "id": 3,
+    "name": "test1 ディレクター",
+    "jobtitle": "役職テスト1",
+    "img": "ホーム3.jpg"
+  }
+]

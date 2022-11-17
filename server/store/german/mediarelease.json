@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "date": "2022-09-08T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 2,
+    "date": "2022-09-10T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 3,
+    "date": "2022-09-20T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 4,
+    "date": "2022-09-24T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 5,
+    "date": "2022-09-27T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 6,
+    "date": "2022-09-30T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 7,
+    "date": "2022-10-10T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 9,
+    "date": "2022-10-19T18:30:00.000Z",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie.",
+    "link": "hier verlinken"
+  },
+  {
+    "id": 10,
+    "date": "2022-10-31T18:30:00.000Z",
+    "info": "Testinfo übereinstimmen",
+    "link": "testlink1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": null,
+    "name": "1 Lore en sí",
+    "info": "1Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica."
+  },
+  {
+    "id": 2,
+    "img": null,
+    "name": "2 La tradición en sí",
+    "info": "2Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica."
+  },
+  {
+    "id": 3,
+    "img": "casa7.jpg",
+    "name": "prueba 1",
+    "info": "probando mejor juntos info"
+  }
+]

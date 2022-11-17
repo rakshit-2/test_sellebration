@@ -1,0 +1,134 @@
+.leadershipcard1__each__card{
+    width:170px;
+    height:fit-content;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 25px 0px 25px 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.leadershipcard1__each__card__image{
+    width:100px;
+    height:100px;
+    margin-bottom: 10px;
+}
+.leadershipcard1__each__card__image__img{
+    width:100%;
+    height:100%;
+    border-radius: 50%;
+}
+.leadershipcard1__each__card__name{
+    width:100%;
+    height:fit-content;
+    word-wrap: break-word;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.leadershipcard1__each__card__jobtitle{
+    width:100%;
+    height:fit-content;
+    word-wrap: break-word;
+    font-size: 20px;
+    font-weight: 800;
+    color: #2F528E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:1500px)
+{
+    .leadershipcard1__each__card{
+        width:230px;
+    }
+    .leadershipcard1__each__card__image{
+        width:150px;
+        height:150px;
+    }
+    .leadershipcard1__each__card__name{
+        font-size: 18px;
+    }
+    .leadershipcard1__each__card__jobtitle{
+        font-size: 19px;
+        font-weight: 800;
+    }
+    .leadershipcard1__each__card{
+        margin: 25px 0px 25px 0px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+@media screen and (max-width:1043px)
+{
+    .leadershipcard1__each__card__image{
+        width:150px;
+        height:150px;
+    }
+}
+@media screen and (max-width:767px)
+{
+    .leadershipcard1__each__card{
+        width:150px;
+        
+    }
+}
+@media screen and (max-width:613px)
+{
+    .leadershipcard1__each__card{
+        width:230px;
+    }
+}
+@media screen and (max-width:541px)
+{
+    .leadershipcard1__each__card{
+        width:180px;
+        height:180px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+@media screen and (max-width:426px)
+{
+    .leadershipcard1__each__card{
+        width:80%;
+        height: fit-content;
+    }
+    .leadershipcard1__each__card__image{
+        width:200px;
+        height:200px;
+    }
+    .leadershipcard1__each__card__name{
+        font-size: 16px;
+    }
+    .leadershipcard1__each__card__jobtitle{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:378px)
+{
+    .leadershipcard1__each__card__image{
+        width:180px;
+        height:180px;
+    }
+}

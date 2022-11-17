@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Firma2",
+    "info": "Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist seit 1500 der Standard-Dummy-Text der Branche, seit 1500 der Standard-Dummy-Text der Branche,"
+  },
+  {
+    "id": 2,
+    "name": "Firma3",
+    "info": "Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist seit 1500 der Standard-Dummy-Text der Branche, seit 1500 der Standard-Dummy-Text der Branche,"
+  },
+  {
+    "id": 3,
+    "name": "Firma4",
+    "info": "Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist seit 1500 der Standard-Dummy-Text der Branche, seit 1500 der Standard-Dummy-Text der Branche,"
+  },
+  {
+    "id": 4,
+    "name": "Prüfung 1",
+    "info": "Testen von Informationen Investorenunternehmen"
+  }
+]

@@ -1,0 +1,94 @@
+.WomenLeadershipCard1__outer{
+    
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: auto;
+    margin-top:5rem;
+    margin-bottom: 3rem;
+    padding: 2rem 5rem 2rem 5rem;
+}
+
+.WomenLeadershipCard1__heading{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    color: #2F528E;
+    padding-bottom: 2rem;
+    width: 100%;
+    height: fit-content;
+}
+
+.WomenLeadershipCard1__info{
+    width: 500px;
+    height: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 35px;
+    text-transform: capitalize;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.WomenLeadershipCard1__name{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    width: 100%;
+    height: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.WomenLeadershipCard1__title{
+    width: 100%;
+    height: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width:1024px)
+{
+    .WomenLeadershipCard1__info{
+        display: none;
+    }
+}
+
+@media screen and (max-width:640px)
+{
+    .WomenLeadershipCard1__outer{
+        padding: 1rem 0rem 2rem 0rem;
+    }
+    .WomenLeadershipCard1__heading{
+        font-weight: 600;
+        font-size: 25px;
+    }
+    
+    .WomenLeadershipCard1__name{
+        font-size: 25px;
+    }
+
+    .WomenLeadershipCard1__title{
+        font-size: 16px;
+    }
+
+}

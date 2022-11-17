@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "info": "Lorem Ipsum ist einfach Dummy-Text",
+    "img": null
+  },
+  {
+    "id": 2,
+    "info": "3 Lorem Ipsum ist einfach Dummy-Text",
+    "img": null
+  },
+  {
+    "id": 3,
+    "info": "SMS Textbereich Innovation Insight",
+    "img": "home4.jpg"
+  }
+]

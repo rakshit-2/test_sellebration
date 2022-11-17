@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "拉克西特",
+    "jobtitle": "开发商",
+    "img": "./../../assets/image/profile.png"
+  },
+  {
+    "id": 2,
+    "name": "萨玛斯",
+    "jobtitle": "开发商",
+    "img": "./../../assets/image/profile.png"
+  },
+  {
+    "id": 3,
+    "name": "test1 导演",
+    "jobtitle": "职称测试1",
+    "img": "主页3.jpg"
+  }
+]

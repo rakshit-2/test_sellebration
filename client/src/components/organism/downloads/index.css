@@ -1,0 +1,408 @@
+.downloads__outer{
+    height: 100%;
+    width: 100%;
+}
+
+.downloads__inner{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow: hidden;
+}
+.downloads__inner__inner{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.downloads__inner__inner__crousal{
+    width: 100%;
+    height: fit-content;
+}
+.downloads__sec1{
+    padding-top: 4.5rem;
+    height: fit-content;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.downloads__sec1__head{
+    
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    text-transform: capitalize;
+    color: #000000;
+}
+
+.downloads__sec1__head__right__inner{
+    height: fit-content;
+    width: fit-content;
+    background-color: #0AB1EE;
+    border-radius: 20px;
+    padding: 8px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.downloads__sec1__head__right__inner__icon{
+    width:13px;
+    height:13px;
+}
+.downloads__sec1__head__right{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+}
+.downloads__sec1__bottom{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.downloads__sec1__bottom__left{
+    height: fit-content;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: flex-start;
+}
+
+.downloads__sec1__bottom__left__1{
+    margin:1rem 0rem 1rem 0rem;
+    height:fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 49px;
+    text-transform: capitalize;
+    color: #374E91;
+}
+
+.downloads__sec1__bottom__left__2{
+    
+    margin:1rem 0rem 1rem 0rem;
+    height:fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+    text-transform: capitalize;
+    color: #374E91;
+}
+.downloads_head_logo{
+    width: 380px;
+    height: 324px;
+    background-color: white;
+}
+
+.downloads__sec1__bottom__right{
+    height: fit-content;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+}
+
+.downloads__sec1__bottom__right__inner{
+    margin-top: 4rem;
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.downloads__sec1__bottom__right__inner__left{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+.downloads__sec1__bottom__right__inner__left2{
+    height: fit-content;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    display: none;
+}
+.downloads__sec1__bottom__right__inner__each1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: fit-content;
+    min-width: 6rem;
+    background: #0AB1EE;
+    border-radius: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 14px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+.downloads__sec1__bottom__right__inner__each2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: fit-content;
+    width: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12px;
+    line-height: 17px;
+    text-transform: capitalize;
+    margin-top: 0.4rem;
+    color: #000000;
+}
+
+.downloads__sec2{
+    height: fit-content;
+    width: 100%;
+    background-image: url('./../../assets/image/nav_img/nav_background_img.svg');
+    background-color:#375992;
+    padding-top: 2rem;
+    padding-bottom:2rem ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.downloads__sec3{
+    height:fit-content;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+.downloads__sec3__head{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 49px;
+    text-transform: capitalize;
+    color: #374E91;
+}
+
+.downloads__sec3__card{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 0rem;
+    padding-bottom:2rem ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:1500px)
+{
+    .downloads__inner__inner{
+        width:90%;
+    }
+    .downloads__inner__inner__crousal{
+        width: 90%;
+    }
+}
+
+@media screen and (min-width:1700px)
+{
+    .downloads__inner__inner{
+        width:80%;
+    }
+    .downloads__inner__inner__crousal{
+        width:80%;
+    }
+}
+
+@media screen and (min-width:2000px)
+{
+    .downloads__inner__inner{
+        width:70%;
+    }
+    .downloads__inner__inner__crousal{
+        width:70%;
+    }
+}
+
+
+@media screen and (min-width:2100px)
+{
+    .downloads__inner__inner{
+        width:65%;
+    }
+    .downloads__inner__inner__crousal{
+        width:65%;
+    }
+}
+
+@media screen and (min-width:2462px)
+{
+    .downloads__inner__inner__crousal{
+        width:55%;
+    }
+    .downloads__inner__inner{
+        width:55%;
+    }
+}
+
+@media screen and (max-width:1104px)
+{
+    .downloads__sec1__bottom__left__1{
+        margin:0.4rem 0rem 0.4rem 0rem;
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 29px;
+    }
+    
+    .downloads__sec1__bottom__left__2{
+        margin:0.4rem 0rem 0.4rem 0rem;
+        font-weight: 500;
+        font-size: 16px;
+    }
+    .downloads_head_logo{
+        width: 260px;
+        height: 260px;
+        background-color: white;
+    }
+}
+
+@media screen and (max-width:923px)
+{
+    .downloads__sec1__bottom__left__1{
+        margin:0.4rem 0rem 0.4rem 0rem;
+        font-weight: 900;
+        font-size: 22px;
+        line-height: 25px;
+    }
+    
+    .downloads__sec1__bottom__left__2{
+        margin:0.4rem 0rem 0.4rem 0rem;
+        font-weight: 500;
+        font-size: 14px;
+    }
+    .downloads_head_logo{
+        width: 200px;
+        height: 200px;
+        background-color: white;
+    }
+    .downloads__sec1__bottom__left{
+        width: 49%;
+    }
+    .downloads__sec1__bottom__right{
+        width: 49%;
+    }
+    .downloads__sec1__bottom__right__inner__each1{
+        font-weight: 800;
+        font-size: 12px;
+    }
+    .downloads__sec1__bottom__right__inner__each2{
+        font-weight: 800;
+        font-size: 11px;
+    }
+}
+
+@media screen and (max-width:767px)
+{
+    .downloads__sec1__bottom{
+        flex-wrap: wrap-reverse;
+        justify-content: center;
+
+    }
+    .downloads__sec1__bottom__left{
+        width: 98%;
+    }
+    .downloads__sec1__bottom__right{
+        width: 100%;
+        margin-bottom: 2rem;
+    }
+    .downloads__sec1__bottom__right__inner__left{
+        display: none;
+    }
+    .downloads__sec1__bottom__right__inner__left2{
+        display: flex;
+    }
+    .downloads__sec1__head__right__inner{
+        padding: 8px;
+        padding-left: 0.6rem;
+        padding-right: 0.6rem;
+        font-size: 13px;
+    }
+    .downloads__sec3__head{
+        font-weight: 800;
+        font-size: 25px;
+        line-height: 29px;
+    }
+}

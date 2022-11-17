@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "heading": "Was ist Lorem Ipsum empfohlen10",
+    "date": "2022-10-19T18:30:00.000Z",
+    "time": "14:13:21",
+    "info": "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie. Lorem Ipsum ist seit dem 16. Jahrhundert der branchenübliche Blindtext, seit dem 15. Jahrhundert der branchenübliche Blindtext",
+    "link": "hier verlinken",
+    "img": "home3.jpg"
+  },
+  {
+    "id": 2,
+    "heading": "Prüfung 1",
+    "date": "2022-10-29T18:30:00.000Z",
+    "time": "18:49:00",
+    "info": "Testen des eingestellten vollen Werts der Post-Anforderung",
+    "link": "testLink",
+    "img": "zurück11.png"
+  }
+]

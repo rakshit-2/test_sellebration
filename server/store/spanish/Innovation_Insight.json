@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "info": "Lorem Ipsum es simplemente un texto ficticio",
+    "img": null
+  },
+  {
+    "id": 2,
+    "info": "3 Lorem Ipsum es simplemente un texto ficticio",
+    "img": null
+  },
+  {
+    "id": 3,
+    "info": "mensaje de texto área de texto innovación",
+    "img": "casa4.jpg"
+  }
+]

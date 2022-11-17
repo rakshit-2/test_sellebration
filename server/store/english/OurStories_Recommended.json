@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "heading": "What is Lorem Ipsum recomended10",
+    "date": "2022-10-19T18:30:00.000Z",
+    "time": "14:13:21",
+    "info": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, the industry's standard dummy text ever since the 1500s",
+    "link": "link here",
+    "img": "home3.jpg"
+  },
+  {
+    "id": 2,
+    "heading": "test1",
+    "date": "2022-10-29T18:30:00.000Z",
+    "time": "18:49:00",
+    "info": "testing the set full value of the post request",
+    "link": "testLink",
+    "img": "back11.png"
+  }
+]

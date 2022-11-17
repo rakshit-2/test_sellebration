@@ -1,0 +1,19 @@
+.homecard2__each{
+    width:100%;
+    height:fit-content;
+    margin-bottom: 2rem;
+}
+.homecard2__each__heading{
+    width:100%;
+    font-size: 18px;
+    font-weight: 600;
+    color: #2F528E;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 1rem;
+}
+.homecard2__each__content{
+    width:100%;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}

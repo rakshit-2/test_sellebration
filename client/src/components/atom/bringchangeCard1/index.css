@@ -1,0 +1,24 @@
+.bringchangecard1__outer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:1rem
+}
+
+.bringchangecard1__image{
+    width: 190px;
+    height: 130px;
+}
+
+
+.bringchangecard1__title{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}

@@ -1,0 +1,71 @@
+.contactus__inner__seaction1{
+    width:100%;
+    height:40rem;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+}
+.contactus__inner__seaction1__img{
+    width:100%;
+    height:100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('./../../assets/image/backtest.jpg');
+}
+.contactus__inner__seaction1__inner{
+    width:90%;
+    height:10rem;
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 36px;
+    letter-spacing: 0.05em;
+    color: #2F528E;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1030px)
+{
+    .contactus__inner__seaction1{
+        height:20rem;
+    }
+}
+
+@media screen and (max-width:1330px)
+{
+    .contactus__inner__seaction1{
+        height:30rem;
+    }
+}
+
+@media screen and (max-width:710px)
+{
+    .contactus__inner__seaction1{
+        height:18rem;
+    }
+    .contactus__inner__seaction1__inner{
+        height:5rem;
+        margin-bottom: 0.5rem;
+        font-weight: 800;
+        font-size: 25px;
+    }
+}

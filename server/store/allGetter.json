@@ -1,0 +1,139 @@
+
+{
+    "english":[
+        {
+            "query":"select * from OurStories_Recommended;",
+            "name":"/english/OurStories_Recommended.json"
+        },
+        {
+            "query":"select * from OurStories_Leadership;",
+            "name":"/english/OurStories_Leadership.json"
+        },
+        {
+            "query":"select * from OurStories_Csr;",
+            "name":"/english/OurStories_Csr.json"
+        },
+        {
+            "query":"select * from OurStories_Sustainability;",
+            "name":"/english/OurStories_Sustainability.json"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        ,
+        {
+            "query":"select * from Home_LatestNews order by date desc;",
+            "name":"/english/Home_LatestNews.json"
+        }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        ,
+        {
+            "query":"select * from Leadership_Director;",
+            "name":"/english/Leadership_Director.json"
+        },
+        {
+            "query":"select * from Leadership_Head;",
+            "name":"/english/Leadership_Head.json"
+        },
+        {
+            "query":"select * from Leadership_Leader;",
+            "name":"/english/Leadership_Leader.json"
+        },
+        {
+            "query":"select * from Leadership_Vanguard;",
+            "name":"/english/Leadership_Vanguard.json"
+        }
+        
+        
+        
+        
+        
+        
+        ,
+        {
+            "query":"select * from event order by date desc;",
+            "name":"/english/event.json"
+        },
+        {
+            "query":"select * from mediarelease order by date asc;",
+            "name":"/english/mediarelease.json"
+        },
+        {
+            "query":"select * from pressreport order by date asc;",
+            "name":"/english/pressreport.json"
+        },
+        {
+            "query":"select * from stories order by date asc;",
+            "name":"/english/stories.json"
+        }
+        
+        
+        
+        
+        
+        ,
+        {
+            "query":"select * from investor_update order by id asc;",
+            "name":"/english/investor_update.json"
+        },
+        {
+            "query":"select id,name,info from investor_Company order by id asc;",
+            "name":"/english/investor_Company.json"
+        }
+        
+        
+        
+        
+        ,
+        {
+            "query":"select * from Innovation_Insight order by id asc;",
+            "name":"/english/Innovation_Insight.json"
+        },
+        {
+            "query":"select * from Innovation_Card order by id asc;",
+            "name":"/english/Innovation_Card.json"
+        }
+    
+        
+        
+        
+        ,
+        {
+            "query":"select * from Download_Log ;",
+            "name":"/english/Download_Log.json"
+        },
+        {
+            "query":"select * from Download_Company ;",
+            "name":"/english/Download_Company.json"
+        }
+        
+        
+        
+        
+        
+        ,
+        {
+            "query":"select * from Women_Leadership_Redefining_Boundaries;",
+            "name":"/english/Women_Leadership_Redefining_Boundaries.json"
+        },
+        {
+            "query":"select * from Women_Leadership_Better_Together order by id asc;",
+            "name":"/english/Women_Leadership_Better_Together.json"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "heading": "que es liderazgo1",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 2,
+    "heading": "que es liderazgo2",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 3,
+    "heading": "que es liderazgo 3",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 4,
+    "heading": "¿Qué es el liderazgo4?",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 5,
+    "heading": "¿Qué es el liderazgo?5",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 6,
+    "heading": "¿Qué es el liderazgo 6",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 7,
+    "heading": "¿Qué es el liderazgo 7",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 8,
+    "heading": "¿Qué es el liderazgo 8",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 9,
+    "heading": "¿Qué es el liderazgo 9",
+    "date": "2022-09-01T18:30:00.000Z",
+    "time": "14:30:20",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI.",
+    "link": "enlace aquí",
+    "img": null
+  },
+  {
+    "id": 10,
+    "heading": "prueba 1",
+    "date": "2022-10-30T18:30:00.000Z",
+    "time": "19:49:21",
+    "info": "cuadro de área de texto de información de prueba aquí 1ra prueba",
+    "link": "enlace prueba1",
+    "img": "casa4.jpg"
+  }
+]

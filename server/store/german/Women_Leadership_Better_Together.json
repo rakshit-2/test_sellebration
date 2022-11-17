@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "img": null,
+    "name": "1 Geschichte selbst",
+    "info": "1Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie."
+  },
+  {
+    "id": 2,
+    "img": null,
+    "name": "2 Die Überlieferung selbst",
+    "info": "2Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie."
+  },
+  {
+    "id": 3,
+    "img": "home7.jpg",
+    "name": "Prüfung 1",
+    "info": "tetsing better together info"
+  }
+]

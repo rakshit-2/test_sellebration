@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+
+
+
+
+
+.BusinessBrand__outer{
+width: 100%;
+height: fit-content;
+}
+
+.BusinessBrand__inner{
+width: 100%;
+height: 100%;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+}
+.BusinessBrand__sec1{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background-color: rgba(149, 148, 149, 0.238);
+   
+}
+.BusinessBrand__sec1__inner{
+    height: 100%;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items:flex-start;
+    padding-bottom: 5rem;
+}
+.BusinessBrand__sec1__head{
+    width: 100%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: flex-start;
+    font-size: 2rem;
+    color: #2F528E;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.BusinessBrand__sec1__content{
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: flex-start;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.BusinessBrand__sec1__buttons{
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    height: fit-content;
+}
+
+.BusinessBrand__sec1__button{
+    text-decoration: none;
+    width:9rem;
+    padding: 10px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    margin-right: 10px;
+    min-width: 7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background-color: #0AB1EE;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+
+.BusinessBrand__sec2{
+    height: fit-content;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    margin-bottom: 5rem;
+}
+.BusinessBrand__sec2__inner{
+    height: fit-content;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.BusinessBrand__sec2__head{
+    padding: 3rem 0 3rem 0;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    align-items: center;
+    width:100%;
+    height: fit-content;
+}
+
+
+
+.BusinessBrand__sec2__head__left{
+    border-radius: 20px;
+    padding: 0.5rem 1rem 0.5rem 1rem ;
+    width:30rem;
+    height: fit-content;
+    background-color: #84D8F7;
+    font-family: 'Montserrat';
+    font-size: 1rem;
+    font-weight: 600;
+    /* line-height: 35px; */
+    outline: none;
+    border:none;
+    letter-spacing: 0.05em;
+    text-align: left;
+}
+.BusinessBrand__sec2__head__right{
+    margin-left: 4rem;
+    width:fit-content;
+    height:fit-content;
+    padding-left: 20px;
+    
+}
+.BusinessBrand__sec2__head__right__field{
+    width:20rem;
+    height:2rem;
+    border-radius: 20px;
+    padding-left: 20px;
+    border:2px solid #D9D9D9;
+    outline:none;
+    background: #fff url("./../../assets/image/navbar_img/navbar_searchicon_img.svg") no-repeat;
+    background-position: 93%; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1rem;
+    line-height: 35px;
+}
+
+.BusinessBrand__sec2__base{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.BusinessBrand__sec2__base__outer{
+    width:30rem;
+    height:30rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #D9D9D9;
+}
+.BusinessBrand__sec2__base__left{
+    height: 90%;
+    width: 85%;
+    padding-top:1rem;
+    padding-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+
+/* scroll bar*/
+
+/* width */
+.BusinessBrand__sec2__base__left::-webkit-scrollbar {
+    width: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+  
+/* Track */
+.BusinessBrand__sec2__base__left::-webkit-scrollbar-track {
+    background: transparent;
+    box-shadow: inset 0 0 20px #7B7B7B;
+    border-radius: 4px;
+    border-left: 1.5px solid transparent;
+    border-right: 1.5px solid transparent;
+}
+  
+/* Handle */
+.BusinessBrand__sec2__base__left::-webkit-scrollbar-thumb {
+    background: #576A9F;
+    padding:2rem;
+    border-radius: 4px;
+}
+
+
+  
+
+
+
+.BusinessBrand__sec2__base__right{
+    width:35rem;
+    height:fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding:5px;
+}
+.BusinessBrand__sec2__base__right__top{
+    width:100%;
+    height:10rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+.BusinessBrand__sec2__base__right__top__img{
+    width:100%;
+    height:100%;
+}
+.BusinessBrand__sec2__base__right__text{
+    width:100%;
+    height:fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 35px;
+    letter-spacing: 0.05em;
+    text-transform: capitalize;
+    color: rgba(0, 0, 0, 0.7);
+}
+.BusinessBrand__sec2__base__right__out{
+    width: 100%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+}
+.BusinessBrand__sec2__base__right__rmore{
+    width:7rem;
+    padding:10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: white;
+    background-color: #0AB1EE;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.BusinessBrand__sec2__base__right__product{
+    width:100%;
+    height:fit-content;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+.BusinessBrand__sec2__base__right__product__head{
+    width:100%;
+    height:fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 35px;
+    letter-spacing: 0.05em;
+    color: rgba(0, 0, 0, 0.77);
+    margin-bottom: 5px;
+}
+.BusinessBrand__sec2__base__right__product__base{
+    width:100%;
+    height:fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.BusinessBrand__sec2__base__right__product__base__each{
+    width:fit-content;
+    height:3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+.BusinessBrand__sec2__base__right__product__base__each__left{
+    width:18px;
+    height: 18px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7B7B7B;
+    margin-right: 1rem;
+}
+.BusinessBrand__sec2__base__right__product__base__each__right{
+    width:fit-content;
+    height: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 0.05em;
+    color: rgba(0, 0, 0, 0.77);
+}
+
+.BusinessBrand__search__field{
+    width:20rem;
+    height:1.7rem;
+    border-radius: 20px;
+    padding-left: 20px;
+    font-size: 15px;
+    border:2px solid grey;
+    outline:none;
+    background: #fff url("./../../assets/image/navbar_img/navbar_searchicon_img.svg") no-repeat;
+    background-position: 93%; 
+}

@@ -1,0 +1,40 @@
+.homecard1__each{
+    margin-left: auto;
+    margin-right: auto;
+    width:310px;
+    height:fit-content;
+    border-radius: 10px;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 2rem;
+    color: white;
+    background-color: #2F528E;
+}
+.homecard1__each__img{
+    width:100%;
+    height:150px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #C7C7C7;
+}
+.homecard1__each__heading{
+    width:85%;
+    height:fit-content;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+.homecard1__each__para{
+    width:85%;
+    height:fit-content;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}

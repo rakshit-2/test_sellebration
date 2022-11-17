@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "info": "Lorem Ipsum は単なるダミーテキストです",
+    "img": null
+  },
+  {
+    "id": 2,
+    "info": "3 Lorem Ipsum は単なるダミーテキストです",
+    "img": null
+  },
+  {
+    "id": 3,
+    "info": "テキストメッセージ テキストエリア イノベーション インサイト",
+    "img": "home4.jpg"
+  }
+]

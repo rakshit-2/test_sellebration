@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Empresa2",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI,"
+  },
+  {
+    "id": 2,
+    "name": "Empresa3",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI,"
+  },
+  {
+    "id": 3,
+    "name": "Empresa4",
+    "info": "Lorem Ipsum es simplemente un texto ficticio de la industria de la impresión y la composición tipográfica. Lorem Ipsum ha sido el texto ficticio estándar de la industria desde el siglo XVI, el texto ficticio estándar de la industria desde el siglo XVI,"
+  },
+  {
+    "id": 4,
+    "name": "prueba 1",
+    "info": "empresa inversora de información de prueba"
+  }
+]

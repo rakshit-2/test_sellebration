@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "info": "2Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist der Standard-Dummy-Text der Branche",
+    "img": null,
+    "name": "2 die Überlieferung selbst"
+  },
+  {
+    "id": 2,
+    "info": "3Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist der Standard-Dummy-Text der Branche",
+    "img": null,
+    "name": "3 die Überlieferung selbst"
+  },
+  {
+    "id": 3,
+    "info": "4Lorem Ipsum ist einfach ein Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist der Standard-Dummy-Text der Branche",
+    "img": null,
+    "name": "4 die Überlieferung selbst"
+  },
+  {
+    "id": 4,
+    "info": "Überprüfungstest 1 Karteninnovations-Postanfrage",
+    "img": "home5.jpg",
+    "name": "test1 Karteninnovation"
+  }
+]

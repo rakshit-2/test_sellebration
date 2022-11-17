@@ -1,0 +1,33 @@
+.businessbrandCard1__outer{
+    width:95%;
+    height: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid grey;
+}
+.businessbrandCard1__outer:hover{
+    background-color: #576A9F;
+}
+
+.businessbrandCard1__inner{
+    width:90%;
+    padding-right: 2rem;
+    height: fit-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 35px;
+    padding-bottom: 5px;
+    letter-spacing: 0.05em;
+    color: rgba(0, 0, 0, 0.77);
+}
+

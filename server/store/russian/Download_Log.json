@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "name": "Лорем Ипсум1",
+    "img": null,
+    "zip": null,
+    "size": "ZIP 3.07 МБ1"
+  },
+  {
+    "id": 1,
+    "name": "Лорем Ипсум2",
+    "img": null,
+    "zip": null,
+    "size": "ZIP-архив 3,07 МБ2"
+  },
+  {
+    "id": 2,
+    "name": "Лорем Ипсум3",
+    "img": null,
+    "zip": null,
+    "size": "ZIP-архив 3,07 МБ3"
+  },
+  {
+    "id": 3,
+    "name": "Лорем Ипсум4",
+    "img": null,
+    "zip": null,
+    "size": "ZIP 3.07 МБ4"
+  },
+  {
+    "id": 4,
+    "name": "Лорем Ипсум5",
+    "img": null,
+    "zip": null,
+    "size": "ZIP 3.07 МБ5"
+  },
+  {
+    "id": 5,
+    "name": "Лорем Ипсум6",
+    "img": null,
+    "zip": null,
+    "size": "ZIP 3,07 МБ6"
+  }
+]

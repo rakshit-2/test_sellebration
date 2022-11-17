@@ -1,0 +1,49 @@
+.innovationCard1__outer{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: fit-content;
+    width: 400px;
+}
+
+.innovationCard1__img{
+    height: 200px;
+    width: 95%;
+    padding-top:1rem ;
+    padding-bottom: 1rem;
+}
+
+.innovationCard1__title{
+    height: fit-content;
+    width: 95%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 1rem;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+}
+
+
+@media screen and (max-width:1142px)
+{
+    .innovationCard1__outer{
+        width: 320px;
+    }
+}
+@media screen and (max-width:430px)
+{
+    .innovationCard1__title{
+        text-align: center;
+        font-size: 16px;
+    }
+    .innovationCard1__outer{
+        width: 290px;
+    }
+}

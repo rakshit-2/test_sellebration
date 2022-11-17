@@ -1,0 +1,140 @@
+.mediareleasecard1__outer{
+    width:100%;
+    height:fit-content;
+    margin-bottom:4rem;
+}
+.mediareleasecard1__outer__date{
+    width:100%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 1rem;
+}
+.mediareleasecard1__outer__date__left{
+    width:fit-content;
+    height: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #000000;
+    margin-right: 1rem;
+}
+.media__line{
+    width:1px;
+    height:1.8rem;
+    margin-right: 1rem;
+    background-color: #000000;
+}
+.mediareleasecard1__outer__date__right{
+    width:fit-content;
+    height: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    text-transform: capitalize;
+    color: #000000;
+}
+.mediareleasecard1__outer__text{
+    width:100%;
+    height: fit-content;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 29px;
+    text-transform: capitalize;
+    color: #374E91;
+    margin-bottom: 1rem;
+
+}
+.mediareleasecard1__outer__button{
+    width:fit-content;
+    padding: 12px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    min-width: 6rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 10px;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background-color: #0AB1EE;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.mediareleasecard1__share__icon{
+    width:15px;
+    height:15px;
+}
+
+
+
+
+
+
+
+@media screen and (max-width:1124px)
+{
+    .mediareleasecard1__outer__date__left{
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .mediareleasecard1__outer__text{
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .mediareleasecard1__outer__button{
+        padding: 10px;
+        padding-left: 1rem;
+        padding-right: 1rem;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 10px
+    }
+    .mediareleasecard1__share__icon{
+        width:10px;
+        height:10px;
+    }
+}
+
+
+@media screen and (max-width:531px)
+{
+    .mediareleasecard1__outer__date{
+        flex-wrap: wrap;
+    }
+    .mediareleasecard1__outer__date__left{
+        width:100%;
+        font-size: 16px;
+    }
+    .media__line{
+        display: none;
+    }
+    .mediareleasecard1__outer__date__right{
+        width:100%;
+        margin-top: 0.5rem;
+        font-size: 17px;
+        font-weight: 800;
+    }
+}
+
+
+
+
+
+
+
