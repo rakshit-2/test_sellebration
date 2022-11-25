@@ -84,7 +84,7 @@ const Innovation=(props)=>{
         <div className='innovation_inner'>
 
        
-                <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+                <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
                 <div className='innovation__sec1'>
                     <div className='innovation__sec1__top'>
                         <img src={innovation_back} style={{width:"100%",height:"100%",position:"absolute"}}/>

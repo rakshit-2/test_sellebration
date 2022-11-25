@@ -22,7 +22,7 @@ return (
     <div className="vision__outer">
         <div className="vision__inner">
             
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
 
             <VisionValueSection1/>
 

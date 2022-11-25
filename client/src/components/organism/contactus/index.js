@@ -190,7 +190,7 @@ const ContactUs=(props)=>{
     <div className="contactus__outer">
         <div className="contactus__inner">
 
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
             
             <ContactUsSection1/>
             

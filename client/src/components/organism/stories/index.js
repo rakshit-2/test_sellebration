@@ -219,7 +219,7 @@ const Stories=(props)=>{
     <>
     <div className="stories__outer">
         <div className="stories__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
             
             
             <div className="stories__inner__section1">

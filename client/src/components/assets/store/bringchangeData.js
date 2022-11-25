@@ -1,9 +1,9 @@
-import ic from './../../assets/image/bringchange_img/bringchange_img2.svg';
-import image from './../../assets/image/bringchange_img/bringchange_img4.svg';
+import ic from './../image/bringchange_img/bringchange_img2.svg';
+import image from './../image/bringchange_img/bringchange_img4.svg';
 import img1 from './../image/test.png'
 import img2 from './../image/test1.png';
 
-const BringChangeData ={
+const BringChangeData={
     buttonData:[
         {id:0,title:"lorem"},
         {id:1,title:"ipsum"},

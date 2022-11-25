@@ -1,0 +1,219 @@
+{
+    "english":
+    {
+        "home":
+        {
+           "0":"Our Stories",
+           "1":"View All",
+           "2":"Latest news",
+           "3":"View All",
+           "4":"View More Videos"
+        },
+        "leadership":
+        {
+            "0":"View Profile",
+            "1":"Chairman’s message",
+            "2":"Business Directors",
+            "3":"Business Heads",
+            "4":"Senior Leaders",
+            "5":"The Vanguard",
+            "6":"Bussiness Directors",
+            "7":"Business Heads",
+            "8":"Senior Leaders",
+            "9":"The Vanguard",
+            "10":""
+        }
+    },
+    "spanish":{ 
+        "home":
+        {
+            "0": "Nuestras historias",
+            "1": "Ver todo",
+            "2": "Últimas noticias",
+            "3": "Ver todo",
+            "4": "Ver más vídeos"
+        },
+        "leadership":
+        {
+            "0": "Ver perfil",
+            "1": "mensaje del presidente",
+            "2": "Directores de Negocios",
+            "3": "jefes de negocios",
+            "4": "Altos dirigentes",
+            "5": "la vanguardia",
+            "6": "Directores de Negocios",
+            "7": "jefes de negocios",
+            "8": "Altos dirigentes",
+            "9": "la vanguardia",
+            "10": ""
+          }    
+    },
+    "french":{
+        "home":
+        {
+            "0": "Nos histoires",
+            "1": "Voir tout",
+            "2": "Dernières nouvelles",
+            "3": "Voir tout",
+            "4": "Afficher plus de vidéos"
+        },
+        "leadership":
+        {
+            "0": "Voir le profil",
+            "1": "Message du président",
+            "2": "Directeurs d'entreprise",
+            "3": "Chefs d'entreprise",
+            "4": "Cadres supérieurs",
+            "5": "L'avant-garde",
+            "6": "Directeurs d'entreprise",
+            "7": "Chefs d'entreprise",
+            "8": "Cadres supérieurs",
+            "9": "L'avant-garde",
+            "10": ""
+          }
+    },
+    "chinese":{
+        "home":
+        {
+            "0": "我们的故事",
+            "1": "查看全部",
+            "2": "最新消息",
+            "3": "查看全部",
+            "4": "查看更多视频"
+        },
+        "leadership":{
+            "0": "查看资料",
+            "1": "董事长致辞",
+            "2": "业务总监",
+            "3": "业务负责人",
+            "4": "高层领导",
+            "5": "先锋队",
+            "6": "业务总监",
+            "7": "业务负责人",
+            "8": "高层领导",
+            "9": "先锋队",
+            "10": ""
+          }
+    },
+    "russian":{
+        "home":
+        {
+            "0": "Наши истории",
+            "1": "Посмотреть все",
+            "2": "Последние новости",
+            "3": "Посмотреть все",
+            "4": "Посмотреть больше видео"
+        },
+        "leadership":
+        {
+            "0": "Просмотреть профиль",
+            "1": "Сообщение председателя",
+            "2": "Бизнес-директора",
+            "3": "Руководители бизнеса",
+            "4": "Старшие руководители",
+            "5": "Авангард",
+            "6": "Бизнес-директора",
+            "7": "Руководители бизнеса",
+            "8": "Старшие руководители",
+            "9": "Авангард",
+            "10": ""
+          }
+    },
+    "german":{
+        "home":
+        {
+            "0": "Unsere Geschichten",
+            "1": "Alle ansehen",
+            "2": "Neuesten Nachrichten",
+            "3": "Alle ansehen",
+            "4": "Weitere Videos anzeigen"
+        },
+        "leadership":
+        {
+            "0": "Profil anzeigen",
+            "1": "Botschaft des Vorsitzenden",
+            "2": "Geschäftsleiter",
+            "3": "Geschäftsleiter",
+            "4": "Ältere Führungskräfte",
+            "5": "Die Avantgarde",
+            "6": "Geschäftsleiter",
+            "7": "Geschäftsleiter",
+            "8": "Ältere Führungskräfte",
+            "9": "Die Avantgarde",
+            "10": ""
+          }
+    },
+    "portuguese":{
+        "home":
+        {
+            "0": "Nossas histórias",
+            "1": "Ver tudo",
+            "2": "Últimas notícias",
+            "3": "Ver tudo",
+            "4": "Ver mais vídeos"
+        },
+        "leadership":
+        {
+            "0": "Ver perfil",
+            "1": "mensagem do presidente",
+            "2": "Diretores de Negócios",
+            "3": "Chefes de Negócios",
+            "4": "Líderes seniores",
+            "5": "A Vanguarda",
+            "6": "Diretores de Negócios",
+            "7": "Chefes de Negócios",
+            "8": "Líderes seniores",
+            "9": "A Vanguarda",
+            "10": ""
+          }
+    },
+    "japnese":{
+        "home":
+        {
+            "0": "私たちのストーリー",
+            "1": "すべて見る",
+            "2": "最新ニュース",
+            "3": "すべて見る",
+            "4": "もっとビデオを見る"
+        },
+        "leadership":
+        {
+        "0": "プロフィールを見る",
+        "1": "会長メッセージ",
+        "2": "ビジネスディレクター",
+        "3": "事業責任者",
+        "4": "シニアリーダー",
+        "5": "ヴァンガード",
+        "6": "ビジネスディレクター",
+        "7": "事業責任者",
+        "8": "シニアリーダー",
+        "9": "ヴァンガード",
+        "10": ""
+        }
+    },
+    "hindi":{
+        "home":
+        {
+            "0": "हमारी कहानियाँ",
+            "1": "सभी को देखें",
+            "2": "ताज़ा खबर",
+            "3": "सभी को देखें",
+            "4": "और वीडियो देखें"
+        },
+        "leadership":
+        {
+            "0": "प्रोफ़ाइल देखें",
+            "1": "अध्यक्ष का संदेश",
+            "2": "व्यापार निदेशक",
+            "3": "व्यापार प्रमुख",
+            "4": "वरिष्ठ नेता",
+            "5": "मोहरा",
+            "6": "व्यापार निदेशक",
+            "7": "व्यापार प्रमुख",
+            "8": "वरिष्ठ नेता",
+            "9": "मोहरा",
+            "10": ""
+        }
+    }
+    
+}

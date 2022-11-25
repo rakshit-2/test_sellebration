@@ -193,7 +193,7 @@ return (
     <>
     <div className="mediarelease__outer">
         <div className="mediarelease__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
             <div className="mediarelease__inner__section1">
                 <div className='mediarelease__back__img'>
 

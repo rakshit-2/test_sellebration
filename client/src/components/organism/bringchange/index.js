@@ -1,7 +1,8 @@
 
 import './index.css';
-import BringChangeData from '../../assets/store/bringchangeData.js';
+import BringChangeData from './../../assets/store/bringchangeData.js';
 import img from './../../assets/image/test.png';
+import { useNavigate,useLocation  } from 'react-router-dom';
 import Navbar from './../NavBar/index';
 import button_image from './../../assets/image/bringchange_img/bringchange_img.svg';
 import BringChangeCard1 from '../../atom/bringchangeCard1';
@@ -14,7 +15,7 @@ import Carousel from "react-multi-carousel";
 const BringChange=(props)=>{
 
   // scroll to top
-
+  const location = useLocation();
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -40,11 +41,27 @@ const BringChange=(props)=>{
       slidesToSlide: 1
     }
   };
+
+
+    function langChange()
+    {
+        return;
+    }
+
+    if(props.routeName==="/bringchange")
+    {
+        langChange();
+        props.changeRouteName();
+    }
+
+
+
+
 return (
     <>
     <div className="bringchange__outer">
         <div className="bringchange__inner">
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang} name={location.pathname}/>
             <div className='bringchange__inner__inner'>
 
                 

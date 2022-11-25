@@ -94,7 +94,7 @@ return (
     <>
     <div className="inverstor__outer">
         <div className="investor__inner">
-                <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+                <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
                 
                 <div className="investor__inner__section1">
                     <div className="investor__inner__section1__inner">

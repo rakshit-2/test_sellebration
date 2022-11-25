@@ -88,7 +88,7 @@ const Downloads=(props)=>{
     return (<>
         <div className='downloads__outer'>
             <div  className='downloads__inner'>
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
                 
                 <div className='downloads__inner__inner'>
                         

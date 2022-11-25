@@ -103,10 +103,16 @@ const NavBar=(props)=>{
             <input type="text" placeholder="Search..." className="navbar__search__field"/>
           </div>
           <div className="navbar__right__select">
-            <select className="navbar__language__select">
-              <option className="navbar__language__option">English</option>
-              <option className="navbar__language__option">German</option>
-              <option className="navbar__language__option">Polish</option>
+            <select className="navbar__language__select" value={props.lang} onChange={(e)=>{props.changeLang(e.target.value,props.name)}}>
+              <option className="navbar__language__option" value={"english"}>English</option>
+              <option className="navbar__language__option" value={"german"}>German</option>
+              <option className="navbar__language__option" value={"spanish"}>Spanish</option>
+              <option className="navbar__language__option" value={"hindi"}>Hindi</option>
+              <option className="navbar__language__option" value={"russian"}>Russian</option>
+              <option className="navbar__language__option" value={"chinese"}>Chinese</option>
+              <option className="navbar__language__option" value={"french"}>French</option>
+              <option className="navbar__language__option" value={"portuguese"}>Portuguese</option>
+              <option className="navbar__language__option" value={"japnese"}>Japanese</option>
             </select>
           </div>
         </div>

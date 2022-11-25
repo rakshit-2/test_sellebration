@@ -44,7 +44,7 @@ const OurProfile=(props)=>{
     <>
         <div className="OurProfile__outer">
           <div className="OurProfile__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
             <div className='OurProfile__inner__inner'> 
                 <div className="OurProfile__about">
                   <div className="OurProfile__about__left"  data-aos="fade-right">

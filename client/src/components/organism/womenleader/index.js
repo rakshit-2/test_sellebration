@@ -94,7 +94,7 @@ return (
     <div className="womenleader__outer">
         <div className="womenleader__inner">
           
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
             <div className="womenleader__sec1">
                 <Carousel 
                 responsive={responsive} 

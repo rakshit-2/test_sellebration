@@ -22,7 +22,7 @@ return (
     <>
     <div className='milestone__outer'>
         <div className='milestone__inner'>
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
             <div className='milestone__inner__section1'>
                 <div className='milestone__inner__section1__inner'>
                     <div className='milestone__inner__section1__left'>

@@ -2,8 +2,9 @@
 import './index.css';
 import Axios from 'axios';
 import {useState,useEffect} from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate,useLocation  } from 'react-router-dom';
 
+import staticModale from './../../assets/store/staticModel.json';
 
 import ApiLink from './../../assets/store/apiLink';
 import Carousel from "react-multi-carousel";
@@ -26,6 +27,7 @@ const Home=(props)=>{
 
 
     const navigate = useNavigate();
+    const location = useLocation();
   // scroll to top
 
   useEffect(() => {
@@ -53,10 +55,14 @@ const Home=(props)=>{
 
     function getterOurStories(x,i)
     {
+        var ele=props.lang;
+        ele=ele.toString();
         Axios.get(ApiLink+'/home/our-stories/OurStories',
         {
+            
         params:{
             name:x,
+            language:ele
         }
         }).then((res)=>{
         if(i==0)
@@ -79,26 +85,30 @@ const Home=(props)=>{
         
         });
     }
-    useEffect(() => {
+
+    function getSection1()
+    {
         var lis=["recommended",'leadership','csr','sustainability']
         for(var i=0;i<4;i++)
         {
-        getterOurStories(lis[i],i);
+            getterOurStories(lis[i],i);
         }
-       
+    }
+    useEffect(() => {
+        
+       getSection1();
     }, []);
-
-
-
-
-
-
 
     function getterLatestNews()
     {
+        var ele=props.lang;
+        ele=ele.toString();
         Axios.get(ApiLink+'/home/latest-news',
         {
-            test:"test",
+            params:{
+                language:ele,
+            }
+
         }).then((res)=>{
             setLatestNews(res.data);
             setLoadingLatestNews(false);
@@ -136,11 +146,31 @@ const Home=(props)=>{
     }
 
 
+
+
+
+
+
+
+
+
+    function langChange()
+    {
+        getSection1();
+        getterLatestNews();
+    }
+
+    if(props.routeName==="/")
+    {
+        langChange();
+        props.changeRouteName()
+    }
+
     return (
         <>
         <div className="home__outer">
             <div className="home__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname}/>
             <div className="home__inner__section1">
                 <div className="home__inner__section1__img__outer">
                     <img src={map} className="home__inner__section1__img"/>
@@ -150,7 +180,7 @@ const Home=(props)=>{
                     
                     <div className="home__inner__section2" data-aos="fade-up"> 
                         <div className="home__inner__section2__heading">
-                            Our Stories
+                        {staticModale[props.lang].home[0]}
                         </div>
                         <div className="home__inner__section2__panel">
                             <div className="home__inner__section2__panel__left">
@@ -183,7 +213,7 @@ const Home=(props)=>{
                             </div>
                             <div className="home__inner__section2__panel__right">
                                 <div className="home__inner__section2__panel__right__button" onClick={()=>{navigate('/stories')}}>
-                                    View All
+                                {staticModale[props.lang].home[1]}
                                 </div>
                             </div>
                         </div>
@@ -218,7 +248,7 @@ const Home=(props)=>{
                     </div>
                     <div className="home__inner__section3">
                         <div className="home__inner__section3__heading" data-aos="fade-up">
-                            Latest news
+                            {staticModale[props.lang].home[2]}
                         </div>
                         <div className='home__inner__section3__display' >
                             <div className='home__inner__section3__display__left' data-aos="fade-right">
@@ -258,7 +288,7 @@ const Home=(props)=>{
                             }
                             <div className='home__inner__section3__viewmore'>
                                 <div className='home__inner__section3__viewmorebutton' onClick={()=>{navigate('/mediarelease')}}>
-                                    View All
+                                {staticModale[props.lang].home[3]}
                                 </div>
                             </div>
                             </div>
@@ -266,7 +296,7 @@ const Home=(props)=>{
                                 <iframe className='home__inner__section3__display__right__vid' src="https://www.youtube.com/embed/HlWISmjCfb8" title="Kanye West - Heartless (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 <div className='home__inner__section3__display__right__vidbottom'>
                                     <div className='home__inner__section3__display__right__vidbottom__button'>
-                                        View More Videos
+                                    {staticModale[props.lang].home[4]}
                                     </div>
                                 </div>
                             </div>

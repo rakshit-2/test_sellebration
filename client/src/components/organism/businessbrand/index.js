@@ -6,9 +6,11 @@ import BusinessBrandData from '../../assets/store/businessbrandData';
 import BusinessbBandCard1 from '../../atom/businessbrandCard1';
 import test from './../../assets/image/test.png'
 import { useState,useEffect} from 'react';
+import { useNavigate,useLocation  } from 'react-router-dom';
 
 const BusinessBrand=(props)=>{
-
+    const navigate = useNavigate();
+    const location = useLocation();
 
   // scroll to top
 
@@ -40,11 +42,26 @@ const BusinessBrand=(props)=>{
         }
         setCount(count+1);
     }
+
+    function langChange()
+    {
+        return;
+    }
+
+    if(props.routeName==="/bussinessbrand")
+    {
+        langChange();
+        props.changeRouteName();
+    }
+
+
+
+
 return (
     <>     
     <div className="BusinessBrand__outer">
         <div className="BusinessBrand__inner">
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
             <div className="BusinessBrand__sec1">
                 <div className="BusinessBrand__sec1__inner">
                     <div className="BusinessBrand__sec1__head">

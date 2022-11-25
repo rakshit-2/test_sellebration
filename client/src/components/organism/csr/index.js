@@ -35,7 +35,7 @@ return (
     <>
     <div className="csr__outer">
         <div className="csr__inner">
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
 
             <CsrSection1/>
 

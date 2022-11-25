@@ -216,7 +216,7 @@ return (
     <>
     <div className="pressreport__outer">
         <div className="pressreport__inner">
-                <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+                <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
                 <div className="pressreport__inner__section1">
                     <div className="pressreport__inner__section1__inner">
                         <div className="pressreport__inner__section1__inner__top">

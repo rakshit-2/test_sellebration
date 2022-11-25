@@ -4,7 +4,6 @@ import Nabvbar from './../NavBar/index';
 import Axios from 'axios';
 import ApiLink from '../../assets/store/apiLink';
 import {useState,useEffect} from 'react';
-import { useNavigate } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
 import img from './../../assets/image/backtest.jpg';
 import Carousel from "react-multi-carousel";
@@ -14,18 +13,21 @@ import LeaderShipData from './../../assets/store/LeadershipData';
 import Footer from './../../molecule/footer/index';
 import LoadingScreen from '../../atom/loadingScreen';
 import profile from './../../assets/image/profile.png';
+import { useNavigate,useLocation  } from 'react-router-dom';
+import staticModale from './../../assets/store/staticModel.json';
 
 
 const Leadership=(props)=>{
 
 
     const navigate = useNavigate();
+    const location = useLocation();
     // scroll to top
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
 
-
+    
 
     
     const[director,setDirector]=useState([])
@@ -41,6 +43,7 @@ const Leadership=(props)=>{
         {
         params:{
             name:x,
+            language:props.lang,
         }
         }).then((res)=>{
         if(i==0)
@@ -63,12 +66,18 @@ const Leadership=(props)=>{
         
         });
     }
-    useEffect(() => {
+
+
+    function getAllData()
+    {
         var li=["director",'head','leader','vanguard']
         for(var i=0;i<4;i++)
         {
             getterLeadership(li[i],i);
         }
+    }
+    useEffect(() => {
+        getAllData();
     }, []);
 
     const[val,setVal]=useState("");
@@ -108,19 +117,37 @@ const Leadership=(props)=>{
         slidesToSlide: 1
         }
     };
+
+
+    function langChange()
+    {
+        getAllData();
+        return;
+    }
+
+    if(props.routeName==="/leadership")
+    {
+        langChange();
+        props.changeRouteName();
+    }
+
+
+
+
+
 return (
     <>
     <div className='leadership__outer'>
         <div className='leadership__inner'>
-            <Nabvbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+            <Nabvbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}  name={location.pathname}/>
             <div className='leadership__inner__seaction1' >
                 <img src={img} className="leadership__top__image"/>
                 <div className='leadership__inner__seaction1__inner'>
                     <div className='leadership__inner__seaction1__button' onClick={()=>{navigate('/ourprofile')}}>
-                        View Profile
+                        {staticModale[props.lang].leadership[0]}
                     </div>
                     <HashLink to='/visionvalue#message' smooth  className='leadership__inner__seaction1__button'>
-                        Chairman’s message
+                        {staticModale[props.lang].leadership[1]}
                     </HashLink>
                 </div>
             </div>
@@ -139,7 +166,7 @@ return (
                 <div className='leadership__inner__seaction3'>
                     <p id="0"></p>
                     <div className="leadership__inner__seaction3__innerheading">
-                        Bussiness Directors
+                    {staticModale[props.lang].leadership[2]}
                     </div>
                     <div className="leadership__inner__seaction3__innerdisplay" data-aos="fade-up">
                         {
@@ -187,7 +214,7 @@ return (
                     </div>
                     <p id="1"></p><br></br><br></br>
                     <div className="leadership__inner__seaction3__innerheading">
-                        Business Heads
+                    {staticModale[props.lang].leadership[3]}
                     </div>
                     <div className="leadership__inner__seaction3__innerdisplay" data-aos="fade-up"> 
                         {
@@ -235,7 +262,7 @@ return (
                     </div>
                     <p id="2"></p><br></br><br></br>
                     <div className="leadership__inner__seaction3__innerheading" >
-                        Senior Leaders
+                        {staticModale[props.lang].leadership[4]}
                     </div>
                     <div className="leadership__inner__seaction3__innerdisplay" data-aos="fade-up">
                         {
@@ -283,11 +310,11 @@ return (
                     </div>
                     <p id="3"></p><br></br><br></br>
                     <div className="leadership__inner__seaction3__innerheading">
-                        The Vanguard
+                        {staticModale[props.lang].leadership[5]}
                     </div>
                     <div className="leadership__inner__seaction3__innerdisplayv" data-aos="fade-up">
                         <div className='leadership__inner__seaction3__innerdisplay__text'>
-                            {LeaderShipData.TheVanguardText.text}
+                            {staticModale[props.lang].leadership[6]}
                         </div>
                         <div className='leadership__inner__seaction3__innerdisplay__dis'>
                         {

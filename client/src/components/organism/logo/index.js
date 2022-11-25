@@ -22,7 +22,7 @@ return (
     <>
     <div className='logo__outer'>
         <div className='logo__inner'>
-        <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}/>
+        <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
         <div className='logo__inner__inner'>
             <div className='logo__sec1'>
                 <div className='logo__sec1__inner'>
