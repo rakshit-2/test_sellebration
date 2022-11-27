@@ -22,7 +22,116 @@
             "8":"Senior Leaders",
             "9":"The Vanguard",
             "10":""
-        }
+        },
+        "privacy":
+        [
+            {
+                "head":"GENERAL TERMS OF USE: ",
+                "text":
+                [
+                    "Please devour these terms and conditions of use attentively before using this website. If you do not agree to all these Terms and conditions of use, restrict yourself from using this website. Sellebration may amend these Terms and Conditions from time to time. Your regular usage of website is contemplated as an implied acceptance of the changes and that you concur to stay confirm of these terms and conditions.",
+                    "The terms and conditions set forth underneath (The “TERMS”) as well as those accommodated in the privacy policy of the website exercise control over your use of the website on the world wide web and are legitimately binding on you. If you cease to agree with any of these terms, please do not access or otherwise use this website or any information curbed on the website. Your use of the website shall be deemed to be your understanding of and agreement to each of the terms and conditions mentioned underneath."
+                ]
+            },
+            {
+                "head":"WEBSITE USER RESTRICTIONS:",
+                "text":
+                [
+                    "All the particulars and information and materials on this website, inclusive of text, trademarks, logo, graphics, and images (The “Materials”), are the copyrighted works and other forms of intellectual property of Sellebration or third forces who have authorized use of the materials on the website, Sellebration vouchsafes you only the limited license to exhibit the materials on your personal computer or personal wireless device, and to facsimile and download such materials, provided that, any copyright, trademark or other notice coming into sight on such materials also kept by, showed, facsimiled, or downloaded as part of the materials and is not detected abstrused such exhibition, copy or download is used solely for your confidential information. Such materials may not be disseminated, transmitted, showed or scattered by any means or for any purpose. You acknowledge and concur that you have no right to nor will you alter or modify, edit or enhance any of the materials in any manner. This limited right terminates impulsively unescorted by any notice to you, if you violate any of the terms upon termination of this limited right of display, user concurs to instantly erase or otherwise destroy any downloaded and printed materials. Except as expressly started herein, you acknowledge that you have no hold on the legitimate right or title or interest or to the materials other than a limited against right of display."
+                ]
+            },
+            {
+                "head":"THIRD FORCE CONTENT:",
+                "text":[
+                    "Sellebration has no specified prior review process or editorial control over the third forces content. Any school of thought, guidance, affirmations, services, offers or other information or content indicated or made available by third parties, inclusive of information providers, members, or any other user of this website, are those of the respective parties and not necessarily those for Sellebration. Neither Sellebration nor any other third-party provider of information swears to the accuracy, completeness, or usefulness of any third force content, nor its merchantability or robustness for any particular purpose."
+                ]
+            },
+            {
+                "head":"LINKS TO AND FROM THIRD FORCE’S SITES:",
+                "text":[
+                    "There may be links orthodoxed between this Website and other websites on the world wide web or internet which are not under our command or benchmarked by Sellebration Private Limited. Such links do not necessarily account for an endorsement by Sellebration of those websites. Sellebration tackles no obligation to keep track of these websites, and the user concurs that Sellebration is not at the helm of content of such websites, or any technical or other problems linked with any such third-party website, links or usage. You further concur that if you establish link from any other website to the website, you will spontaneously discontinuous such link upon receiving written notice from Sellebration of its remonstration to any such link."
+                ]
+            },
+            {
+                "head":"FEEDBACK:",
+                "text":["The user feedback and data capitulated is guarded by privacy laws as per requirement changes in Terms and conditions and changes in website Sellebration may in its solitary discretion and at interims of its sole choosing, upgrade this website and the website use policies linked with them at any time and without prior notice. It is the liability of each user to keep track of such changes, and to determine whether or not to endure to access and use the website based upon any such changes."]
+            },
+            {
+                "head":"TERMINATION:",
+                "text":["User’s access to website will be subject to Sellebration’s authorization to access the website. Sellebration reserves the right to end user’s access to the website at any time without notice, for any reason (including but not limited to if you violate these terms) or for no reason. While Sellebration’s preferred course of action is to instruct you of your inappropriate behavior and put forward any necessary corrective measures, Sellebration does not represent that it will, nor it is required to either actively monitor such behavior or to provide such notice to you. Sellebration’s right to terminate user’s access is in addition to all other legal or equitable reforms available to Sellebration- hereunder, which rights are fully and expressly reserved by Sellebration. Upon termination of this agreement for any incentive, user shall cease to use or further access any website’s content or services and be accountable for any unauthorized attempts to do so via any means."]
+            },
+            {
+                "head":"PROPRIETARY MATERIALS AGREEMENT:",
+                "text":
+                [
+                    "You acknowledge that all the materials provided on this website are the proprietary property of Sellebration or companies with Sellebration Groups and are sheltered by copyright, trade secret, and other applicable laws in the respective jurisdiction.",
+                    "You have the restricted right to display the materials on your personal computer, and to copy and download the materials provided that:", 
+                    "1) any copyright and trademark notifications appearing on such materials are also exhibited, facsimiled or downloaded as part of the materials, and are not removed, moved, or obscured, and",
+                    "2) such display, copy or download is solely for your private informational utilization. The restricted right to access, display and use of the website terminates spontaneously, without notice to you, if you breach any of these terms.",
+                    "You admit and concur that you have no right to modify, edit, alter, or enhance any of the materials in any manner. The materials may not be dispersed, transmitted or scatter in any manner, for any commercial purpose unless expressly authorized to so by Sellebration in advance and in written. You concur not to use the stuff in any way that would compromise the proprietary nature of the stuff. Without restricting all the foregoing, you concur not to provide the materials themselves, either reproduced or modified, or anything derived from the materials, either orally or in written, as a part of seminar, training program, workshop, consulting, or indistinguishable business activity which you make obtainable to your clients or to others, except with the prior in paper consent of Sellebration.",
+                    "Except as expressly stated herein, you understand that you have no privilege, title, or interest of any kind on any legal basis in or to the materials upon termination of this limited license or usage, you concur to spontaneously destroy any downloaded or printed materials that you may have in your possession or control."
+                ]
+            },
+            {
+                "head":"NO AGENCY OR PARTNERSHIP:",
+                "text":["The parties are maverick contractors. Neither party may direct or administer the frequent activities of the other; neither party may create or assume any legal obligation in aid of the other."]
+            },
+            {
+                "head":"NOTICES:",
+                "text":[
+                    "Sellebration may provide notice to user via email provided on user’s registration form or such other address provided by user to Sellebration. User shall provide notice to Sellebration via email to hello@sellebration.ltd., with a replica sent via to the address on the user’s registration form."
+                ]
+            },
+            {
+                "head":"ENTIRE AGREEMENT, SEVERABILITY, NO UNINTERNATIONAL WAIVER:",
+                "text":[
+                    "This Agreement, including the Website’s Privacy Policy and Disclaimer, account for the entire user agreement between user and Sellebration, and supersedes any previous agreements or understandings between user and Sellebration. No alteration or modification hereof will be valid or binding upon either party unless made in writing and signed by the authorized emissary of both parties."
+                ]
+            },
+            {
+                "head":"NO THIRD-PARTY BENEFICIARIES:",
+                "text":[
+                    "User understands and concurs that this Agreement shall in no scenario be constructed as a third-party beneficiary contract, and that it is not intended for benefit of any person or company or whomsoever except the parties hereto."
+                ]
+            },
+            {
+                "head":"ASSIGNMENT:",
+                "text":
+                [
+                    "Sellebration may designate any or all of its rights and commitment hereunder to any party without the prior consent of or notice of user."
+                ]
+            },
+            {
+                "head":"GOVERNING LAW:",
+                "text":[
+                    "The parties agree that any dissension or claim arising out of or relating to this Agreement or the breach thereof, shall be governed by and elucidated in accordance with laws of India and parties capitulate to the exclusive jurisdiction of the courts of Haryana."
+                ]
+            },
+            {
+                "head":"DISCLAIMER OF WARRANTIES:",
+                "text":[
+                    "You as a user of the website acknowledge and concur that Sellebration has no accountability for any errors or exclusions in the website, including in the materials, whether provided by Sellebration or third parties. You further acknowledge and agree that Sellebration makes no warranty or representation of any kind as to the availability of the website or portions thereof, that the website or portions thereof may be inaccessible for various time periods (whether due to internet Service provider problems or otherwise) and that Sellebration shall have no accountability for any unavailability of or inaccuracy in the website or the materials. User will endure all risk analogous with any content that user accesses. User accessing of any content made available by or through www.sellebration.ltd. and third parties is subject to your agreement to this provision and these Terms and conditions."
+                ]
+            },
+            {
+                "head":"DISCLAIMER NOTICE:",
+                "text":[
+                    "ALL SERVICES PROVIDED THROUGH THIS WEBSITE ARE PROVIDED “AS IS” WITH NO WARRANTIES WHATSOEVER. ALL EXPRESS, IMPLIED AND JUDICIAL WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR RESOLUTION AND NON-INFRINGEMENT, ARE EXPRESSLY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW, SELLEBRATION DISCLAIMS ANY WARRANTIES FOR THE SECURITY, RELIABILITY, TIMELINESS AND PRESENTATION OF THIS SERVICE. SELLEBRATION DISCLAIMS ANY WARRANTIES FOR OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THIS WEBSITE OR RECEIVED THROUGH ANY LINKS PROVIDED IN THIS WEBSITE AS WELL AS ANY INFORMATION OR ADVICE RECEIVED THROUGH THE WEBSITE, AS WELL AS FOR ANY INFORMATION OR ADVICE RECEIVED THROUGH THE WEBSITE OR THROUGH ANY LINKS PROVIDED IN THE WEBSITE. SELLEBRATION SIMILARLY DISCLAIMS ANY WARRANTIES FOR ANY INFORMATION OR ADVICE OBTAINED THROUGH THE SITE.",
+                    "YOU ACKNOWLEDGE AND CONCUR THAN ANY STUFF DOWNLOADED OR OTHERWISE ACQUIRED THROUGH THE USE OF THE PRODUCTS AND SERVICES IS DONE AT YOUR OWN CIRCUMSPECTION AND RISK, AND THAT YOU WILL BE EXCLUSIVELY RESPONSIBLE FOR ANY DAMAGES TO YOUR COMPUTER SYSTEM OR MISLAY OF DATA THAT MAY RESULT IN THE DOWNLOAD OF SUCH STUFF.",
+                    "UNDER NO SET OF AFFAIRS SHALL SELLEBRATION BE ACCOUNTABLE TO ANY USER ON ACCOUNT OF THAT USER’S USE OR MISUSE OF AND/OR RELIANCE ON THE WEBSITE, OR ITS ASSOCIATED PRODUCTS AND SERVICES. USER EXPRESSLY AGREES THAT SUCH LIMITATION OF CHARGABILITY SHALL APPLY TO PREVENT RECOVERY OF DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY AND PUNITIVE DAMAGES (EVEN IF SELLEBRATION HAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). SUCH DAMPDOWN OF LIABILITY SHALL APPLY WHETHER THE DESTRUCTION ARISE FROM USE OR MISUSE OF AND RELIANCE ON THE WEBSITE, PRODUCTS OR SERVICES, FROM INABILITY TO USE THE WEBSITE, OR FROM THE INTERRUPTION, ADJOURNMENT OR TERMINATION OF THE WEBSITES OR DAMAGES INCURRED BY REASON OF OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THIS SERVICE OR RECEIVED THROGH ANY LINKS PROVIDED ON THIS WEBSITE, AS WELL AS BY REASON OF ANY PARTICULARS OR ADVICE RECEIVED THROUGH OR ADVERTISED ON THE SERVICES, OR RECEIVED THROGH ANY LINKS PROVIDED IN THE PRODUCTS AND SERVICES."
+                ]
+            },
+            {
+                "head":"INDEMNITIES:",
+                "text":[
+                    "By using this website, user concurs to reimburse and defend Sellebration and its parents, subsidiaries, affiliates, directors, officers, consultants, and employees and hold them harmless from any and all claims and expenses including attorney’s fees, arising from user’s misuse of this website or service."
+                ]
+            },
+            {
+                "head":"QUESTIONS, COMMENTS OR QUERIES:",
+                "text":["If you possess any questions, comments or doubts, notices about the website or this Agreement, please feel free to contact us at hello@sellebration.ltd."]
+            }
+        ]
     },
     "spanish":{ 
         "home":
@@ -46,7 +155,119 @@
             "8": "Altos dirigentes",
             "9": "la vanguardia",
             "10": ""
-          }    
+          },
+          "privacy": [
+            {
+              "head": "CONDICIONES GENERALES DE USO:",
+              "text": [
+                "Lea atentamente estos términos y condiciones de uso antes de utilizar este sitio web. Si no está de acuerdo con todos estos Términos y condiciones de uso, restrinja el uso de este sitio web. Sellebration puede modificar estos Términos y condiciones de vez en cuando. Su uso regular del sitio web se contempla como una aceptación implícita de los cambios y que está de acuerdo en permanecer firme de estos términos y condiciones.",
+                "Los términos y condiciones establecidos a continuación (los \"TÉRMINOS\"), así como los incluidos en la política de privacidad del sitio web, ejercen control sobre su uso del sitio web en la red mundial y son legítimamente vinculantes para usted. Si deja de estar de acuerdo con cualquiera de estos términos, no acceda ni utilice de otro modo este sitio web ni ninguna información restringida en el sitio web. Su uso del sitio web se considerará como su comprensión y aceptación de cada uno de los términos y condiciones mencionados a continuación."
+              ]
+            },
+            {
+              "head": "RESTRICCIONES DE USUARIO DEL SITIO WEB:",
+              "text": [
+                "Todos los detalles, la información y los materiales de este sitio web, incluido el texto, las marcas comerciales, el logotipo, los gráficos y las imágenes (los \"Materiales\"), son obras protegidas por derechos de autor y otras formas de propiedad intelectual de Sellebration o de terceros que han autorizado el uso de los materiales en el sitio web, Sellebration le otorga solo la licencia limitada para exhibir los materiales en su computadora personal o dispositivo inalámbrico personal, y para enviar por fax y descargar dichos materiales, siempre que, cualquier derecho de autor, marca comercial u otro aviso que aparezca a la vista en dichos materiales también conservado, mostrado, facsímil o descargado como parte de los materiales y no se detecta abstruso de que dicha exhibición, copia o descarga se utilice únicamente para su información confidencial. Dichos materiales no pueden ser difundidos, transmitidos, mostrados o esparcidos por ningún medio o para ningún propósito. Usted reconoce y acepta que no tiene derecho ni alterará, modificará, editará o mejorará ninguno de los materiales de ninguna manera. Este derecho limitado finaliza impulsivamente sin que le acompañe ningún aviso, si viola cualquiera de los términos al finalizar este derecho limitado de visualización, el usuario accede a borrar o destruir instantáneamente cualquier material descargado e impreso. Salvo que se indique expresamente en este documento, usted reconoce que no tiene control sobre el derecho o título o interés legítimo o sobre los materiales que no sea un derecho limitado de exhibición."
+              ]
+            },
+            {
+              "head": "CONTENIDO DE LA TERCERA FUERZA:",
+              "text": [
+                "Sellebration no tiene ningún proceso de revisión previo especificado ni control editorial sobre el contenido de terceros. Cualquier escuela de pensamiento, orientación, afirmaciones, servicios, ofertas u otra información o contenido indicado o puesto a disposición por terceros, incluidos proveedores de información, miembros o cualquier otro usuario de este sitio web, son de las respectivas partes y no necesariamente de los para Sellebration. Ni Sellebration ni ningún otro tercero proveedor de información garantiza la exactitud, integridad o utilidad de cualquier contenido de terceros, ni su comerciabilidad o robustez para ningún propósito en particular."
+              ]
+            },
+            {
+              "head": "ENLACES HACIA Y DESDE LOS SITIOS DE TERCERA FUERZA:",
+              "text": [
+                "Puede haber enlaces ortodoxos entre este sitio web y otros sitios web en la World Wide Web o Internet que no están bajo nuestro control o no están evaluados por Sellebration Private Limited. Dichos enlaces no representan necesariamente un respaldo por parte de Sellebration de esos sitios web. Sellebration no asume ninguna obligación de realizar un seguimiento de estos sitios web, y el usuario acepta que Sellebration no está al mando del contenido de dichos sitios web, ni de ningún problema técnico o de otro tipo relacionado con dichos sitios web, enlaces o uso de terceros. Además, acepta que si establece un enlace desde cualquier otro sitio web al sitio web, suspenderá espontáneamente dicho enlace al recibir un aviso por escrito de Sellebration de su protesta a dicho enlace."
+              ]
+            },
+            {
+              "head": "RETROALIMENTACIÓN:",
+              "text": [
+                "Los comentarios de los usuarios y los datos capitulados están protegidos por las leyes de privacidad según los cambios de requisitos en los Términos y condiciones y los cambios en el sitio web. tiempo y sin previo aviso. Es responsabilidad de cada usuario realizar un seguimiento de dichos cambios y determinar si desea o no acceder y utilizar el sitio web en función de dichos cambios."
+              ]
+            },
+            {
+              "head": "TERMINACIÓN:",
+              "text": [
+                "El acceso del usuario al sitio web estará sujeto a la autorización de Sellebration para acceder al sitio web. Sellebration se reserva el derecho de acceso del usuario final al sitio web en cualquier momento sin previo aviso, por cualquier motivo (incluido, entre otros, si viola estos términos) o sin motivo alguno. Si bien el curso de acción preferido de Sellebration es instruirlo sobre su comportamiento inapropiado y presentar las medidas correctivas necesarias, Sellebration no declara que lo hará, ni está obligado a monitorear activamente dicho comportamiento o proporcionarle dicho aviso. El derecho de Sellebration a rescindir el acceso del usuario se suma a todas las demás reformas legales o equitativas disponibles para Sellebration, en virtud del presente, cuyos derechos se reservan total y expresamente por Sellebration. Al finalizar este acuerdo por cualquier incentivo, el usuario dejará de usar o acceder más al contenido o los servicios de cualquier sitio web y será responsable de cualquier intento no autorizado de hacerlo por cualquier medio."
+              ]
+            },
+            {
+              "head": "ACUERDO DE MATERIALES PROPIETARIOS:",
+              "text": [
+                "Usted reconoce que todos los materiales provistos en este sitio web son propiedad exclusiva de Sellebration o de compañías con Sellebration Groups y están protegidos por derechos de autor, secretos comerciales y otras leyes aplicables en la jurisdicción respectiva.",
+                "Tiene el derecho restringido de visualizar los materiales en su computadora personal y de copiar y descargar los materiales siempre que:",
+                "1) todas las notificaciones de derechos de autor y marcas comerciales que aparecen en dichos materiales también se exhiben, se envían por fax o se descargan como parte de los materiales y no se eliminan, mueven ni ocultan, y",
+                "2) dicha visualización, copia o descarga es únicamente para su uso informativo privado. El derecho restringido de acceso, visualización y uso del sitio web finaliza espontáneamente, sin previo aviso, si incumple cualquiera de estos términos.",
+                "Usted admite y acepta que no tiene derecho a modificar, editar, alterar o mejorar ninguno de los materiales de ninguna manera. Los materiales no pueden dispersarse, transmitirse o diseminarse de ninguna manera, con ningún propósito comercial, a menos que Sellebration lo autorice expresamente por adelantado y por escrito. Estás de acuerdo en no usar el material de ninguna manera que comprometa la naturaleza patentada del material. Sin restringir todo lo anterior, acepta no proporcionar los materiales en sí mismos, ya sea reproducidos o modificados, o cualquier cosa derivada de los materiales, ya sea oralmente o por escrito, como parte de un seminario, programa de capacitación, taller, consultoría o actividad comercial indistinguible. que usted pone a disposición de sus clientes o de terceros, excepto con el consentimiento previo por escrito de Sellebration.",
+                "Salvo que se indique expresamente en este documento, usted comprende que no tiene ningún privilegio, título o interés de ningún tipo sobre ninguna base legal en los materiales al finalizar esta licencia o uso limitado, acepta destruir espontáneamente cualquier material descargado o impreso que usted puede tener en su posesión o control."
+              ]
+            },
+            {
+              "head": "SIN AGENCIA O ASOCIACIÓN:",
+              "text": [
+                "Las partes son contratistas inconformistas. Ninguna de las partes podrá dirigir o administrar las actividades frecuentes de la otra; ninguna de las partes puede crear o asumir ninguna obligación legal en ayuda de la otra."
+              ]
+            },
+            {
+              "head": "AVISOS:",
+              "text": [
+                "Sellebration puede notificar al usuario a través del correo electrónico proporcionado en el formulario de registro del usuario o cualquier otra dirección proporcionada por el usuario a Sellebration. El usuario deberá notificar a Sellebration por correo electrónico a hello@sellebration.ltd., con una réplica enviada a la dirección que figura en el formulario de registro del usuario."
+              ]
+            },
+            {
+              "head": "ACUERDO COMPLETO, DIVISIBILIDAD, SIN RENUNCIA NO INTERNACIONAL:",
+              "text": [
+                "Este Acuerdo, incluida la Política de privacidad y el Descargo de responsabilidad del sitio web, representa el acuerdo de usuario completo entre el usuario y Sellebration, y reemplaza cualquier acuerdo o entendimiento anterior entre el usuario y Sellebration. Ninguna alteración o modificación del presente será válida ni vinculante para ninguna de las partes a menos que se haga por escrito y esté firmada por el emisario autorizado de ambas partes."
+              ]
+            },
+            {
+              "head": "SIN TERCEROS BENEFICIARIOS:",
+              "text": [
+                "El usuario comprende y acepta que este Acuerdo en ningún caso se interpretará como un contrato de beneficiario de terceros, y que no está destinado al beneficio de ninguna persona o empresa, excepto las partes del presente."
+              ]
+            },
+            {
+              "head": "ASIGNACIÓN:",
+              "text": [
+                "Sellebration puede designar cualquiera o todos sus derechos y compromisos en virtud del presente a cualquier parte sin el consentimiento previo o aviso del usuario."
+              ]
+            },
+            {
+              "head": "LEY QUE RIGE:",
+              "text": [
+                "Las partes acuerdan que cualquier disensión o reclamo que surja de o esté relacionado con este Acuerdo o el incumplimiento del mismo, se regirá y aclarará de acuerdo con las leyes de la India y las partes capitularán ante la jurisdicción exclusiva de los tribunales de Haryana."
+              ]
+            },
+            {
+              "head": "RENUNCIA DE GARANTÍAS:",
+              "text": [
+                "Usted, como usuario del sitio web, reconoce y acepta que Sellebration no es responsable de ningún error o exclusión en el sitio web, incluidos los materiales, ya sean proporcionados por Sellebration o por terceros. Además, reconoce y acepta que Sellebration no ofrece garantía ni representación de ningún tipo en cuanto a la disponibilidad del sitio web o partes del mismo, que el sitio web o partes del mismo pueden ser inaccesibles durante varios períodos de tiempo (ya sea debido a problemas con el proveedor de servicios de Internet o de otra manera) y que Sellebration no será responsable de la falta de disponibilidad o inexactitud en el sitio web o los materiales. El usuario correrá todos los riesgos análogos con cualquier contenido al que acceda el usuario. El acceso del usuario a cualquier contenido puesto a disposición por oa través de www.sellebration.ltd. y terceros está sujeto a su aceptación de esta disposición y estos Términos y condiciones."
+              ]
+            },
+            {
+              "head": "AVISO DE DESCARGO DE RESPONSABILIDAD:",
+              "text": [
+                "TODOS LOS SERVICIOS PROPORCIONADOS A TRAVÉS DE ESTE SITIO WEB SE PROPORCIONAN \"TAL CUAL\" SIN NINGUNA GARANTÍA. TODAS LAS GARANTÍAS EXPLÍCITAS, IMPLÍCITAS Y JUDICIALES, INCLUIDAS, SIN LIMITACIÓN, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UNA RESOLUCIÓN PARTICULAR Y NO INFRACCIÓN, SE RENUNCIA EXPRESAMENTE EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY, SELLEBRATION RENUNCIA A CUALQUIER GARANTÍA DE SEGURIDAD, CONFIABILIDAD, PUNTUALIDAD Y PRESENTACIÓN DE ESTE SERVICIO. SELLEBRATION NIEGA CUALQUIER GARANTÍA POR OTROS SERVICIOS O BIENES RECIBIDOS A TRAVÉS DE O ANUNCIADOS EN ESTE SITIO WEB O RECIBIDOS A TRAVÉS DE CUALQUIER ENLACE PROPORCIONADO EN ESTE SITIO WEB, ASÍ COMO CUALQUIER INFORMACIÓN O CONSEJO RECIBIDO A TRAVÉS DEL SITIO WEB, ASÍ COMO POR CUALQUIER INFORMACIÓN O CONSEJO RECIBIDO A TRAVÉS DEL SITIO WEB O A TRAVÉS DE CUALQUIER ENLACE PROPORCIONADO EN EL SITIO WEB. SELLEBRATION SIMILARMENTE NIEGA CUALQUIER GARANTÍA POR CUALQUIER INFORMACIÓN O CONSEJO OBTENIDO A TRAVÉS DEL SITIO.",
+                "USTED RECONOCE Y ACEPTA QUE CUALQUIER MATERIAL DESCARGADO O ADQUIRIDO DE CUALQUIER OTRO MODO MEDIANTE EL USO DE LOS PRODUCTOS Y SERVICIOS SE REALIZA BAJO SU PROPIA CIRCUNSPECCIÓN Y RIESGO, Y QUE USTED SERÁ EL ÚNICO RESPONSABLE DE CUALQUIER DAÑO A SU SISTEMA INFORMÁTICO O ERROR DE DATOS QUE PUEDAN RESULTAR EN LA DESCARGA DE ESAS COSAS.",
+                "BAJO NINGÚN CONJUNTO DE ASUNTOS, SELLEBRATION SERÁ RESPONSABLE ANTE NINGÚN USUARIO POR EL USO O EL MAL USO Y/O LA CONFIANZA EN EL SITIO WEB O SUS PRODUCTOS Y SERVICIOS ASOCIADOS POR PARTE DE DICHO USUARIO. EL USUARIO ACEPTA EXPRESAMENTE QUE DICHA LIMITACIÓN DE CARGA SE APLICARÁ PARA EVITAR LA RECUPERACIÓN DE DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES, CONSECUENTES, ESPECIALES, EJEMPLARES Y PUNITIVOS (INCLUSO SI SELLEBRATION HA ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS). DICHA DISMINUCIÓN DE RESPONSABILIDAD SE APLICARÁ YA SEA QUE LA DESTRUCCIÓN SURJA DEL USO O MAL USO Y DE LA CONFIANZA EN EL SITIO WEB, PRODUCTOS O SERVICIOS, DE LA INCAPACIDAD DE UTILIZAR EL SITIO WEB, O DE LA INTERRUPCIÓN, SUSPENSIÓN O TERMINACIÓN DE LOS SITIOS WEB O DAÑOS INCURRIDO POR RAZÓN DE OTRO SERVICIOS O BIENES RECIBIDOS A TRAVÉS DE O ANUNCIADOS EN ESTE SERVICIO O RECIBIDOS A TRAVÉS DE CUALQUIER ENLACE PROPORCIONADO EN ESTE SITIO WEB, ASÍ COMO POR RAZÓN DE CUALQUIER DATO O CONSEJO RECIBIDO A TRAVÉS DE O ANUNCIADOS EN LOS SERVICIOS, O RECIBIDOS A TRAVÉS DE CUALQUIER ENLACE PROPORCIONADO EN LOS PRODUCTOS Y SERVICIOS."
+              ]
+            },
+            {
+              "head": "INDEMNIZACIONES:",
+              "text": [
+                "Al utilizar este sitio web, el usuario accede a reembolsar y defender a Sellebration y sus empresas matrices, subsidiarias, afiliadas, directores, funcionarios, consultores y empleados, y los exime de cualquier reclamo y gasto, incluidos los honorarios de abogados, que surjan del uso indebido de este sitio web por parte del usuario. o servicio."
+              ]
+            },
+            {
+              "head": "DUDAS, COMENTARIOS O CONSULTAS:",
+              "text": [
+                "Si tiene alguna pregunta, comentario o duda, avisos sobre el sitio web o este Acuerdo, no dude en contactarnos en hello@sellebration.ltd."
+              ]
+            }
+          ]
     },
     "french":{
         "home":
@@ -70,7 +291,119 @@
             "8": "Cadres supérieurs",
             "9": "L'avant-garde",
             "10": ""
-          }
+          },
+          "privacy": [
+            {
+              "head": "CONDITIONS GÉNÉRALES D'UTILISATION :",
+              "text": [
+                "Veuillez lire attentivement ces termes et conditions d'utilisation avant d'utiliser ce site Web. Si vous n'acceptez pas toutes ces conditions d'utilisation, limitez-vous à l'utilisation de ce site Web. Sellebration peut modifier ces Termes et Conditions de temps à autre. Votre utilisation régulière du site Web est considérée comme une acceptation implicite des modifications et que vous convenez de rester confirmer ces termes et conditions.",
+                "Les termes et conditions énoncés ci-dessous (les « TERMES ») ainsi que ceux contenus dans la politique de confidentialité du site Web exercent un contrôle sur votre utilisation du site Web sur le Web et vous lient légitimement. Si vous cessez d'être d'accord avec l'une de ces conditions, veuillez ne pas accéder ou utiliser autrement ce site Web ou toute information restreinte sur le site Web. Votre utilisation du site Web sera considérée comme votre compréhension et votre acceptation de chacun des termes et conditions mentionnés ci-dessous."
+              ]
+            },
+            {
+              "head": "RESTRICTIONS D'UTILISATION DU SITE WEB :",
+              "text": [
+                "Tous les détails, informations et matériaux sur ce site Web, y compris le texte, les marques, le logo, les graphiques et les images (les « Matériaux »), sont des œuvres protégées par le droit d'auteur et d'autres formes de propriété intellectuelle de Sellebration ou de tiers qui ont autorisé l'utilisation de les matériaux sur le site Web, Sellebration vous accorde uniquement la licence limitée pour exposer les matériaux sur votre ordinateur personnel ou appareil sans fil personnel, et pour télécopier et télécharger ces matériaux, à condition que, tout droit d'auteur, marque de commerce ou autre avis apparaissant sur ces matériaux également conservé par, montré, fac-similé ou téléchargé dans le cadre des matériaux et n'est pas détecté abstrus telle exposition, copie ou téléchargement est utilisé uniquement pour vos informations confidentielles. Ces matériaux ne peuvent être diffusés, transmis, montrés ou diffusés par quelque moyen ou à quelque fin que ce soit. Vous reconnaissez et convenez que vous n'avez aucun droit de modifier ou de modifier, d'éditer ou d'améliorer l'un des documents de quelque manière que ce soit. Ce droit limité prend fin impulsivement sans aucun avis, si vous violez l'une des conditions lors de la résiliation de ce droit d'affichage limité, l'utilisateur accepte d'effacer ou de détruire instantanément tout matériel téléchargé et imprimé. Sauf indication expresse contraire dans les présentes, vous reconnaissez que vous n'avez aucune emprise sur le droit, le titre ou l'intérêt légitime ou sur le matériel autre qu'un droit d'affichage limité."
+              ]
+            },
+            {
+              "head": "CONTENU DE LA TROISIÈME FORCE :",
+              "text": [
+                "Sellebration n'a pas de processus de révision préalable spécifié ni de contrôle éditorial sur le contenu des forces tierces. Toute école de pensée, conseils, affirmations, services, offres ou autres informations ou contenus indiqués ou mis à disposition par des tiers, y compris les fournisseurs d'informations, les membres ou tout autre utilisateur de ce site Web, sont ceux des parties respectives et pas nécessairement ceux pour Sellebration. Ni Sellebration ni aucun autre fournisseur tiers d'informations ne jure sur l'exactitude, l'exhaustivité ou l'utilité de tout contenu tiers, ni sur sa qualité marchande ou sa robustesse à des fins particulières."
+              ]
+            },
+            {
+              "head": "LIENS VERS ET DEPUIS LES SITES DE THIRD FORCE :",
+              "text": [
+                "Il peut y avoir des liens orthodoxes entre ce site Web et d'autres sites Web sur le World Wide Web ou Internet qui ne sont pas sous notre contrôle ou référencés par Sellebration Private Limited. De tels liens ne représentent pas nécessairement une approbation par Sellebration de ces sites Web. Sellebration n'assume aucune obligation de garder une trace de ces sites Web, et l'utilisateur convient que Sellebration n'est pas responsable du contenu de ces sites Web, ni de tout problème technique ou autre lié à ces sites Web tiers, liens ou utilisation. Vous convenez en outre que si vous établissez un lien à partir de tout autre site Web vers le site Web, vous interromprez spontanément ce lien dès réception d'un avis écrit de Sellebration de sa protestation à un tel lien."
+              ]
+            },
+            {
+              "head": "RETOUR D'INFORMATION:",
+              "text": [
+                "Les commentaires des utilisateurs et les données capitulées sont protégés par les lois sur la confidentialité conformément aux modifications des conditions d'utilisation et aux modifications du site Web. moment et sans préavis. Il est de la responsabilité de chaque utilisateur de suivre ces changements et de déterminer s'il doit accepter ou non l'accès et l'utilisation du site Web en fonction de ces changements."
+              ]
+            },
+            {
+              "head": "RÉSILIATION:",
+              "text": [
+                "L'accès de l'utilisateur au site Web sera soumis à l'autorisation de Sellebration d'accéder au site Web. Sellebration se réserve le droit d'autoriser l'accès de l'utilisateur final au site Web à tout moment et sans préavis, pour quelque raison que ce soit (y compris, mais sans s'y limiter, si vous violez ces conditions) ou sans raison. Bien que le plan d'action préféré de Sellebration soit de vous informer de votre comportement inapproprié et de proposer toutes les mesures correctives nécessaires, Sellebration ne déclare pas qu'elle le fera, ni qu'elle est tenue de surveiller activement un tel comportement ou de vous fournir un tel avis. Le droit de Sellebration de résilier l'accès de l'utilisateur s'ajoute à toutes les autres réformes légales ou équitables à la disposition de Sellebration - ci-dessous, dont les droits sont entièrement et expressément réservés par Sellebration. À la résiliation de cet accord pour toute incitation, l'utilisateur doit cesser d'utiliser ou d'accéder davantage au contenu ou aux services de tout site Web et sera responsable de toute tentative non autorisée de le faire par quelque moyen que ce soit."
+              ]
+            },
+            {
+              "head": "ACCORD SUR LES MATÉRIAUX PROPRIÉTAIRES :",
+              "text": [
+                "Vous reconnaissez que tous les éléments fournis sur ce site Web sont la propriété exclusive de Sellebration ou des sociétés des groupes Sellebration et sont protégés par le droit d'auteur, le secret commercial et d'autres lois applicables dans la juridiction respective.",
+                "Vous avez le droit limité d'afficher les documents sur votre ordinateur personnel et de copier et télécharger les documents à condition que :",
+                "1) toutes les notifications de droits d'auteur et de marques de commerce apparaissant sur ces matériaux sont également exposées, fac-similées ou téléchargées dans le cadre des matériaux, et ne sont pas supprimées, déplacées ou masquées, et",
+                "2) cet affichage, cette copie ou ce téléchargement est uniquement destiné à votre usage informatif privé. Le droit restreint d'accès, d'affichage et d'utilisation du site Web prend fin spontanément, sans préavis, si vous enfreignez l'une de ces conditions.",
+                "Vous reconnaissez et convenez que vous n'avez aucun droit de modifier, éditer, altérer ou améliorer l'un des matériaux de quelque manière que ce soit. Les matériaux ne peuvent être dispersés, transmis ou dispersés de quelque manière que ce soit, à des fins commerciales, sauf autorisation expresse préalable et écrite de Sellebration. Vous convenez de ne pas utiliser les éléments d'une manière qui compromettrait la nature exclusive des éléments. Sans restreindre tout ce qui précède, vous vous engagez à ne pas fournir les documents eux-mêmes, reproduits ou modifiés, ou quoi que ce soit dérivé des documents, oralement ou par écrit, dans le cadre d'un séminaire, d'un programme de formation, d'un atelier, d'un conseil ou d'une activité commerciale indiscernable. que vous mettez à la disposition de vos clients ou d'autres personnes, sauf accord écrit préalable de Sellebration.",
+                "Sauf indication expresse dans les présentes, vous comprenez que vous n'avez aucun privilège, titre ou intérêt de quelque nature que ce soit sur une base légale dans ou sur les matériaux à la résiliation de cette licence ou utilisation limitée, vous consentez à détruire spontanément tout matériel téléchargé ou imprimé qui que vous pourriez avoir en votre possession ou sous votre contrôle."
+              ]
+            },
+            {
+              "head": "PAS D'AGENCE NI DE PARTENARIAT :",
+              "text": [
+                "Les parties sont des entrepreneurs indépendants. Aucune des parties ne peut diriger ou administrer les activités fréquentes de l'autre ; aucune des parties ne peut créer ou assumer une quelconque obligation légale au profit de l'autre."
+              ]
+            },
+            {
+              "head": "AVIS :",
+              "text": [
+                "Sellebration peut fournir un avis à l'utilisateur par e-mail fourni sur le formulaire d'inscription de l'utilisateur ou à toute autre adresse fournie par l'utilisateur à Sellebration. L'utilisateur doit fournir un avis à Sellebration par e-mail à hello@sellebration.ltd., avec une réplique envoyée à l'adresse indiquée sur le formulaire d'inscription de l'utilisateur."
+              ]
+            },
+            {
+              "head": "INTÉGRALITÉ DE L'ACCORD, DIVISIBILITÉ, AUCUNE RENONCIATION INTERNATIONALE :",
+              "text": [
+                "Le présent accord, y compris la politique de confidentialité et la clause de non-responsabilité du site Web, représente l'intégralité de l'accord d'utilisation entre l'utilisateur et Sellebration, et remplace tout accord ou entente antérieur entre l'utilisateur et Sellebration. Aucune altération ou modification des présentes ne sera valide ou contraignante pour l'une ou l'autre des parties à moins qu'elle ne soit faite par écrit et signée par l'émissaire autorisé des deux parties."
+              ]
+            },
+            {
+              "head": "AUCUN TIERS BÉNÉFICIAIRE :",
+              "text": [
+                "L'utilisateur comprend et convient que le présent accord ne doit en aucun cas être interprété comme un contrat de tiers bénéficiaire et qu'il n'est pas destiné au bénéfice de toute personne ou entreprise ou de qui que ce soit, à l'exception des parties aux présentes."
+              ]
+            },
+            {
+              "head": "MISSION:",
+              "text": [
+                "Sellebration peut désigner tout ou partie de ses droits et engagements en vertu des présentes à toute partie sans le consentement préalable ou l'avis de l'utilisateur."
+              ]
+            },
+            {
+              "head": "DROIT APPLICABLE :",
+              "text": [
+                "Les parties conviennent que toute dissension ou réclamation découlant de ou liée au présent accord ou à la violation de celui-ci sera régie et élucidée conformément aux lois de l'Inde et les parties capitulent devant la compétence exclusive des tribunaux de l'Haryana."
+              ]
+            },
+            {
+              "head": "EXCLUSION DE GARANTIES:",
+              "text": [
+                "En tant qu'utilisateur du site Web, vous reconnaissez et convenez que Sellebration n'a aucune responsabilité pour les erreurs ou les exclusions du site Web, y compris dans les documents, qu'ils soient fournis par Sellebration ou des tiers. Vous reconnaissez et acceptez en outre que Sellebration ne donne aucune garantie ou représentation d'aucune sorte quant à la disponibilité du site Web ou de parties de celui-ci, que le site Web ou des parties de celui-ci peuvent être inaccessibles pendant diverses périodes (que ce soit en raison de problèmes de fournisseur de services Internet ou autrement) et que Sellebration décline toute responsabilité en cas d'indisponibilité ou d'inexactitude du site Web ou des documents. L'utilisateur supportera tous les risques analogues à tout contenu auquel l'utilisateur accède. L'utilisateur accède à tout contenu mis à disposition par ou via www.sellebration.ltd. et des tiers est soumise à votre acceptation de cette disposition et de ces Termes et conditions."
+              ]
+            },
+            {
+              "head": "AVIS DE NON-RESPONSABILITÉ :",
+              "text": [
+                "TOUS LES SERVICES FOURNIS PAR L'INTERMÉDIAIRE DE CE SITE WEB SONT FOURNIS « EN L'ÉTAT » SANS AUCUNE GARANTIE D'AUCUNE SORTE. TOUTES LES GARANTIES EXPRESSES, IMPLICITES ET JUDICIAIRES, Y COMPRIS, SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UNE RÉSOLUTION PARTICULIÈRE ET D'ABSENCE DE CONTREFAÇON, SONT EXPRESSÉMENT DÉCLINÉES DANS TOUTE LA MESURE AUTORISÉE PAR LA LOI. ET PRESENTATION DE CE SERVICE. SELLEBRATION DÉCLINE TOUTE GARANTIE POUR D'AUTRES SERVICES OU BIENS REÇUS VIA OU ANNONCÉS SUR CE SITE WEB OU REÇUS VIA LES LIENS FOURNIS SUR CE SITE WEB AINSI QUE TOUTE INFORMATION OU CONSEIL REÇU VIA LE SITE WEB, AINSI QUE POUR TOUTE INFORMATION OU CONSEIL REÇU VIA LE SITE WEB OU VIA TOUS LES LIENS FOURNIS SUR LE SITE WEB. DE MÊME, SELLEBRATION DÉCLINE TOUTE GARANTIE POUR TOUTE INFORMATION OU CONSEIL OBTENU PAR L'INTERMÉDIAIRE DU SITE.",
+                "VOUS RECONNAISSEZ ET CONVENEZ QUE TOUT ÉLÉMENT TÉLÉCHARGÉ OU AUTREMENT ACQUIS PAR L'UTILISATION DES PRODUITS ET SERVICES EST FAIT À VOTRE PROPRE CIRCONSPECTION ET À VOS PROPRES RISQUES, ET QUE VOUS SEREZ EXCLUSIVEMENT RESPONSABLE DE TOUT DOMMAGE À VOTRE SYSTÈME INFORMATIQUE OU PERTE DE DONNÉES QUI POURRAIENT ENTRAÎNER LE TÉLÉCHARGEMENT DE TELLES CHOSES.",
+                "SOUS AUCUN ENSEMBLE D'AFFAIRES, SELLEBRATION NE SERA RESPONSABLE ENVERS UN UTILISATEUR POUR L'UTILISATION OU LA MAUVAISE UTILISATION ET/OU LA CONFIANCE DE CET UTILISATEUR SUR LE SITE WEB, OU SES PRODUITS ET SERVICES ASSOCIÉS. L'UTILISATEUR ACCEPTE EXPRESSÉMENT QU'UNE TELLE LIMITATION DE CHARGABILITÉ S'APPLIQUERA POUR EMPÊCHER LA RÉCUPÉRATION DE DOMMAGES DIRECTS, INDIRECTS, ACCESSOIRES, CONSÉCUTIFS, SPÉCIAUX, EXEMPLAIRES ET PUNITIFS (MÊME SI SELLEBRATION A AVISÉ LA POSSIBILITÉ DE TELS DOMMAGES). CETTE RÉDUCTION DE RESPONSABILITÉ S'APPLIQUE QUE LA DESTRUCTION RÉSULTE DE L'UTILISATION OU DE LA MAUVAISE UTILISATION ET DE LA CONFIANCE À L'ÉGARD DU SITE WEB, DES PRODUITS OU DES SERVICES, DE L'INCAPACITÉ D'UTILISER LE SITE WEB OU DE L'INTERRUPTION, DE L'AJOURNEMENT OU DE LA RÉSILIATION DES SITES WEB OU DES DOMMAGES SUBIS EN RAISON D'AUTRES SERVICES OU BIENS REÇUS VIA OU ANNONCÉS SUR CE SERVICE OU REÇUS VIA TOUT LIENS FOURNIS SUR CE SITE WEB, AINSI QU'EN RAISON DE TOUTES INFORMATIONS OU CONSEILS REÇUS OU ANNONCÉS SUR LES SERVICES, OU REÇUS VIA TOUT LIENS FOURNIS DANS LES PRODUITS ET SERVICES."
+              ]
+            },
+            {
+              "head": "INDEMNITÉS :",
+              "text": [
+                "En utilisant ce site Web, l'utilisateur s'engage à rembourser et à défendre Sellebration et ses sociétés mères, filiales, sociétés affiliées, administrateurs, dirigeants, consultants et employés et à les tenir indemnes de toutes les réclamations et dépenses, y compris les honoraires d'avocat, résultant de l'utilisation abusive de ce site Web par l'utilisateur. ou service."
+              ]
+            },
+            {
+              "head": "QUESTIONS, COMMENTAIRES OU DEMANDES :",
+              "text": [
+                "Si vous avez des questions, des commentaires ou des doutes, des avis concernant le site Web ou le présent accord, n'hésitez pas à nous contacter à hello@sellebration.ltd."
+              ]
+            }
+          ]
     },
     "chinese":{
         "home":
@@ -93,7 +426,119 @@
             "8": "高层领导",
             "9": "先锋队",
             "10": ""
-          }
+          },
+        "privacy": [
+        {
+            "head": "一般使用条款：",
+            "text": [
+            "在使用本网站之前，请仔细阅读这些使用条款和条件。如果您不同意所有这些使用条款和条件，请限制自己使用本网站。 Sellebration 可能会不时修改这些条款和条件。您对网站的正常使用被认为是对更改的默示接受，并且您同意保持对这些条款和条件的确认。",
+            "下面规定的条款和条件（“条款”）以及网站隐私政策中包含的条款和条件对您在万维网上对网站的使用进行控制，并对您具有合法约束力。如果您不再同意这些条款中的任何一项，请不要访问或以其他方式使用本网站或网站上限制的任何信息。您对本网站的使用应被视为您理解并同意下面提到的每一项条款和条件。"
+            ]
+        },
+        {
+            "head": "网站用户限制：",
+            "text": [
+            "本网站上的所有细节、信息和材料，包括文本、商标、标识、图形和图像（“材料”），均为 Sellebration 或已授权使用的第三方的版权作品和其他形式的知识产权网站上的材料，Sellebration 仅授予您在个人计算机或个人无线设备上展示材料以及传真和下载此类材料的有限许可，前提是此类材料上出现任何版权、商标或其他通知也作为材料的一部分保存、展示、传真或下载，并且未被检测到，此类展示、复制或下载仅用于您的机密信息。不得以任何方式或出于任何目的传播、传送、展示或传播此类材料。您承认并同意您无权也不会以任何方式更改或修改、编辑或增强任何材料。如果您在终止此有限显示权时违反任何条款，则此有限权利会在没有通知您的情况下冲动终止，用户同意立即删除或以其他方式销毁任何下载和打印的材料。除非此处明确开始，否则您承认除了有限的展示权外，您对材料没有合法权利或所有权或利益。"
+            ]
+        },
+        {
+            "head": "第三力内容：",
+            "text": [
+            "Sellebration 没有指定的事先审查流程或对第三方内容的编辑控制。第三方（包括信息提供者、成员或本网站的任何其他用户）指示或提供的任何思想流派、指导、肯定、服务、要约或其他信息或内容均为各方的，不一定是那些为庆祝活动。 Sellebration 或任何其他第三方信息提供商均不保证任何第三方内容的准确性、完整性或有用性，也不保证其针对任何特定目的的适销性或稳健性。"
+            ]
+        },
+        {
+            "head": "与 THRID FORCE 网站的链接：",
+            "text": [
+            "本网站与万维网或互联网上的其他网站之间可能存在正常链接，这些链接不受我们的控制或 Sellebration Private Limited 的基准。此类链接不一定代表 Sellebration 对这些网站的认可。 Sellebration 没有义务跟踪这些网站，并且用户同意 Sellebration 不负责此类网站的内容，或与任何此类第三方网站、链接或使用相关的任何技术或其他问题。您进一步同意，如果您建立从任何其他网站到该网站的链接，您将在收到 Sellebration 发出的关于任何此类链接的劝告的书面通知后自动中断此类链接。"
+            ]
+        },
+        {
+            "head": "反馈：",
+            "text": [
+            "根据条款和条件的要求变更以及网站的变更，用户反馈和投降的数据受隐私法保护时间，恕不另行通知。每个用户有责任跟踪此类变化，并根据任何此类变化确定是否继续访问和使用本网站。"
+            ]
+        },
+        {
+            "head": "终止：",
+            "text": [
+            "用户访问网站将受到Sellebration 访问网站的授权。 Sellebration 保留随时以任何理由（包括但不限于您违反这些条款）或无理由禁止最终用户访问网站的权利，恕不另行通知。虽然 Sellebration 的首选行动方案是就您的不当行为向您提出指示并提出任何必要的纠正措施，但 Sellebration 并不表示它会，也不需要主动监控此类行为或向您提供此类通知。 Sellebration 终止用户访问权限的权利是除 Sellebration 可用的所有其他法律或衡平法改革之外的权利——在本协议项下，Sellebration 完全明确地保留这些权利。在因任何激励而终止本协议后，用户应停止使用或进一步访问任何网站的内容或服务，并对通过任何方式进行的任何未经授权的尝试负责。"
+            ]
+        },
+        {
+            "head": "专有材料协议：",
+            "text": [
+            "您承认本网站上提供的所有材料均为 Sellebration 或 Sellebration Groups 旗下公司的专有财产，并受版权、商业秘密和各自司法管辖区的其他适用法律的保护。",
+            "在满足以下条件的情况下，您拥有在个人计算机上显示材料以及复制和下载材料的有限权利：",
+            "1) 出现在此类材料上的任何版权和商标通知也作为材料的一部分进行展示、传真或下载，并且不会被删除、移动或遮盖，并且",
+            "2) 此类显示、复制或下载仅供您的私人信息使用。如果您违反任何这些条款，访问、显示和使用本网站的受限权利将自动终止，恕不另行通知。",
+            "您承认并同意您无权以任何方式修改、编辑、更改或增强任何材料。除非 Sellebration 事先以书面形式明确授权，否则不得出于任何商业目的以任何方式散布、传输或散布这些材料。您同意不以任何会损害这些东西的专有性质的方式使用这些东西。在不限制上述所有内容的情况下，您同意不提供材料本身，无论是复制或修改，还是从材料中衍生的任何口头或书面形式，作为研讨会、培训计划、研讨会、咨询或不可区分的商业活动的一部分您向您的客户或其他人提供的信息，除非事先获得 Sellebration 的书面同意。",
+            "除此处明确规定外，您了解在本有限许可或使用终止后，您在任何法律基础上对材料没有任何特权、所有权或利益，您同意自发销毁任何下载或打印的材料您可能拥有或控制。"
+            ]
+        },
+        {
+            "head": "无代理或合作伙伴关系：",
+            "text": [
+            "当事人是特立独行的承包商。任何一方均不得指导或管理另一方的频繁活动；任何一方均不得为另一方的帮助而创设或承担任何法律义务。"
+            ]
+        },
+        {
+            "head": "注意事项：",
+            "text": [
+            "Sellebration 可通过用户注册表中提供的电子邮件或用户向 Sellebration 提供的此类其他地址向用户发出通知。用户应通过电子邮件向 hello@sellebration.ltd. 通知 Sellebration，并将副本发送至用户注册表上的地址。"
+            ]
+        },
+        {
+            "head": "完整协议、可分割性、无非国际弃权：",
+            "text": [
+            "本协议，包括网站的隐私政策和免责声明，构成用户与 Sellebration 之间的完整用户协议，并取代用户与 Sellebration 之间的任何先前协议或谅解。除非以书面形式作出并由双方授权使者签字，否则本协议的任何变更或修改均无效或对任何一方具有约束力。"
+            ]
+        },
+        {
+            "head": "无第三方受益人：",
+            "text": [
+            "用户理解并同意，本协议在任何情况下均不得构成第三方受益人合同，并且本协议无意为任何个人或公司或除本协议各方以外的任何人谋取利益。"
+            ]
+        },
+        {
+            "head": "任务：",
+            "text": [
+            "未经用户事先同意或通知，Sellebration可将其在本协议项下的任何或全部权利和承诺指定给任何一方。"
+            ]
+        },
+        {
+            "head": "适用法律：",
+            "text": [
+            "双方同意，因本协议或违反本协议而引起或与之相关的任何争议或索赔，均应受印度法律管辖并根据印度法律进行解释，双方均服从哈里亚纳邦法院的专属管辖权。"
+            ]
+        },
+        {
+            "head": "免责声明：",
+            "text": [
+            "作为本网站的用户，您承认并同意 Sellebration 对网站（包括材料）中的任何错误或排除不承担任何责任，无论这些错误或排除是由 Sellebration 还是第三方提供的。您进一步承认并同意，Sellebration 对网站或其部分的可用性不作任何形式的保证或陈述，网站或其部分可能在不同时间段内无法访问（无论是由于互联网服务提供商问题还是其他原因）并且 Sellebration 对网站或材料中的任何不可用或不准确概不负责。用户将承担与用户访问的任何内容类似的所有风险。用户访问由 www.sellebration.ltd 提供或通过 www.sellebration.ltd 提供的任何内容。和第三方受您同意本条款和这些条款和条件的约束。"
+            ]
+        },
+        {
+            "head": "免责声明：",
+            "text": [
+            "通过本网站提供的所有服务均按“原样”提供，不提供任何保证。所有明示、暗示和司法保证，包括但不限于适销性、特定分辨率的适用性和非侵权性的保证，在法律允许的最大范围内被明确否认，SELLEBRATION 否认对安全性、可靠性、可靠性、以及本服务的介绍。 SELLEBRATION 不对通过本网站收到或在本网站上刊登广告或通过本网站提供的任何链接收到的其他服务或商品，以及通过本网站收到的任何信息或建议，以及通过本网站收到的任何信息或建议，或通过网站中提供的任何链接。 SELLEBRATION 同样不对通过本网站获得的任何信息或建议提供任何保证。",
+            "您承认并同意，通过使用产品和服务下载或以其他方式获取的任何内容均由您自行承担风险，并且您将对可能导致的计算机系统损坏或数据丢失承担全部责任下载这些东西。",
+            "在任何情况下，Sellebration 均不因任何用户使用或滥用和/或依赖本网站或其相关产品和服务而对任何用户负责。用户明确同意，此类收费限制适用于防止对直接、间接、附带、后果性、特殊、惩戒性和惩罚性损害的赔偿（即使 Sellebration 已告知此类损害的可能性）。无论是因使用或误用和依赖本网站、产品或服务，因无法使用本网站，或因其他原因造成的网站中断、延期或终止或损害而造成的破坏，此类责任的减轻均适用通过本服务收到或在本服务上宣传或通过本网站提供的任何链接收到的服务或商品，以及通过服务收到或在服务上宣传的任何细节或建议，或通过产品和服务中提供的任何链接收到的服务或商品。"
+            ]
+        },
+        {
+            "head": "赔偿：",
+            "text": [
+            "通过使用本网站，用户同意对 Sellebration 及其母公司、子公司、关联公司、董事、高级职员、顾问和员工进行补偿和辩护，并使他们免受因用户滥用本网站而引起的任何和所有索赔和费用（包括律师费）的损害或服务。"
+            ]
+        },
+        {
+            "head": "问题、意见或疑问：",
+            "text": [
+            "如果您对网站或本协议有任何问题、意见或疑问、通知，请随时通过 hello@sellebration.ltd 与我们联系。"
+            ]
+        }
+        ]
     },
     "russian":{
         "home":
@@ -117,7 +562,119 @@
             "8": "Старшие руководители",
             "9": "Авангард",
             "10": ""
-          }
+          },
+          "privacy": [
+            {
+              "head": "ОБЩИЕ УСЛОВИЯ ИСПОЛЬЗОВАНИЯ:",
+              "text": [
+                "Пожалуйста, внимательно ознакомьтесь с данными условиями использования, прежде чем использовать этот веб-сайт. Если вы не согласны со всеми настоящими Условиями использования, ограничьте себя в использовании этого веб-сайта. Sellebration может время от времени вносить изменения в настоящие Условия. Ваше регулярное использование веб-сайта рассматривается как подразумеваемое согласие с изменениями и согласие оставаться в согласии с этими условиями.",
+                "Положения и условия, изложенные ниже («УСЛОВИЯ»), а также те, которые включены в политику конфиденциальности веб-сайта, осуществляют контроль над использованием вами веб-сайта во всемирной паутине и имеют для вас законную силу. Если вы перестанете соглашаться с каким-либо из этих условий, пожалуйста, не заходите на этот веб-сайт и не используйте его каким-либо иным образом, а также любую информацию, запрещенную на веб-сайте. Использование вами веб-сайта считается вашим пониманием и согласием с каждым из условий, упомянутых ниже."
+              ]
+            },
+            {
+              "head": "ОГРАНИЧЕНИЯ ПОЛЬЗОВАТЕЛЯ САЙТА:",
+              "text": [
+                "Все сведения, информация и материалы на этом веб-сайте, включая текст, товарные знаки, логотип, графику и изображения («Материалы»), являются произведениями, защищенными авторским правом, и другими формами интеллектуальной собственности Sellebration или третьих лиц, которые разрешили использование материалы на веб-сайте, Sellebration предоставляет вам только ограниченную лицензию на демонстрацию материалов на вашем персональном компьютере или персональном беспроводном устройстве, а также на передачу по факсу и загрузку таких материалов при условии, что любые уведомления об авторских правах, товарных знаках или другие уведомления, попадающие в поле зрения таких материалов также хранится, демонстрируется, передается по факсу или загружается как часть материалов и не обнаруживается непонятным, такая демонстрация, копирование или загрузка используются исключительно для вашей конфиденциальной информации. Такие материалы не могут распространяться, передаваться, демонстрироваться или распространяться любыми средствами и для любых целей. Вы признаете и соглашаетесь с тем, что не имеете права и не будете изменять или модифицировать, редактировать или улучшать какие-либо материалы каким-либо образом. Это ограниченное право прекращается импульсивно без какого-либо уведомления для вас, если вы нарушаете какие-либо условия после прекращения действия этого ограниченного права на отображение, пользователь соглашается немедленно стереть или иным образом уничтожить любые загруженные и распечатанные материалы. За исключением случаев, явно указанных в настоящем документе, вы признаете, что у вас нет законных прав, титулов или интересов или материалов, кроме ограниченного права на демонстрацию."
+              ]
+            },
+            {
+              "head": "СОДЕРЖАНИЕ ТРЕТЬЕЙ СИЛЫ:",
+              "text": [
+                "У Sellebration нет определенного процесса предварительного просмотра или редакционного контроля над контентом третьих сил. Любая школа мысли, руководство, утверждения, услуги, предложения или другая информация или контент, указанные или предоставленные третьими лицами, включая поставщиков информации, участников или любых других пользователей этого веб-сайта, принадлежат соответствующим сторонам и не обязательно для продажи. Ни Sellebration, ни какой-либо другой сторонний поставщик информации не ручается за точность, полноту или полезность любого стороннего контента, а также за его пригодность для продажи или надежность для какой-либо конкретной цели."
+              ]
+            },
+            {
+              "head": "ССЫЛКИ НА САЙТЫ THIRD FORCE:",
+              "text": [
+                "Между этим веб-сайтом и другими веб-сайтами в Интернете или всемирной паутине могут быть ортодоксальные ссылки, которые не находятся под нашим контролем и не проверяются Sellebration Private Limited. Такие ссылки не обязательно означают одобрение Sellebration этих веб-сайтов. Sellebration не берет на себя никаких обязательств по отслеживанию этих веб-сайтов, и пользователь соглашается с тем, что Sellebration не отвечает за содержание таких веб-сайтов или какие-либо технические или другие проблемы, связанные с любым таким сторонним веб-сайтом, ссылками или использованием. Вы также соглашаетесь с тем, что если вы установите ссылку с любого другого веб-сайта на веб-сайт, вы самопроизвольно прервете такую ссылку после получения письменного уведомления от Sellebration о своем возражении против любой такой ссылки."
+              ]
+            },
+            {
+              "head": "ОБРАТНАЯ СВЯЗЬ:",
+              "text": [
+                "Отзывы пользователей и переданные данные охраняются законами о конфиденциальности в соответствии с изменениями требований в Условиях и изменениями на веб-сайте. Sellebration может по своему усмотрению и в промежутках времени по своему собственному выбору обновлять этот веб-сайт и политики использования веб-сайта, связанные с ними, в любое время. время и без предварительного уведомления. Каждый пользователь несет ответственность за отслеживание таких изменений, а также за принятие решения о возможности доступа и использования веб-сайта на основе любых таких изменений."
+              ]
+            },
+            {
+              "head": "ПРЕКРАЩЕНИЕ:",
+              "text": [
+                "Доступ пользователя к веб-сайту будет зависеть от разрешения Sellebration на доступ к веб-сайту. Sellebration оставляет за собой право ограничить доступ конечного пользователя к веб-сайту в любое время без предварительного уведомления по любой причине (включая, помимо прочего, нарушение вами настоящих условий) или без причины. Несмотря на то, что предпочтительный курс действий Sellebration заключается в том, чтобы проинструктировать вас о вашем ненадлежащем поведении и предложить любые необходимые корректирующие меры, Sellebration не заявляет, что будет делать это, и при этом от нее не требуется либо активно отслеживать такое поведение, либо направлять вам такое уведомление. Право Sellebration на прекращение доступа пользователя является дополнением ко всем другим юридическим или справедливым реформам, доступным для Sellebration по настоящему Соглашению, права на которые полностью и недвусмысленно сохраняются за Sellebration. После расторжения настоящего соглашения по какому-либо поощрению пользователь должен прекратить использование или дальнейший доступ к любому контенту или услугам веб-сайта и нести ответственность за любые несанкционированные попытки сделать это любыми способами."
+              ]
+            },
+            {
+              "head": "СОГЛАШЕНИЕ О СОБСТВЕННЫХ МАТЕРИАЛАХ:",
+              "text": [
+                "Вы признаете, что все материалы, представленные на этом веб-сайте, являются собственностью Sellebration или компаний, входящих в Sellebration Group, и защищены авторским правом, коммерческой тайной и другими применимыми законами в соответствующей юрисдикции.",
+                "Вы имеете ограниченное право отображать материалы на своем персональном компьютере, а также копировать и загружать материалы при условии, что:",
+                "1) любые уведомления об авторских правах и товарных знаках, содержащиеся в таких материалах, также демонстрируются, пересылаются по факсу или загружаются как часть материалов и не удаляются, не перемещаются и не скрываются, и",
+                "2) такое отображение, копирование или загрузка предназначены исключительно для вашего личного информационного использования. Ограниченное право на доступ, отображение и использование веб-сайта прекращается спонтанно, без предварительного уведомления, если вы нарушаете какое-либо из этих условий.",
+                "Вы признаете и соглашаетесь с тем, что у вас нет права модифицировать, редактировать, изменять или улучшать какие-либо материалы каким-либо образом. Материалы не могут распространяться, передаваться или распространяться каким-либо образом в любых коммерческих целях, за исключением случаев, когда это прямо разрешено Sellebration заблаговременно и в письменной форме. Вы соглашаетесь не использовать материалы каким-либо образом, который может поставить под угрозу их собственность. Не ограничивая все вышеизложенное, вы соглашаетесь не предоставлять сами материалы, воспроизведенные или измененные, или что-либо, полученное из материалов, в устной или письменной форме, как часть семинара, учебной программы, практикума, консультации или неотличимой деловой активности. которые вы делаете доступными для своих клиентов или других лиц, кроме как с предварительного письменного согласия Sellebration.",
+                "За исключением случаев, прямо указанных в настоящем документе, вы понимаете, что у вас нет привилегий, титулов или интересов любого рода на каком-либо законном основании в отношении материалов или материалов после прекращения действия этой ограниченной лицензии или использования, вы соглашаетесь спонтанно уничтожить любые загруженные или распечатанные материалы, которые вы можете иметь в своем владении или под вашим контролем."
+              ]
+            },
+            {
+              "head": "НЕТ АГЕНТСТВА ИЛИ ПАРТНЕРСТВА:",
+              "text": [
+                "Стороны являются независимыми подрядчиками. Ни одна из сторон не может направлять или управлять частой деятельностью другой стороны; ни одна из сторон не может создавать или принимать на себя какие-либо юридические обязательства в помощь другой стороне."
+              ]
+            },
+            {
+              "head": "УВЕДОМЛЕНИЯ:",
+              "text": [
+                "Sellebration может уведомить пользователя по электронной почте, указанной в регистрационной форме пользователя, или по другому адресу, предоставленному пользователем Sellebration. Пользователь должен уведомить Sellebration по электронной почте hello@sellebration.ltd., а копию отправить по адресу, указанному в регистрационной форме пользователя."
+              ]
+            },
+            {
+              "head": "ПОЛНОЕ СОГЛАШЕНИЕ, ОТДЕЛИМОСТЬ, ОТСУТСТВИЕ МЕЖДУНАРОДНОГО ОТКАЗА:",
+              "text": [
+                "Настоящее Соглашение, включая Политику конфиденциальности Веб-сайта и Заявление об отказе от ответственности, составляет полное пользовательское соглашение между пользователем и Sellebration и заменяет любые предыдущие соглашения или договоренности между пользователем и Sellebration. Никакие изменения или поправки к настоящему Соглашению не будут действительными или обязательными для любой из сторон, если они не будут сделаны в письменной форме и подписаны уполномоченными представителями обеих сторон."
+              ]
+            },
+            {
+              "head": "НЕТ СТОРОННИХ БЕНЕФИЦИАРОВ:",
+              "text": [
+                "Пользователь понимает и соглашается с тем, что настоящее Соглашение ни в коем случае не должно быть составлено как договор с третьей стороной-бенефициаром и что оно не предназначено для выгоды какого-либо лица или компании или кого-либо, кроме сторон настоящего Соглашения."
+              ]
+            },
+            {
+              "head": "НАЗНАЧЕНИЕ:",
+              "text": [
+                "Sellebration может передать любые или все свои права и обязательства по настоящему Соглашению любой стороне без предварительного согласия или уведомления пользователя."
+              ]
+            },
+            {
+              "head": "ПРИМЕНИМОЕ ЗАКОНОДАТЕЛЬСТВО:",
+              "text": [
+                "Стороны соглашаются, что любые разногласия или претензии, возникающие в связи с настоящим Соглашением или его нарушением, регулируются и разрешаются в соответствии с законами Индии, и стороны подчиняются исключительной юрисдикции судов штата Харьяна."
+              ]
+            },
+            {
+              "head": "ОТКАЗ ОТ ГАРАНТИЙ:",
+              "text": [
+                "Вы, как пользователь веб-сайта, признаете и соглашаетесь с тем, что Sellebration не несет ответственности за какие-либо ошибки или исключения на веб-сайте, в том числе в материалах, предоставленных Sellebration или третьими лицами. Вы также признаете и соглашаетесь с тем, что Sellebration не дает никаких гарантий или заявлений относительно доступности веб-сайта или его частей, что веб-сайт или его части могут быть недоступны в течение различных периодов времени (будь то из-за проблем с интернет-провайдером или по другим причинам). и что Sellebration не несет ответственности за недоступность или неточность веб-сайта или материалов. Пользователь будет нести все риски, аналогичные любому контенту, к которому пользователь получает доступ. Доступ пользователя к любому контенту, предоставленному сайтом www.sellebration.ltd или через него. и третьих лиц зависит от вашего согласия с этим положением и настоящими Условиями."
+              ]
+            },
+            {
+              "head": "УВЕДОМЛЕНИЕ О ОТКАЗЕ ОТ ОТВЕТСТВЕННОСТИ:",
+              "text": [
+                "ВСЕ УСЛУГИ, ПРЕДОСТАВЛЯЕМЫЕ НА ДАННОМ ВЕБ-САЙТЕ, ПРЕДОСТАВЛЯЮТСЯ «КАК ЕСТЬ» БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ. ВСЕ ЯВНЫЕ, ПОДРАЗУМЕВАЕМЫЕ И СУДЕБНЫЕ ГАРАНТИИ, ВКЛЮЧАЯ, ПОМИМО ПРОЧЕГО, ГАРАНТИИ КОММЕРЧЕСКОЙ ПРИГОДНОСТИ, ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОГО РАЗРЕШЕНИЯ И НЕНАРУШЕНИЯ ПРАВ, ЯВНО ОТКАЗЫВАЮТСЯ В МАКСИМАЛЬНО РАЗРЕШЕННОЙ ЗАКОНОМ СТЕПЕНИ. И ПРЕЗЕНТАЦИЯ ЭТОЙ УСЛУГИ. SELLLEBRATION ОТКАЗЫВАЕТСЯ ОТ ЛЮБЫХ ГАРАНТИЙ НА ДРУГИЕ УСЛУГИ ИЛИ ТОВАРЫ, ПОЛУЧЕННЫЕ ИЛИ РЕКЛАМИРУЕМЫЕ НА ЭТОМ ВЕБ-САЙТЕ ИЛИ ПОЛУЧЕННЫЕ ПО ЛЮБЫМ ССЫЛКАМ, ПРЕДОСТАВЛЕННЫМ НА ЭТОМ ВЕБ-САЙТЕ, А ТАКЖЕ НА ЛЮБУЮ ИНФОРМАЦИЮ ИЛИ СОВЕТЫ, ПОЛУЧЕННЫЕ ЧЕРЕЗ ВЕБ-САЙТ, А ТАКЖЕ НА ЛЮБУЮ ИНФОРМАЦИЮ ИЛИ КОНСУЛЬТАЦИИ, КОТОРЫЕ МЫ ПОЛУЧАЕМ ПО ЛЮБЫМ ССЫЛКАМ НА САЙТЕ. SELLLEBRATION ТАКИМ ОБРАЗОМ ОТКАЗЫВАЕТСЯ ОТ ЛЮБЫХ ГАРАНТИЙ НА ЛЮБУЮ ИНФОРМАЦИЮ ИЛИ СОВЕТЫ, ПОЛУЧЕННЫЕ ЧЕРЕЗ САЙТ.",
+                "ВЫ ПРИЗНАЕТЕ И СОГЛАШАЕТЕСЬ С ТЕМ, ЧТО ЛЮБОЙ МАТЕРИАЛ, ЗАГРУЖЕННЫЙ ИЛИ ПРИОБРЕТЕННЫЙ ИНЫМ ОБРАЗОМ С ИСПОЛЬЗОВАНИЕМ ПРОДУКТОВ И УСЛУГ, ДЕЛАЕТСЯ НА ВАШ СОБСТВЕННЫЙ ОБОСТОРОЖНОСТЬ И РИСК, И ЧТО ВЫ НЕСЕТЕ ИСКЛЮЧИТЕЛЬНУЮ ОТВЕТСТВЕННОСТЬ ЗА ЛЮБОЙ ПОВРЕЖДЕНИЕ ВАШЕЙ КОМПЬЮТЕРНОЙ СИСТЕМЫ ИЛИ УСТАНОВКУ ДАННЫХ, КОТОРЫЕ МОЖЕТ ПРИВЕСТИ К СКАЧИВАНИЕ ТАКИХ МАТЕРИАЛОВ.",
+                "НИ ПРИ КАКИХ ОБСТОЯТЕЛЬСТВАХ ПРОДАЖА НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ПЕРЕД ЛЮБЫМ ПОЛЬЗОВАТЕЛЕМ ЗА ИСПОЛЬЗОВАНИЕ ЭТИМ ПОЛЬЗОВАТЕЛЕМ ИЛИ НЕПРАВИЛЬНОЕ ИСПОЛЬЗОВАНИЕ И/ИЛИ ДОВЕРИЕ ВЕБ-САЙТУ ИЛИ СВЯЗАННЫМ С НИМ ПРОДУКТАМ И УСЛУГАМ. ПОЛЬЗОВАТЕЛЬ ЯВНО СОГЛАШАЕТСЯ С ТЕМ, ЧТО ТАКОЕ ОГРАНИЧЕНИЕ ОПЛАТЫ ДОЛЖНО ПРИМЕНЯТЬСЯ ДЛЯ ПРЕДОТВРАЩЕНИЯ ВОЗМЕЩЕНИЯ ПРЯМЫХ, КОСВЕННЫХ, СЛУЧАЙНЫХ, КОСВЕННЫХ, ОСОБЫХ, ШТРАФНЫХ И ШТРАФНЫХ УБЫТКОВ (ДАЖЕ ЕСЛИ ПРОДАВЕЦ УВЕДОМИЛ О ВОЗМОЖНОСТИ ТАКИХ УБЫТКОВ). ТАКОЕ СНЯТИЕ ОТВЕТСТВЕННОСТИ ДОЛЖНО ПРИМЕНЯТЬСЯ ВНЕ зависимости от того, ПРОИСХОДИТ ЛИ УНИЧТОЖЕНИЕ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ИЛИ НЕПРАВИЛЬНОГО ИСПОЛЬЗОВАНИЯ ВЕБ-САЙТА, ПРОДУКТОВ ИЛИ УСЛУГ, ИЗ НЕВОЗМОЖНОСТИ ИСПОЛЬЗОВАНИЯ ВЕБ-САЙТА ИЛИ В РЕЗУЛЬТАТЕ ПРЕРЫВАНИЯ, ПРИОСТАНОВЛЕНИЯ ИЛИ ПРЕКРАЩЕНИЯ РАБОТЫ ВЕБ-САЙТОВ ИЛИ УЩЕРБА, ПОНЕСЕННОГО ПО ПРИЧИНАМ ДРУГИХ ПРИЧИН. УСЛУГИ ИЛИ ТОВАРЫ, ПОЛУЧЕННЫЕ ЧЕРЕЗ ИЛИ РЕКЛАМИРУЕМЫЕ НА ЭТОЙ СЛУЖБЕ ИЛИ ПОЛУЧЕННЫЕ ЧЕРЕЗ ЛЮБЫЕ ССЫЛКИ, ПРЕДОСТАВЛЕННЫЕ НА ЭТОМ ВЕБ-САЙТЕ, А ТАКЖЕ ПО ПРИЧИНЕ ЛЮБЫХ КОНКРЕТНЫХ СВЕДЕНИЙ ИЛИ СОВЕТОВ, ПОЛУЧЕННЫХ ИЛИ РЕКЛАМИРУЕМЫХ НА УСЛУГАХ, ИЛИ ПОЛУЧЕННЫХ ЧЕРЕЗ ЛЮБЫЕ ССЫЛКИ И УСЛУГИ, ПРЕДОСТАВЛЕННЫЕ В ПРОГРАММЕ."
+              ]
+            },
+            {
+              "head": "ВОЗМЕЩЕНИЯ:",
+              "text": [
+                "Используя этот веб-сайт, пользователь соглашается возмещать и защищать Sellebration и ее материнские компании, дочерние компании, филиалы, директоров, должностных лиц, консультантов и сотрудников и ограждать их от любых претензий и расходов, включая гонорары адвокатов, возникающих в результате неправильного использования пользователем этого веб-сайта. или обслуживание."
+              ]
+            },
+            {
+              "head": "ВОПРОСЫ, КОММЕНТАРИИ ИЛИ ЗАПРОСЫ:",
+              "text": [
+                "Если у вас есть какие-либо вопросы, комментарии или сомнения, уведомления о веб-сайте или настоящем Соглашении, пожалуйста, не стесняйтесь обращаться к нам по адресу hello@sellebration.ltd."
+              ]
+            }
+          ]
     },
     "german":{
         "home":
@@ -141,7 +698,119 @@
             "8": "Ältere Führungskräfte",
             "9": "Die Avantgarde",
             "10": ""
-          }
+        },
+        "privacy": [
+            {
+              "head": "ALLGEMEINE NUTZUNGSBEDINGUNGEN:",
+              "text": [
+                "Bitte lesen Sie diese Nutzungsbedingungen aufmerksam durch, bevor Sie diese Website nutzen. Wenn Sie nicht mit allen diesen Nutzungsbedingungen einverstanden sind, schränken Sie die Nutzung dieser Website ein. Sellebration kann diese Allgemeinen Geschäftsbedingungen von Zeit zu Zeit ändern. Ihre regelmäßige Nutzung der Website wird als stillschweigende Zustimmung zu den Änderungen angesehen und erklärt sich damit einverstanden, diese Allgemeinen Geschäftsbedingungen zu bestätigen.",
+                "Die nachstehend aufgeführten Bedingungen (die „BEDINGUNGEN“) sowie die in der Datenschutzrichtlinie der Website enthaltenen Bestimmungen üben die Kontrolle über Ihre Nutzung der Website im World Wide Web aus und sind für Sie rechtmäßig bindend. Wenn Sie mit einer dieser Bedingungen nicht mehr einverstanden sind, greifen Sie bitte nicht auf diese Website zu oder verwenden Sie diese Website oder die auf der Website eingeschränkten Informationen nicht anderweitig. Ihre Nutzung der Website gilt als Ihr Verständnis und Ihre Zustimmung zu allen unten genannten Bedingungen."
+              ]
+            },
+            {
+              "head": "NUTZERBESCHRÄNKUNGEN DER WEBSITE:",
+              "text": [
+                "Alle Angaben und Informationen und Materialien auf dieser Website, einschließlich Text, Marken, Logos, Grafiken und Bilder (die „Materialien“), sind urheberrechtlich geschützte Werke und andere Formen des geistigen Eigentums von Sellebration oder Dritten, die zur Nutzung berechtigt sind der Materialien auf der Website gewährt Ihnen Sellebration nur die eingeschränkte Lizenz, die Materialien auf Ihrem PC oder Ihrem persönlichen drahtlosen Gerät auszustellen und diese Materialien zu faxen und herunterzuladen, vorausgesetzt, dass Urheberrechts-, Marken- oder andere Hinweise auf diesen Materialien sichtbar werden auch als Teil der Materialien aufbewahrt, gezeigt, gefaxt oder heruntergeladen und nicht als missbräuchlich erkannt wird, wird eine solche Ausstellung, Kopie oder ein Download ausschließlich für Ihre vertrauliche Information verwendet. Solche Materialien dürfen auf keine Weise und zu keinem Zweck verbreitet, übertragen, gezeigt oder verstreut werden. Sie erkennen an und stimmen zu, dass Sie kein Recht haben, die Materialien in irgendeiner Weise zu ändern oder zu modifizieren, zu bearbeiten oder zu verbessern. Dieses eingeschränkte Recht erlischt impulsiv, ohne jegliche Benachrichtigung an Sie, wenn Sie nach Beendigung dieses eingeschränkten Anzeigerechts gegen eine der Bedingungen verstoßen, stimmt der Benutzer zu, heruntergeladene und gedruckte Materialien unverzüglich zu löschen oder anderweitig zu zerstören. Außer wie hierin ausdrücklich angegeben, erkennen Sie an, dass Sie keine anderen legitimen Rechte oder Titel oder Interessen oder an den Materialien haben als ein eingeschränktes Anzeigerecht."
+              ]
+            },
+            {
+              "head": "INHALT DER DRITTEN KRAFT:",
+              "text": [
+                "Sellebration hat keinen festgelegten vorherigen Überprüfungsprozess oder redaktionelle Kontrolle über die Inhalte von Drittanbietern. Alle Gedankengänge, Anleitungen, Bestätigungen, Dienstleistungen, Angebote oder andere Informationen oder Inhalte, die von Dritten, einschließlich Informationsanbietern, Mitgliedern oder anderen Benutzern dieser Website, angegeben oder zur Verfügung gestellt werden, sind die der jeweiligen Parteien und nicht notwendigerweise diese für Sellebration. Weder Sellebration noch andere Drittanbieter von Informationen schwören auf die Genauigkeit, Vollständigkeit oder Nützlichkeit von Inhalten Dritter, noch auf ihre Marktgängigkeit oder Robustheit für einen bestimmten Zweck."
+              ]
+            },
+            {
+              "head": "LINKS ZU UND VON SITES VON THIRD FORCE:",
+              "text": [
+                "Es kann Links zwischen dieser Website und anderen Websites im World Wide Web oder Internet geben, die nicht unter unserer Kontrolle stehen oder von Sellebration Private Limited bewertet werden. Solche Links stellen nicht unbedingt eine Billigung dieser Websites durch Sellebration dar. Sellebration übernimmt keine Verpflichtung, diese Websites zu verfolgen, und der Benutzer stimmt zu, dass Sellebration nicht die Kontrolle über den Inhalt solcher Websites oder über technische oder andere Probleme im Zusammenhang mit Websites, Links oder der Nutzung durch Dritte hat. Sie stimmen ferner zu, dass Sie, wenn Sie einen Link von einer anderen Website zu der Website herstellen, diesen Link spontan aufheben werden, nachdem Sie von Sellebration eine schriftliche Mitteilung über seinen Einspruch gegen einen solchen Link erhalten haben."
+              ]
+            },
+            {
+              "head": "RÜCKMELDUNG:",
+              "text": [
+                "Das Benutzer-Feedback und die erfassten Daten werden durch Datenschutzgesetze gemäß den erforderlichen Änderungen der Allgemeinen Geschäftsbedingungen und Änderungen der Website geschützt. Sellebration kann nach eigenem Ermessen und nach eigenem Ermessen zwischenzeitlich diese Website und die damit verknüpften Website-Nutzungsrichtlinien aktualisieren Zeit und ohne Vorankündigung. Es liegt in der Verantwortung jedes Benutzers, solche Änderungen zu verfolgen und zu entscheiden, ob er auf der Grundlage solcher Änderungen auf die Website zugreifen und sie nutzen möchte oder nicht."
+              ]
+            },
+            {
+              "head": "BEENDIGUNG:",
+              "text": [
+                "Der Zugriff des Benutzers auf die Website unterliegt der Autorisierung von Sellebration zum Zugriff auf die Website. Sellebration behält sich das Recht vor, dem Endbenutzer den Zugriff auf die Website jederzeit ohne Vorankündigung aus beliebigem Grund (einschließlich, aber nicht beschränkt auf, wenn Sie gegen diese Bedingungen verstoßen) oder ohne Grund zu verweigern. Obwohl die bevorzugte Vorgehensweise von Sellebration darin besteht, Sie über Ihr unangemessenes Verhalten zu unterrichten und alle erforderlichen Korrekturmaßnahmen vorzuschlagen, sichert Sellebration dies nicht zu und ist auch nicht verpflichtet, ein solches Verhalten aktiv zu überwachen oder Ihnen eine solche Benachrichtigung zukommen zu lassen. Das Recht von Sellebration, den Zugriff des Benutzers zu kündigen, gilt zusätzlich zu allen anderen rechtlichen oder angemessenen Reformen, die Sellebration im Rahmen dieser Vereinbarung zur Verfügung stehen, wobei diese Rechte vollständig und ausdrücklich Sellebration vorbehalten sind. Nach Beendigung dieser Vereinbarung für ein beliebiges Incentive muss der Benutzer die Nutzung oder den weiteren Zugriff auf die Inhalte oder Dienste einer Website einstellen und für alle unbefugten Versuche, dies auf irgendeine Weise zu tun, haftbar gemacht werden."
+              ]
+            },
+            {
+              "head": "VEREINBARUNG ÜBER EIGENE MATERIALIEN:",
+              "text": [
+                "Sie erkennen an, dass alle auf dieser Website bereitgestellten Materialien Eigentum von Sellebration oder Unternehmen mit Sellebration-Gruppen sind und durch Urheberrechte, Geschäftsgeheimnisse und andere geltende Gesetze in der jeweiligen Gerichtsbarkeit geschützt sind.",
+                "Sie haben das eingeschränkte Recht, die Materialien auf Ihrem PC anzuzeigen und die Materialien zu kopieren und herunterzuladen, sofern:",
+                "1) Urheberrechts- und Markenhinweise, die auf solchen Materialien erscheinen, werden ebenfalls als Teil der Materialien ausgestellt, gefaxt oder heruntergeladen und nicht entfernt, verschoben oder verdeckt, und",
+                "2) Eine solche Anzeige, Kopie oder ein Download dient ausschließlich Ihrer privaten Informationsnutzung. Das eingeschränkte Recht auf Zugriff, Anzeige und Nutzung der Website erlischt spontan und ohne Benachrichtigung an Sie, wenn Sie gegen eine dieser Bedingungen verstoßen.",
+                "Sie geben zu und stimmen zu, dass Sie kein Recht haben, die Materialien in irgendeiner Weise zu modifizieren, zu bearbeiten, zu ändern oder zu verbessern. Die Materialien dürfen in keiner Weise zu kommerziellen Zwecken verbreitet, übertragen oder verbreitet werden, es sei denn, Sellebration hat dies ausdrücklich im Voraus und schriftlich genehmigt. Sie stimmen zu, das Material nicht in irgendeiner Weise zu verwenden, die die Eigentumsnatur des Materials beeinträchtigen würde. Ohne das Vorstehende einzuschränken, erklären Sie sich damit einverstanden, die Materialien selbst, weder reproduziert noch modifiziert, oder irgendetwas, das von den Materialien abgeleitet wurde, weder mündlich noch schriftlich als Teil eines Seminars, Schulungsprogramms, Workshops, einer Beratung oder einer nicht unterscheidbaren Geschäftstätigkeit bereitzustellen die Sie Ihren Kunden oder anderen zugänglich machen, außer mit vorheriger schriftlicher Zustimmung von Sellebration.",
+                "Sofern hierin nicht ausdrücklich angegeben, verstehen Sie, dass Sie nach Beendigung dieser eingeschränkten Lizenz oder Nutzung keinerlei Privilegien, Titel oder Interessen jeglicher Art auf irgendeiner Rechtsgrundlage an oder an den Materialien haben, Sie stimmen zu, heruntergeladene oder gedruckte Materialien, die heruntergeladen oder gedruckt wurden, spontan zu vernichten Sie möglicherweise in Ihrem Besitz oder unter Ihrer Kontrolle haben."
+              ]
+            },
+            {
+              "head": "KEINE AGENTUR ODER PARTNERSCHAFT:",
+              "text": [
+                "Die Parteien sind Einzelunternehmer. Keine Partei darf die häufigen Aktivitäten der anderen leiten oder verwalten; keine der Parteien darf zugunsten der anderen eine rechtliche Verpflichtung eingehen oder begründen."
+              ]
+            },
+            {
+              "head": "HINWEISE:",
+              "text": [
+                "Sellebration kann den Benutzer per E-Mail benachrichtigen, die auf dem Registrierungsformular des Benutzers angegeben ist, oder über eine andere Adresse, die der Benutzer Sellebration zur Verfügung gestellt hat. Der Benutzer muss Sellebration per E-Mail an hello@sellebration.ltd. benachrichtigen, wobei eine Kopie per an die Adresse auf dem Registrierungsformular des Benutzers gesendet wird."
+              ]
+            },
+            {
+              "head": "GESAMTE VEREINBARUNG, SALVATORISCHE KLAUSEL, KEIN INTERNATIONALER VERZICHT:",
+              "text": [
+                "Diese Vereinbarung, einschließlich der Datenschutzrichtlinie und des Haftungsausschlusses der Website, stellt die gesamte Benutzervereinbarung zwischen dem Benutzer und Sellebration dar und ersetzt alle vorherigen Vereinbarungen oder Vereinbarungen zwischen dem Benutzer und Sellebration. Änderungen oder Modifikationen hiervon sind für keine der Parteien gültig oder bindend, es sei denn, sie wurden schriftlich vorgenommen und vom bevollmächtigten Abgesandten beider Parteien unterzeichnet."
+              ]
+            },
+            {
+              "head": "KEINE DRITTBEGÜNSTIGTEN:",
+              "text": [
+                "Der Benutzer versteht und stimmt zu, dass diese Vereinbarung in keinem Fall als Drittbegünstigungsvertrag ausgelegt werden darf und dass sie nicht zum Nutzen einer Person oder eines Unternehmens oder wem auch immer, außer den Parteien dieser Vereinbarung, bestimmt ist."
+              ]
+            },
+            {
+              "head": "ABTRETUNG:",
+              "text": [
+                "Sellebration kann einige oder alle seiner Rechte und Verpflichtungen hierunter ohne vorherige Zustimmung oder Benachrichtigung des Benutzers an Dritte übertragen."
+              ]
+            },
+            {
+              "head": "GELTENDES RECHT:",
+              "text": [
+                "Die Parteien vereinbaren, dass alle Meinungsverschiedenheiten oder Ansprüche, die sich aus oder im Zusammenhang mit dieser Vereinbarung oder deren Verletzung ergeben, den Gesetzen Indiens unterliegen und in Übereinstimmung mit diesen erläutert werden, und die Parteien sich der ausschließlichen Zuständigkeit der Gerichte von Haryana unterwerfen."
+              ]
+            },
+            {
+              "head": "GEWÄHRLEISTUNGSAUSSCHLUSS:",
+              "text": [
+                "Sie als Benutzer der Website erkennen an und stimmen zu, dass Sellebration keine Verantwortung für Fehler oder Ausschlüsse auf der Website übernimmt, einschließlich in den Materialien, unabhängig davon, ob sie von Sellebration oder Dritten bereitgestellt werden. Sie erkennen ferner an und stimmen zu, dass Sellebration keinerlei Gewährleistung oder Zusicherung hinsichtlich der Verfügbarkeit der Website oder Teilen davon gibt, dass die Website oder Teile davon möglicherweise für verschiedene Zeiträume nicht zugänglich sind (sei es aufgrund von Problemen mit dem Internetdienstanbieter oder aus anderen Gründen). und dass Sellebration keine Verantwortung für die Nichtverfügbarkeit oder Ungenauigkeit der Website oder der Materialien übernimmt. Der Benutzer trägt alle Risiken analog zu allen Inhalten, auf die der Benutzer zugreift. Benutzerzugriff auf Inhalte, die von oder über www.sellebration.ltd zur Verfügung gestellt werden. und Dritten unterliegt Ihrer Zustimmung zu dieser Bestimmung und diesen Allgemeinen Geschäftsbedingungen."
+              ]
+            },
+            {
+              "head": "HAFTUNGSAUSSCHLUSS HINWEIS:",
+              "text": [
+                "ALLE DIENSTE, DIE ÜBER DIESE WEBSITE BEREITGESTELLT WERDEN, WERDEN OHNE MÄNGELGEWÄHR UND OHNE JEGLICHE GEWÄHRLEISTUNG BEREITGESTELLT. ALLE AUSDRÜCKLICHEN, STILLSCHWEIGENDEN UND GERICHTLICHEN GEWÄHRLEISTUNGEN, EINSCHLIESSLICH, OHNE EINSCHRÄNKUNG, DIE GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINE BESTIMMTE AUFLÖSUNG UND DER NICHTVERLETZUNG VON RECHTEN DRITTER, WERDEN AUSDRÜCKLICH AUSGESCHLOSSEN, SELLEBRATION SCHLIESST JEGLICHE GEWÄHRLEISTUNG FÜR DIE SICHERHEIT, ZUVERLÄSSIGKEIT, ZEIT AUS UND PRÄSENTATION DIESES SERVICES. SELLEBRATION SCHLIESST JEGLICHE GEWÄHRLEISTUNG FÜR ANDERE DIENSTLEISTUNGEN ODER WAREN AUS, DIE ÜBER DIESE WEBSITE ERHALTEN ODER AUF DIESER WEBSITE BEWORBEN WERDEN ODER ÜBER LINKS AUF DIESER WEBSITE ERHALTEN WERDEN, SOWIE JEGLICHE INFORMATIONEN ODER RATSCHLÄGE, DIE ÜBER DIE WEBSITE ERHALTEN WERDEN, SOWIE FÜR JEGLICHE INFORMATIONEN ODER RATSCHLÄGE, DIE ÜBER DIE WEBSITE ERHALTEN WERDEN ÜBER JEGLICHE LINKS, DIE AUF DER WEBSITE ZUR VERFÜGUNG GESTELLT WERDEN. SELLEBRATION SCHLIESST GLEICHMÄSSIG JEGLICHE GEWÄHRLEISTUNG FÜR JEGLICHE INFORMATIONEN ODER RATSCHLÄGE AUS, DIE ÜBER DIE WEBSITE ERHALTEN WERDEN.",
+                "SIE ERKENNEN AN UND STIMMEN ZU, DASS JEDES HERUNTERGELADENE ODER ANDERWEITIG DURCH DIE NUTZUNG DER PRODUKTE UND DIENSTLEISTUNGEN ERWORBENE MATERIAL AUF IHRE EIGENE UMFRAGE UND AUF IHR EIGENES RISIKO ERFOLGT UND DASS SIE AUSSCHLIESSLICH FÜR SCHÄDEN AN IHREM COMPUTERSYSTEM ODER DATENFEHLER VERANTWORTLICH SIND, DIE DAVON ENTSTEHEN KÖNNEN DER DOWNLOAD VON SOLCHEN SACHEN.",
+                "UNTER KEINEN ANGELEGENHEITEN IST SELLEBRATION GEGENÜBER IRGENDEINEM BENUTZER FÜR DIE VERWENDUNG ODER MISSBRAUCH UND/ODER VERTRAUEN AUF DIE WEBSITE ODER IHRE DAMIT VERBUNDENEN PRODUKTE UND DIENSTE. DER BENUTZER ERKLÄRT SICH AUSDRÜCKLICH DAMIT EINVERSTANDEN, DASS EINE SOLCHE BESCHRÄNKUNG DER HAFTUNG FÜR DIE VERHINDERUNG DIREKTER, INDIREKTER, ZUFÄLLIGER, FOLGESCHÄDEN, BESONDERER, BEISPIELHAFTER UND STRAFSCHÄDEN VERHINDERT WIRD (AUCH WENN SELLEBRATION AUF DIE MÖGLICHKEIT SOLCHER SCHÄDEN HINGEWIESEN HAT). EINE SOLCHE HAFTUNGSBESCHRÄNKUNG GILT UNABHÄNGIG DAVON, OB DIE ZERSTÖRUNG DURCH NUTZUNG ODER MISSBRAUCH UND VERTRAUEN AUF DIE WEBSITE, PRODUKTE ODER DIENSTLEISTUNGEN, AUS DER UNMÖGLICHKEIT DER NUTZUNG DER WEBSITE ODER AUS DER UNTERBRECHUNG, VERLETZUNG ODER BEENDIGUNG DER WEBSITE ODER AUS ANDEREN GRÜNDEN ENTSTEHENDEN SCHÄDEN ENTSTEHT DIENSTLEISTUNGEN ODER WAREN, DIE DURCH DIESEN DIENST ERHALTEN ODER DARAUF BEWORBEN WERDEN ODER ÜBER LINKS AUF DIESER WEBSITE ERHALTEN WERDEN, SOWIE AUFGRUND VON ANGABEN ODER RATSCHLÄGEN, DIE DURCH DIE DIENSTE ERHALTEN ODER AUF DEN DIENSTLEISTUNGEN BEWORBEN WERDEN ODER DIE ÜBER LINKS IN DEN PRODUKTEN UND DIENSTLEISTUNGEN ERHALTEN WERDEN."
+              ]
+            },
+            {
+              "head": "ENTSCHÄDIGUNGEN:",
+              "text": [
+                "Durch die Nutzung dieser Website verpflichtet sich der Benutzer, Sellebration und seine Muttergesellschaften, Tochtergesellschaften, verbundenen Unternehmen, Direktoren, leitenden Angestellten, Berater und Mitarbeiter zu entschädigen und zu verteidigen und sie von allen Ansprüchen und Kosten, einschließlich Anwaltskosten, die sich aus dem Missbrauch dieser Website durch den Benutzer ergeben, schadlos zu halten oder Dienst."
+              ]
+            },
+            {
+              "head": "FRAGEN, KOMMENTARE ODER ANFRAGEN:",
+              "text": [
+                "Wenn Sie Fragen, Kommentare oder Zweifel haben, Mitteilungen über die Website oder diese Vereinbarung haben, können Sie uns gerne unter hello@sellebration.ltd kontaktieren."
+              ]
+            }
+          ]
     },
     "portuguese":{
         "home":
@@ -165,7 +834,119 @@
             "8": "Líderes seniores",
             "9": "A Vanguarda",
             "10": ""
-          }
+          },
+          "privacy": [
+            {
+              "head": "CONDIÇÕES GERAIS DE USO:",
+              "text": [
+                "Por favor, leia atentamente estes termos e condições de uso antes de usar este site. Se você não concorda com todos estes Termos e condições de uso, restrinja-se a usar este site. A Sellebration pode alterar estes Termos e Condições de tempos em tempos. Seu uso regular do site é contemplado como uma aceitação implícita das alterações e que você concorda em confirmar estes termos e condições.",
+                "Os termos e condições estabelecidos abaixo (Os “TERMOS”), bem como aqueles acomodados na política de privacidade do site, exercem controle sobre o uso do site na rede mundial de computadores e são legitimamente vinculativos para você. Se você deixar de concordar com qualquer um destes termos, por favor, não acesse ou use este site ou qualquer informação contida no site. Seu uso do site será considerado como sua compreensão e concordância com cada um dos termos e condições mencionados abaixo."
+              ]
+            },
+            {
+              "head": "RESTRIÇÕES AO USUÁRIO DO SITE:",
+              "text": [
+                "Todos os detalhes, informações e materiais deste site, incluindo texto, marcas registradas, logotipo, gráficos e imagens (Os “Materiais”), são trabalhos protegidos por direitos autorais e outras formas de propriedade intelectual da Sellebration ou de terceiros que autorizaram o uso de os materiais no site, Sellebration concede a você apenas a licença limitada para exibir os materiais em seu computador pessoal ou dispositivo sem fio pessoal, e para enviar por fax e baixar tais materiais, desde que, qualquer direito autoral, marca registrada ou outro aviso que apareça em tais materiais também mantido por, mostrado, enviado por fax ou baixado como parte dos materiais e não é detectado abstruso, tal exibição, cópia ou download é usado exclusivamente para suas informações confidenciais. Tais materiais não podem ser divulgados, transmitidos, exibidos ou espalhados por qualquer meio ou para qualquer finalidade. Você reconhece e concorda que não tem o direito de alterar ou modificar, editar ou aprimorar qualquer um dos materiais de qualquer maneira. Este direito limitado termina impulsivamente sem qualquer aviso a você, se você violar qualquer um dos termos após o término deste direito limitado de exibição, o usuário concorda em apagar instantaneamente ou destruir qualquer material baixado e impresso. Exceto conforme expressamente iniciado neste documento, você reconhece que não tem direito legítimo, título ou interesse ou aos materiais que não sejam limitados contra o direito de exibição."
+              ]
+            },
+            {
+              "head": "CONTEÚDO DA TERCEIRA FORÇA:",
+              "text": [
+                "A Sellebration não possui nenhum processo de revisão prévia especificado ou controle editorial sobre o conteúdo de terceiros. Qualquer escola de pensamento, orientação, afirmações, serviços, ofertas ou outras informações ou conteúdos indicados ou disponibilizados por terceiros, incluindo provedores de informações, membros ou qualquer outro usuário deste site, são de responsabilidade das respectivas partes e não necessariamente os para Venda. Nem a Sellebration nem qualquer outro fornecedor terceirizado de informações garante a precisão, integridade ou utilidade de qualquer conteúdo de terceiros, nem sua comercialização ou robustez para qualquer finalidade específica."
+              ]
+            },
+            {
+              "head": "LINKS DE E PARA OS SITES DA THIRD FORCE:",
+              "text": [
+                "Pode haver links ortodoxos entre este site e outros sites na rede mundial de computadores ou na Internet que não estão sob nosso comando ou não são comparados pela Sellebration Private Limited. Esses links não representam necessariamente um endosso da Sellebration a esses sites. A Sellebration não assume nenhuma obrigação de manter o controle desses sites, e o usuário concorda que a Sellebration não está no comando do conteúdo de tais sites, ou quaisquer problemas técnicos ou outros relacionados a qualquer site de terceiros, links ou uso. Você também concorda que, se estabelecer um link de qualquer outro site para o site, interromperá espontaneamente esse link ao receber uma notificação por escrito da Sellebration de seu protesto para esse link."
+              ]
+            },
+            {
+              "head": "RETORNO:",
+              "text": [
+                "O feedback do usuário e os dados capitulados são protegidos por leis de privacidade de acordo com as alterações de requisitos nos Termos e condições e alterações no site A Sellebration pode, a seu exclusivo critério e em intervalos de sua escolha exclusiva, atualizar este site e as políticas de uso do site vinculadas a eles a qualquer momento tempo e sem aviso prévio. É responsabilidade de cada usuário acompanhar essas alterações e determinar se deve ou não acessar e usar o site com base em tais alterações."
+              ]
+            },
+            {
+              "head": "TERMINAÇÃO:",
+              "text": [
+                "O acesso do usuário ao site estará sujeito à autorização da Sellebration para acessar o site. A Sellebration reserva-se o direito de acessar o site do usuário final a qualquer momento, sem aviso prévio, por qualquer motivo (incluindo, entre outros, se você violar estes termos) ou sem motivo. Embora o curso de ação preferido da Sellebration seja instruí-lo sobre seu comportamento inadequado e apresentar quaisquer medidas corretivas necessárias, a Sellebration não declara que o fará, nem é obrigada a monitorar ativamente tal comportamento ou fornecer tal notificação a você. O direito da Sellebration de encerrar o acesso do usuário é adicional a todas as outras reformas legais ou equitativas disponíveis para a Sellebration - abaixo, cujos direitos são total e expressamente reservados pela Sellebration. Após a rescisão deste contrato por qualquer incentivo, o usuário deve deixar de usar ou acessar o conteúdo ou serviços de qualquer site e ser responsável por qualquer tentativa não autorizada de fazê-lo por qualquer meio."
+              ]
+            },
+            {
+              "head": "CONTRATO DE MATERIAIS PROPRIETÁRIOS:",
+              "text": [
+                "Você reconhece que todos os materiais fornecidos neste site são de propriedade da Sellebration ou de empresas com Grupos Sellebration e são protegidos por direitos autorais, segredos comerciais e outras leis aplicáveis na respectiva jurisdição.",
+                "Você tem o direito restrito de exibir os materiais em seu computador pessoal e de copiar e baixar os materiais desde que:",
+                "1) quaisquer notificações de direitos autorais e marcas registradas que aparecem em tais materiais também são exibidas, enviadas por fax ou baixadas como parte dos materiais e não são removidas, movidas ou obscurecidas, e",
+                "2) tal exibição, cópia ou download é exclusivamente para sua utilização informativa privada. O direito restrito de acesso, exibição e uso do site termina espontaneamente, sem aviso prévio, se você violar qualquer um destes termos.",
+                "Você admite e concorda que não tem o direito de modificar, editar, alterar ou aprimorar qualquer um dos materiais de qualquer maneira. Os materiais não podem ser dispersos, transmitidos ou espalhados de qualquer maneira, para qualquer finalidade comercial, a menos que expressamente autorizado pela Sellebration com antecedência e por escrito. Você concorda em não usar o material de qualquer maneira que comprometa a natureza proprietária do material. Sem restringir tudo o que precede, você concorda em não fornecer os próprios materiais, reproduzidos ou modificados, ou qualquer coisa derivada dos materiais, oralmente ou por escrito, como parte de seminário, programa de treinamento, workshop, consultoria ou atividade comercial indistinguível que você disponibiliza para seus clientes ou para outros, exceto com o consentimento prévio em papel da Sellebration.",
+                "Exceto conforme expressamente declarado aqui, você entende que não tem nenhum privilégio, título ou interesse de qualquer tipo em qualquer base legal em ou para os materiais após o término desta licença ou uso limitado, você concorda em destruir espontaneamente qualquer material baixado ou impresso que você pode ter em sua posse ou controle."
+              ]
+            },
+            {
+              "head": "SEM AGÊNCIA OU PARCERIA:",
+              "text": [
+                "As partes são contratantes independentes. Nenhuma das partes pode dirigir ou administrar as atividades frequentes da outra; nenhuma das partes pode criar ou assumir qualquer obrigação legal em auxílio da outra."
+              ]
+            },
+            {
+              "head": "AVISOS:",
+              "text": [
+                "A Sellebration pode notificar o usuário por e-mail fornecido no formulário de registro do usuário ou outro endereço fornecido pelo usuário à Sellebration. O usuário deverá notificar a Sellebration por e-mail para hello@sellebration.ltd., com réplica enviada para o endereço constante do formulário de cadastro do usuário."
+              ]
+            },
+            {
+              "head": "ACORDO INTEGRAL, DIVISIBILIDADE, SEM RENÚNCIA NÃO INTERNACIONAL:",
+              "text": [
+                "Este Contrato, incluindo a Política de Privacidade e Isenção de Responsabilidade do Site, representa todo o contrato do usuário entre o usuário e a Sellebration e substitui quaisquer acordos ou entendimentos anteriores entre o usuário e a Sellebration. Nenhuma alteração ou modificação aqui será válida ou obrigatória para qualquer uma das partes, a menos que seja feita por escrito e assinada pelo emissário autorizado de ambas as partes."
+              ]
+            },
+            {
+              "head": "NENHUM BENEFICIÁRIO DE TERCEIROS:",
+              "text": [
+                "O usuário entende e concorda que este Contrato não deve, em nenhum cenário, ser construído como um contrato de terceiro beneficiário e que não se destina ao benefício de qualquer pessoa ou empresa ou quem quer que seja, exceto as partes aqui contidas."
+              ]
+            },
+            {
+              "head": "ATRIBUIÇÃO:",
+              "text": [
+                "A Sellebration pode designar alguns ou todos os seus direitos e compromissos aqui estabelecidos a qualquer parte sem o consentimento prévio ou notificação do usuário."
+              ]
+            },
+            {
+              "head": "LEI APLICÁVEL:",
+              "text": [
+                "As partes concordam que qualquer dissensão ou reivindicação decorrente ou relacionada a este Contrato ou a violação do mesmo, será regida e elucidada de acordo com as leis da Índia e as partes se rendem à jurisdição exclusiva dos tribunais de Haryana."
+              ]
+            },
+            {
+              "head": "ISENÇÃO DE GARANTIAS:",
+              "text": [
+                "Você, como usuário do site, reconhece e concorda que a Sellebration não se responsabiliza por quaisquer erros ou exclusões no site, inclusive nos materiais fornecidos pela Sellebration ou por terceiros. Você também reconhece e concorda que a Sellebration não oferece garantia ou representação de qualquer tipo quanto à disponibilidade do site ou partes dele, que o site ou partes dele podem ficar inacessíveis por vários períodos de tempo (seja devido a problemas de provedor de serviços de Internet ou de outra forma) e que a Sellebration não terá nenhuma responsabilidade por qualquer indisponibilidade ou imprecisão no site ou nos materiais. O usuário suportará todos os riscos análogos a qualquer conteúdo que o usuário acessar. O acesso do usuário a qualquer conteúdo disponibilizado por ou através de www.sellebration.ltd. e terceiros está sujeito à sua concordância com esta disposição e estes Termos e condições."
+              ]
+            },
+            {
+              "head": "AVISO DE ISENÇÃO DE RESPONSABILIDADE:",
+              "text": [
+                "TODOS OS SERVIÇOS FORNECIDOS ATRAVÉS DESTE WEBSITE SÃO FORNECIDOS “COMO ESTÃO” SEM QUALQUER TIPO DE GARANTIA. TODAS AS GARANTIAS EXPRESSAS, IMPLÍCITAS E JUDICIAIS, INCLUINDO, SEM LIMITAÇÃO, AS GARANTIAS DE COMERCIABILIDADE, ADEQUAÇÃO PARA UMA RESOLUÇÃO ESPECÍFICA E NÃO VIOLAÇÃO, SÃO EXPRESSAMENTE REJEITADAS NA MÁXIMA EXTENSÃO PERMITIDA POR LEI. E APRESENTAÇÃO DESTE SERVIÇO. A SELLEBRATION RENUNCIA A QUAISQUER GARANTIAS POR OUTROS SERVIÇOS OU BENS RECEBIDOS ATRAVÉS OU ANUNCIADOS NESTE WEBSITE OU RECEBIDOS ATRAVÉS DE QUAISQUER LINKS FORNECIDOS NESTE WEBSITE, BEM COMO QUALQUER INFORMAÇÃO OU CONSELHO RECEBIDO ATRAVÉS DO WEBSITE, BEM COMO POR QUALQUER INFORMAÇÃO OU CONSELHO RECEBIDO ATRAVÉS DO WEBSITE OU ATRAVÉS DE QUAISQUER LINKS FORNECIDOS NO WEBSITE. A SELLEBRATION ISENTA-SE DE QUALQUER GARANTIA POR QUALQUER INFORMAÇÃO OU CONSELHO OBTIDO ATRAVÉS DO SITE.",
+                "VOCÊ RECONHECE E CONCORDA QUE QUALQUER MATERIAL BAIXADO OU ADQUIRIDO DE OUTRA FORMA ATRAVÉS DO USO DOS PRODUTOS E SERVIÇOS É FEITO POR SUA PRÓPRIA CIRCUNSPECÇÃO E RISCO, E QUE VOCÊ SERÁ EXCLUSIVAMENTE RESPONSÁVEL POR QUAISQUER DANOS AO SEU SISTEMA DE COMPUTADOR OU PERDA DE DADOS QUE POSSAM RESULTAR EM O DOWNLOAD DE TAIS COISAS.",
+                "SOB NENHUM CONJUNTO DE ASSUNTOS A VENDA SERÁ RESPONSABILIZADA PERANTE QUALQUER USUÁRIO POR CONTA DO USO OU MAU USO E/OU CONFIANÇA DO USUÁRIO NO WEBSITE OU SEUS PRODUTOS E SERVIÇOS ASSOCIADOS. O USUÁRIO CONCORDA EXPRESSAMENTE QUE ESSA LIMITAÇÃO DE CARGA SERÁ APLICADA PARA EVITAR A RECUPERAÇÃO DE DANOS DIRETOS, INDIRETOS, INCIDENTAIS, CONSEQUENCIAIS, ESPECIAIS, EXEMPLARES E PUNITIVOS (MESMO QUE A VENDA TENHA AVISADO DA POSSIBILIDADE DE TAIS DANOS). ESSA REDUÇÃO DE RESPONSABILIDADE SERÁ APLICADA SE A DESTRUIÇÃO DECORRER DO USO OU MAU USO E CONFIANÇA NO WEBSITE, PRODUTOS OU SERVIÇOS, DA INCAPACIDADE DE USAR O WEBSITE OU DA INTERRUPÇÃO, ADIAMENTO OU ENCERRAMENTO DOS WEBSITES OU DANOS INCORRIDOS POR RAZÃO DE OUTROS SERVIÇOS OU BENS RECEBIDOS ATRAVÉS OU ANUNCIADOS NESTE SERVIÇO OU RECEBIDOS ATRAVÉS DE QUAISQUER LINKS FORNECIDOS NESTE WEBSITE, BEM COMO POR QUAISQUER INFORMAÇÕES OU CONSELHOS RECEBIDOS ATRAVÉS OU ANUNCIADOS NOS SERVIÇOS, OU RECEBIDOS ATRAVÉS DE QUAISQUER LINKS FORNECIDOS NOS PRODUTOS E SERVIÇOS."
+              ]
+            },
+            {
+              "head": "INDENIZAÇÕES:",
+              "text": [
+                "Ao usar este site, o usuário concorda em reembolsar e defender a Sellebration e suas controladoras, subsidiárias, afiliadas, diretores, executivos, consultores e funcionários e isentá-los de todas e quaisquer reivindicações e despesas, incluindo honorários advocatícios, decorrentes do uso indevido deste site pelo usuário ou serviço."
+              ]
+            },
+            {
+              "head": "DÚVIDAS, COMENTÁRIOS OU DÚVIDAS:",
+              "text": [
+                "Se você tiver quaisquer perguntas, comentários ou dúvidas, avisos sobre o site ou este Contrato, sinta-se à vontade para nos contatar em hello@sellebration.ltd."
+              ]
+            }
+          ]
     },
     "japnese":{
         "home":
@@ -189,7 +970,119 @@
         "8": "シニアリーダー",
         "9": "ヴァンガード",
         "10": ""
-        }
+        },
+        "privacy": [
+            {
+              "head": "一般利用規約:",
+              "text": [
+                "このウェブサイトを使用する前に、これらの使用条件をよく読んでください。これらの利用規約のすべてに同意しない場合は、この Web サイトの使用を制限してください。 Sellebration は、これらの利用規約を随時修正する場合があります。ウェブサイトを定期的に使用することは、変更を黙示的に受け入れることと見なされ、これらの利用規約を確認し続けることに同意するものとします。",
+                "以下に記載されている条件 (「条件」) および Web サイトのプライバシー ポリシーに記載されている条件は、ワールド ワイド Web での Web サイトの使用を制御し、法的に拘束されます。これらの条件のいずれかに同意しなくなった場合は、この Web サイトまたは Web サイトで禁止されている情報にアクセスしたり、使用したりしないでください。ウェブサイトの使用は、以下に記載されている各条件を理解し、同意したものとみなされます。"
+              ]
+            },
+            {
+              "head": "ウェブサイトのユーザー制限:",
+              "text": [
+                "テキスト、商標、ロゴ、グラフィックス、および画像 (「資料」) を含む、このウェブサイト上のすべての詳細および情報および資料 (「資料」) は、Sellebration またはその使用を許可した第三者の著作物およびその他の形態の知的財産です。 Sellebration は、ウェブサイト上の資料について、著作権、商標、またはその他の通知がそのような資料に表示されることを条件として、お客様のパーソナル コンピュータまたは個人のワイヤレス デバイスで資料を展示し、そのような資料をファクシミリおよびダウンロードするための限定的なライセンスのみを保証します。また、素材の一部として保存、表示、ファクシミリ、またはダウンロードされ、そのような展示、コピー、またはダウンロードが、あなたの機密情報のためにのみ使用されていることを検出できません。そのような資料は、いかなる手段または目的でも配布、送信、表示、または配布することはできません。お客様は、いかなる方法においても、資料を変更、修正、編集、または強化する権利を持たないことを認め、同意するものとします。この限定された権利は、あなたへの通知なしに衝動的に終了します。この限定された表示権の終了時に条件のいずれかに違反した場合、ユーザーは、ダウンロードおよび印刷された資料を即座に消去または破棄することに同意します。ここに明示的に開始されている場合を除き、あなたは、正当な権利、権原、利益、または表示の制限された権利以外の資料を保持していないことを認めます."
+              ]
+            },
+            {
+              "head": "サード フォース コンテンツ:",
+              "text": [
+                "Sellebration には、サード フォースのコンテンツに対する特定の事前審査プロセスや編集管理はありません。情報提供者、メンバー、またはこのウェブサイトの他のユーザーを含む、第三者によって示され、または利用可能にされた思想、ガイダンス、断言、サービス、オファー、またはその他の情報またはコンテンツは、それぞれの当事者のものであり、必ずしもそれらのものではありません。セレブレーション用。 Sellebration も他の第三者の情報提供者も、第三者のコンテンツの正確性、完全性、または有用性、特定の目的に対するその商品性または堅牢性を保証するものではありません。"
+              ]
+            },
+            {
+              "head": "サード フォースのサイトへのリンクとサイトからのリンク:",
+              "text": [
+                "このウェブサイトとワールド ワイド ウェブまたはインターネット上の他のウェブサイトとの間には、当社の管理下にない、または Sellebration Private Limited によってベンチマークされていない正統なリンクが存在する場合があります。そのようなリンクは、それらの Web サイトの Sellebration による保証を必ずしも説明するものではありません。 Sellebration は、これらの Web サイトを追跡する義務を負いません。ユーザーは、Sellebration がそのような Web サイトのコンテンツ、またはそのようなサードパーティの Web サイト、リンク、または使用法に関連する技術的またはその他の問題の指揮を執っていないことに同意します。さらに、他のウェブサイトからウェブサイトへのリンクを確立する場合、Sellebration からそのようなリンクへの抗議の書面による通知を受け取った時点で、そのようなリンクを自発的に中止することに同意するものとします。"
+              ]
+            },
+            {
+              "head": "フィードバック：",
+              "text": [
+                "ユーザーからのフィードバックとデータは、利用規約の要件の変更およびウェブサイトの変更に従って、プライバシー法によって保護されます時間と予告なし。そのような変更を追跡し、そのような変更に基づいてウェブサイトにアクセスして使用することに耐えるかどうかを判断することは、各ユーザーの責任です。"
+              ]
+            },
+            {
+              "head": "終了：",
+              "text": [
+                "ウェブサイトへのユーザーのアクセスは、Sellebration のウェブサイトへのアクセス許可の対象となります。 Sellebration は、理由の如何を問わず (お客様がこれらの条件に違反した場合を含むがこれに限定されない)、または理由なく、通知なしにいつでもユーザーのウェブサイトへのアクセスを終了する権利を留保します。 Sellebration の優先する行動方針は、あなたの不適切な行動についてあなたに指示し、必要な是正措置を提案することですが、Sellebration は、そのような行動を積極的に監視したり、あなたにそのような通知を提供したりする必要があることを表明するものではありません.ユーザーのアクセスを終了する Sellebration の権利は、Sellebration が利用できる他のすべての法的または衡平法上の改革に追加されるものであり、これらの権利は完全かつ明示的に Sellebration によって留保されます。インセンティブのための本契約の終了時に、ユーザーは、ウェブサイトのコンテンツまたはサービスの使用またはアクセスを中止し、何らかの手段による不正な試みに対して責任を負うものとします。"
+              ]
+            },
+            {
+              "head": "専有資料契約:",
+              "text": [
+                "このウェブサイトで提供されるすべての資料は、Sellebration または Sellebration グループを持つ企業の所有物であり、著作権、企業秘密、およびそれぞれの法域で適用されるその他の法律によって保護されていることを認めます。",
+                "あなたは、あなたのパソコンで資料を表示し、資料をコピーおよびダウンロードする制限された権利を持っています:",
+                "1) そのような素材に表示される著作権および商標の通知も、素材の一部として表示、ファクシミリ、またはダウンロードされ、削除、移動、または隠蔽されていないこと、および",
+                "2) そのような表示、コピー、またはダウンロードは、個人的な情報利用のみを目的としています。これらの条件のいずれかに違反した場合、ウェブサイトへのアクセス、表示、および使用に対する制限された権利は、お客様に通知することなく自然に終了します。",
+                "あなたは、いかなる方法においても、いかなる資料も修正、編集、変更、または強化する権利がないことを認め、同意します. Sellebration による事前の書面による明示的な許可がない限り、商業目的で資料を分散、送信、または分散させることはできません。お客様は、素材の所有権を侵害するような方法で素材を使用しないことに同意します。上記のすべてを制限することなく、お客様は、セミナー、トレーニング プログラム、ワークショップ、コンサルティング、または見分けがつかないビジネス活動の一部として、複製または修正された資料自体、または資料から派生したものを、口頭または書面で提供しないことに同意するものとします。 Sellebration の書面による事前の同意がある場合を除き、クライアントまたは他のユーザーが入手できるようにするもの。",
+                "ここに明示的に記載されている場合を除き、お客様は、この制限付きライセンスまたは使用の終了時に、法的根拠に基づくいかなる種類の特権、権原、または利益も有しないことを理解し、ダウンロードまたは印刷された資料を自発的に破棄することに同意するものとします。あなたが所有または管理している可能性があります。"
+              ]
+            },
+            {
+              "head": "代理店またはパートナーシップなし:",
+              "text": [
+                "当事者は異端の請負業者です。いずれの当事者も、他方の頻繁な活動を指示または管理することはできません。いずれの当事者も、相手方を支援する法的義務を作成したり引き受けたりすることはできません。"
+              ]
+            },
+            {
+              "head": "注意:",
+              "text": [
+                "Sellebration は、ユーザーの登録フォームに記載されている電子メール、またはユーザーが Sellebration に提供したその他のアドレスを介して、ユーザーに通知を行うことができます。ユーザーは、hello@selebration.ltd. 宛ての電子メールで Sellebration に通知し、レプリカをユーザーの登録フォームのアドレスに送信するものとします。"
+              ]
+            },
+            {
+              "head": "完全合意、可分性、非国際的権利放棄なし:",
+              "text": [
+                "ウェブサイトのプライバシー ポリシーと免責事項を含む本契約は、ユーザーと Sellebration の間のユーザー契約全体を説明し、ユーザーと Sellebration の間の以前の契約または理解に優先します。本契約の変更または修正は、書面で行われ、両当事者の権限を与えられた使者によって署名されない限り、有効ではなく、いずれかの当事者を拘束するものではありません。"
+              ]
+            },
+            {
+              "head": "第三者受益者なし:",
+              "text": [
+                "ユーザーは、本契約がいかなるシナリオにおいても第三者受益者契約として構築されないこと、および本契約の当事者以外の個人、会社、または誰の利益も意図していないことを理解し、同意するものとします。"
+              ]
+            },
+            {
+              "head": "割り当て：",
+              "text": [
+                "Sellebration は、ユーザーの事前の同意または通知なしに、本契約に基づくその権利およびコミットメントの一部またはすべてを任意の当事者に指定することができます。"
+              ]
+            },
+            {
+              "head": "準拠法:",
+              "text": [
+                "両当事者は、本契約またはその違反に起因または関連する意見の相違または請求は、インドの法律に準拠し、インドの法律に従って解明されることに同意し、両当事者はハリヤナ州の裁判所の専属管轄権に屈服するものとします。"
+              ]
+            },
+            {
+              "head": "保証の否認:",
+              "text": [
+                "Web サイトのユーザーとして、Sellebration は、Sellebration または第三者によって提供されたかどうかにかかわらず、資料を含む Web サイトのエラーまたは除外について責任を負わないことを認め、同意します。さらに、Sellebration は、ウェブサイトまたはその一部の可用性について、いかなる種類の保証または表明も行わないこと、ウェブサイトまたはその一部がさまざまな期間 (インターネット サービス プロバイダーの問題またはその他の理由による) でアクセスできない可能性があることを認め、同意するものとします。また、Sellebration は、ウェブサイトまたは資料が利用できない、または不正確であっても、責任を負わないものとします。ユーザーは、ユーザーがアクセスするコンテンツに類似するすべてのリスクに耐えるものとします。 www.selebration.ltd によって、または www.selebration.ltd を通じて利用可能になったコンテンツへのユーザー アクセス。および第三者は、この条項およびこれらの利用規約へのお客様の同意の対象となります。"
+              ]
+            },
+            {
+              "head": "免責事項:",
+              "text": [
+                "このウェブサイトを通じて提供されるすべてのサービスは、いかなる保証もなく「現状のまま」提供されます。商品性、特定の解決への適合性、および非侵害性の保証を含むがこれらに限定されない、すべての明示的、黙示的、および司法上の保証は、法律で認められる最大限の範囲で明示的に否認されます。および本サービスの提示。 SELLEBRATION は、この Web サイトを通じて受け取った、またはこの Web サイトで宣伝された、またはこの Web サイトで提供されるリンクを通じて受け取った他のサービスまたは商品、ならびに Web サイトを通じて受け取った情報またはアドバイス、ならびに Web サイトまたはウェブサイトで提供されるリンクを通じて。同様に、SELLEBRATION は、サイトを通じて得られた情報またはアドバイスについて、いかなる保証も否認します。",
+                "お客様は、製品およびサービスの使用を通じてダウンロードまたはその他の方法で取得したものはすべて、お客様自身の状況とリスクで行われ、お客様のコンピューター システムへの損害またはデータの誤用について、お客様が単独で責任を負うことを認め、同意するものとします。そのようなもののダウンロード。",
+                "いかなる状況においても、Sellebration は、ウェブサイト、または関連する製品およびサービスのユーザーによる使用または誤用および/または依存を理由として、ユーザーに対して責任を負わないものとします。ユーザーは、直接的、間接的、偶発的、結果的、特別、懲罰的および懲罰的損害の回復を防ぐために、そのような請求可能性の制限が適用されることに明示的に同意します (SELLEBRATION がそのような損害の可能性を通知していたとしても)。このような責任の軽減は、破壊が、ウェブサイト、製品、またはサービスの使用または誤用および信頼に起因するか、ウェブサイトを使用できないこと、またはウェブサイトの中断、延期、または終了、またはその他の理由により被った損害に起因するかにかかわらず、適用されるものとします。このサービスを通じて受け取った、またはこのサービスで宣伝された、またはこのウェブサイトで提供されたリンクを通じて受け取ったサービスまたは商品。"
+              ]
+            },
+            {
+              "head": "補償:",
+              "text": [
+                "この Web サイトを使用することにより、ユーザーは、Sellebration およびその親会社、子会社、関連会社、取締役、役員、コンサルタント、および従業員を弁護および弁護し、ユーザーによるこの Web サイトの誤用に起因する、弁護士費用を含むすべての請求および費用から免責することに同意するものとします。またはサービス。"
+              ]
+            },
+            {
+              "head": "質問、コメント、またはクエリ:",
+              "text": [
+                "ウェブサイトまたは本契約に関する質問、コメント、疑問、通知がある場合は、hello@selebration.ltd までお気軽にお問い合わせください。"
+              ]
+            }
+          ]
     },
     "hindi":{
         "home":
@@ -213,7 +1106,119 @@
             "8": "वरिष्ठ नेता",
             "9": "मोहरा",
             "10": ""
-        }
+        },
+        "privacy": [
+            {
+              "head": "उपयोग की सामान्य शर्तें:",
+              "text": [
+                "कृपया इस वेबसाइट का उपयोग करने से पहले उपयोग के इन नियमों और शर्तों को ध्यान से देखें। यदि आप उपयोग के इन सभी नियमों और शर्तों से सहमत नहीं हैं, तो इस वेबसाइट का उपयोग करने से स्वयं को प्रतिबंधित करें। बिक्री समय-समय पर इन नियमों और शर्तों में संशोधन कर सकती है। वेबसाइट के आपके नियमित उपयोग को परिवर्तनों की एक निहित स्वीकृति के रूप में माना जाता है और आप इन नियमों और शर्तों की पुष्टि करने के लिए सहमत हैं।",
+                "नियम और शर्तें नीचे दी गई हैं (\"नियम\") और साथ ही वेबसाइट की गोपनीयता नीति में शामिल हैं जो वर्ल्ड वाइड वेब पर वेबसाइट के आपके उपयोग पर नियंत्रण रखती हैं और वैध रूप से आप पर बाध्यकारी हैं। यदि आप इनमें से किसी भी शर्त से सहमत नहीं हैं, तो कृपया इस वेबसाइट या वेबसाइट पर प्रतिबंधित किसी भी जानकारी का उपयोग न करें या अन्यथा इसका उपयोग न करें। वेबसाइट के आपके उपयोग को नीचे उल्लिखित प्रत्येक नियम और शर्तों के बारे में आपकी समझ और सहमति माना जाएगा।"
+              ]
+            },
+            {
+              "head": "वेबसाइट उपयोगकर्ता प्रतिबंध:",
+              "text": [
+                "इस वेबसाइट पर सभी विवरण और जानकारी और सामग्री, जिसमें पाठ, ट्रेडमार्क, लोगो, ग्राफिक्स, और चित्र (\"सामग्री\") शामिल हैं, कॉपीराइट किए गए कार्य हैं और सेलेब्रेशन या तीसरे बलों की बौद्धिक संपदा के अन्य रूप हैं, जिन्होंने अधिकृत उपयोग किया है। वेबसाइट पर सामग्री, सेलिब्रेशन आपके व्यक्तिगत कंप्यूटर या व्यक्तिगत वायरलेस डिवाइस पर सामग्री प्रदर्शित करने के लिए आपको केवल सीमित लाइसेंस प्रदान करता है, और ऐसी सामग्री को फैक्स करने और डाउनलोड करने के लिए, बशर्ते कि ऐसी सामग्री पर कोई कॉपीराइट, ट्रेडमार्क या अन्य नोटिस दिखाई दे। सामग्री के हिस्से के रूप में भी रखा, दिखाया, प्रतिकृति, या डाउनलोड किया गया और दुरुपयोग का पता नहीं चला, ऐसी प्रदर्शनी, कॉपी या डाउनलोड का उपयोग केवल आपकी गोपनीय जानकारी के लिए किया जाता है। इस तरह की सामग्री को किसी भी तरह से या किसी भी उद्देश्य के लिए प्रसारित, प्रसारित, दिखाया या बिखेरा नहीं जा सकता है। आप स्वीकार करते हैं और सहमति देते हैं कि आपके पास कोई अधिकार नहीं है और न ही आप किसी भी सामग्री को किसी भी तरीके से संशोधित या संशोधित, संपादित या बढ़ाएंगे। यह सीमित अधिकार आपको बिना किसी सूचना के आवेगपूर्ण रूप से समाप्त कर देता है, यदि आप प्रदर्शन के इस सीमित अधिकार को समाप्त करने पर किसी भी नियम का उल्लंघन करते हैं, तो उपयोगकर्ता किसी भी डाउनलोड और मुद्रित सामग्री को तुरंत मिटाने या अन्यथा नष्ट करने के लिए सहमत होता है। यहां स्पष्ट रूप से शुरू होने के अलावा, आप स्वीकार करते हैं कि आपके पास प्रदर्शन के अधिकार के खिलाफ सीमित अधिकार के अलावा वैध अधिकार या शीर्षक या हित या सामग्री पर कोई पकड़ नहीं है।"
+              ]
+            },
+            {
+              "head": "तीसरा बल सामग्री:",
+              "text": [
+                "सेलेब्रेशन के पास कोई निर्दिष्ट पूर्व समीक्षा प्रक्रिया या तृतीय बलों की सामग्री पर संपादकीय नियंत्रण नहीं है। सूचना प्रदाताओं, सदस्यों, या इस वेबसाइट के किसी भी अन्य उपयोगकर्ता सहित, विचार, मार्गदर्शन, प्रतिज्ञान, सेवाओं, प्रस्तावों या अन्य जानकारी या तीसरे पक्ष द्वारा उपलब्ध कराई गई जानकारी या सामग्री का कोई भी स्कूल, संबंधित पार्टियों के हैं और जरूरी नहीं कि वे सेलब्रेशन के लिए। न तो सेलब्रेशन और न ही सूचना का कोई अन्य तृतीय-पक्ष प्रदाता किसी तीसरे बल की सामग्री की सटीकता, पूर्णता या उपयोगिता की कसम खाता है, न ही किसी विशेष उद्देश्य के लिए इसकी व्यापारिकता या मजबूती।"
+              ]
+            },
+            {
+              "head": "थर्ड फ़ोर्स की साइटों के लिए और उनसे लिंक:",
+              "text": [
+                "इस वेबसाइट और वर्ल्ड वाइड वेब या इंटरनेट पर अन्य वेबसाइटों के बीच रूढ़िवादी लिंक हो सकते हैं जो हमारे आदेश के तहत नहीं हैं या सेलब्रेशन प्राइवेट लिमिटेड द्वारा बेंचमार्क किए गए हैं। इस तरह के लिंक जरूरी नहीं कि उन वेबसाइटों के सेलब्रेशन द्वारा समर्थन के लिए जिम्मेदार हों। सेलब्रेशन इन वेबसाइटों पर नज़र रखने के लिए कोई दायित्व नहीं संभालता है, और उपयोगकर्ता इस बात से सहमत है कि सेलिब्रेशन ऐसी वेबसाइटों की सामग्री, या ऐसी किसी भी तृतीय-पक्ष वेबसाइट, लिंक या उपयोग से जुड़ी किसी भी तकनीकी या अन्य समस्याओं के शीर्ष पर नहीं है। आप आगे इस बात से सहमत हैं कि यदि आप किसी अन्य वेबसाइट से वेबसाइट के लिए लिंक स्थापित करते हैं, तो सेलब्रेशन से ऐसे किसी भी लिंक के प्रदर्शन की लिखित सूचना प्राप्त होने पर आप ऐसे लिंक को अनायास बंद कर देंगे।"
+              ]
+            },
+            {
+              "head": "प्रतिक्रिया:",
+              "text": [
+                "प्रयोक्ता प्रतिक्रिया और डेटा को निजता कानूनों द्वारा संरक्षित किया जाता है, नियम और शर्तों में आवश्यकता के अनुसार परिवर्तन और वेबसाइट में परिवर्तन बिक्री अपने विवेकाधिकार में और अपने एकमात्र चयन के अंतरिम में, इस वेबसाइट को अपग्रेड कर सकती है और वेबसाइट किसी भी समय उनसे जुड़ी नीतियों का उपयोग कर सकती है। समय और बिना किसी पूर्व सूचना के। इस तरह के परिवर्तनों पर नज़र रखना, और ऐसे किसी भी बदलाव के आधार पर वेबसाइट तक पहुँच और उपयोग को सहन करना है या नहीं, यह निर्धारित करने के लिए प्रत्येक उपयोगकर्ता का उत्तरदायित्व है।"
+              ]
+            },
+            {
+              "head": "समाप्ति:",
+              "text": [
+                "वेबसाइट तक उपयोगकर्ता की पहुंच वेबसाइट तक पहुंचने के लिए सेलब्रेशन के प्राधिकरण के अधीन होगी। सेलब्रेशन किसी भी समय बिना किसी कारण के, किसी भी कारण से (यदि आप इन शर्तों का उल्लंघन करते हैं, लेकिन इस तक सीमित नहीं है) या बिना किसी कारण के, किसी भी समय वेबसाइट पर उपयोगकर्ता की पहुंच को समाप्त करने का अधिकार सुरक्षित रखता है। जबकि सेलेब्रेशन की कार्रवाई का पसंदीदा तरीका आपको अपने अनुचित व्यवहार के बारे में निर्देश देना है और किसी भी आवश्यक सुधारात्मक उपायों को आगे बढ़ाना है, सेलब्रेशन यह प्रतिनिधित्व नहीं करता है कि यह होगा, न ही इस तरह के व्यवहार की सक्रिय रूप से निगरानी करने या आपको इस तरह की सूचना प्रदान करने की आवश्यकता है। उपयोगकर्ता की पहुंच को समाप्त करने के लिए बिक्री का अधिकार बिक्री के लिए उपलब्ध अन्य सभी कानूनी या न्यायसंगत सुधारों के अतिरिक्त है- यहां, जो अधिकार पूरी तरह से और स्पष्ट रूप से बिक्री द्वारा आरक्षित हैं। किसी भी प्रोत्साहन के लिए इस समझौते को समाप्त करने पर, उपयोगकर्ता किसी भी वेबसाइट की सामग्री या सेवाओं का उपयोग या आगे उपयोग करना बंद कर देगा और किसी भी माध्यम से ऐसा करने के किसी भी अनधिकृत प्रयास के लिए जवाबदेह होगा।"
+              ]
+            },
+            {
+              "head": "मालिकाना सामग्री समझौता:",
+              "text": [
+                "आप स्वीकार करते हैं कि इस वेबसाइट पर प्रदान की गई सभी सामग्रियां सेलेब्रेशन या सेलेब्रेशन ग्रुप वाली कंपनियों की मालिकाना संपत्ति हैं और संबंधित क्षेत्राधिकार में कॉपीराइट, व्यापार रहस्य और अन्य लागू कानूनों द्वारा सुरक्षित हैं।",
+                "आपके पास अपने व्यक्तिगत कंप्यूटर पर सामग्री प्रदर्शित करने और सामग्री को कॉपी और डाउनलोड करने का प्रतिबंधित अधिकार है, बशर्ते कि:",
+                "1) ऐसी सामग्रियों पर दिखाई देने वाली कोई भी कॉपीराइट और ट्रेडमार्क सूचनाएं भी सामग्री के हिस्से के रूप में प्रदर्शित, प्रतिकृति या डाउनलोड की जाती हैं, और उन्हें हटाया, स्थानांतरित या अस्पष्ट नहीं किया जाता है, और",
+                "2) ऐसा प्रदर्शन, प्रतिलिपि या डाउनलोड केवल आपके निजी सूचनात्मक उपयोग के लिए है। यदि आप इनमें से किसी भी नियम का उल्लंघन करते हैं, तो बिना किसी सूचना के वेबसाइट तक पहुंचने, प्रदर्शित करने और उपयोग करने का प्रतिबंधित अधिकार अनायास समाप्त हो जाता है।",
+                "आप स्वीकार करते हैं और सहमति देते हैं कि आपको किसी भी सामग्री को किसी भी तरीके से संशोधित करने, संपादित करने, बदलने या बढ़ाने का कोई अधिकार नहीं है। सामग्रियों को किसी भी वाणिज्यिक उद्देश्य के लिए किसी भी तरीके से फैलाया, प्रेषित या बिखरा नहीं किया जा सकता है, जब तक कि बिक्री द्वारा अग्रिम रूप से और लिखित रूप से ऐसा करने के लिए स्पष्ट रूप से अधिकृत नहीं किया गया हो। आप सामग्री का उपयोग किसी भी तरह से नहीं करने के लिए सहमति देते हैं जो सामान की स्वामित्व प्रकृति से समझौता करे। पूर्वगामी को प्रतिबंधित किए बिना, आप संगोष्ठी, प्रशिक्षण कार्यक्रम, कार्यशाला, परामर्श, या अप्रभेद्य व्यावसायिक गतिविधि के एक भाग के रूप में, या तो पुन: प्रस्तुत या संशोधित, या सामग्री से प्राप्त कुछ भी, या तो मौखिक रूप से या लिखित रूप में सामग्री प्रदान नहीं करने के लिए सहमत हैं। जिसे आप अपने ग्राहकों या अन्य लोगों के लिए प्राप्य बनाते हैं, सिवाए सेलेब्रेशन की पूर्व कागजी सहमति के।",
+                "यहां स्पष्ट रूप से बताए गए को छोड़कर, आप समझते हैं कि इस सीमित लाइसेंस या उपयोग को समाप्त करने पर या सामग्री के लिए किसी भी कानूनी आधार पर आपके पास कोई विशेषाधिकार, शीर्षक या हित नहीं है, आप किसी भी डाउनलोड या मुद्रित सामग्री को स्वचालित रूप से नष्ट करने के लिए सहमत हैं जो आपके कब्जे या नियंत्रण में हो सकता है।"
+              ]
+            },
+            {
+              "head": "कोई एजेंसी या साझेदारी नहीं:",
+              "text": [
+                "पार्टियां मनमौजी ठेकेदार हैं। कोई भी पक्ष दूसरे की लगातार गतिविधियों को निर्देशित या संचालित नहीं कर सकता है; कोई भी पक्ष दूसरे की सहायता के लिए कोई कानूनी दायित्व नहीं बना सकता है या ग्रहण नहीं कर सकता है।"
+              ]
+            },
+            {
+              "head": "नोटिस:",
+              "text": [
+                "सेलब्रेशन उपयोगकर्ता के पंजीकरण फॉर्म पर प्रदान किए गए ईमेल या सेलब्रेशन के लिए उपयोगकर्ता द्वारा प्रदान किए गए ऐसे अन्य पते के माध्यम से उपयोगकर्ता को नोटिस प्रदान कर सकता है। उपयोगकर्ता सेलेब्रेशन को ईमेल के माध्यम से hello@sellebration.ltd. पर नोटिस प्रदान करेगा, जिसकी प्रतिकृति उपयोगकर्ता के पंजीकरण फॉर्म पर पते पर भेजी जाएगी।"
+              ]
+            },
+            {
+              "head": "संपूर्ण समझौता, पृथक्करणीयता, कोई अंतरराष्ट्रीय छूट नहीं:",
+              "text": [
+                "यह अनुबंध, जिसमें वेबसाइट की गोपनीयता नीति और अस्वीकरण शामिल है, उपयोगकर्ता और सेलब्रेशन के बीच संपूर्ण उपयोगकर्ता समझौते के लिए खाता है, और उपयोगकर्ता और सेलब्रेशन के बीच किसी भी पिछले समझौते या समझ को अधिक्रमित करता है। इसमें कोई परिवर्तन या संशोधन दोनों पक्षों के लिए मान्य या बाध्यकारी नहीं होगा जब तक कि दोनों पक्षों के अधिकृत दूत द्वारा लिखित और हस्ताक्षरित न किया गया हो।"
+              ]
+            },
+            {
+              "head": "कोई तृतीय-पक्ष लाभार्थी नहीं:",
+              "text": [
+                "उपयोगकर्ता समझता है और सहमति देता है कि यह समझौता किसी भी परिदृश्य में तीसरे पक्ष के लाभार्थी अनुबंध के रूप में नहीं बनाया जाएगा, और यह किसी भी व्यक्ति या कंपनी या पार्टियों को छोड़कर किसी के लाभ के लिए अभिप्रेत नहीं है।"
+              ]
+            },
+            {
+              "head": "कार्यभार:",
+              "text": [
+                "सेलब्रेशन उपयोगकर्ता की पूर्व सहमति या नोटिस के बिना किसी भी पार्टी को इसके तहत किसी भी या सभी अधिकारों और प्रतिबद्धताओं को नामित कर सकता है।"
+              ]
+            },
+            {
+              "head": "शासी कानून:",
+              "text": [
+                "पार्टियां इस बात से सहमत हैं कि इस समझौते या इसके उल्लंघन से संबंधित किसी भी विवाद या दावे को भारत के कानूनों के अनुसार शासित और स्पष्ट किया जाएगा और पार्टियां हरियाणा की अदालतों के विशेष क्षेत्राधिकार के लिए आत्मसमर्पण करती हैं।"
+              ]
+            },
+            {
+              "head": "वारंटियों का अस्वीकरण:",
+              "text": [
+                "आप वेबसाइट के एक उपयोगकर्ता के रूप में स्वीकार करते हैं और सहमति देते हैं कि वेबसाइट में किसी भी त्रुटि या बहिष्करण के लिए सेलिब्रेशन की कोई जवाबदेही नहीं है, जिसमें सामग्री शामिल है, चाहे सेलब्रेशन या तीसरे पक्ष द्वारा प्रदान की गई हो। आप आगे स्वीकार करते हैं और सहमत हैं कि सेलब्रेशन वेबसाइट या उसके हिस्से की उपलब्धता के बारे में किसी भी प्रकार की कोई वारंटी या प्रतिनिधित्व नहीं करता है, कि वेबसाइट या उसके हिस्से विभिन्न समय अवधि के लिए दुर्गम हो सकते हैं (चाहे इंटरनेट सेवा प्रदाता की समस्याओं के कारण या अन्यथा) और उस सेलब्रेशन की वेबसाइट या सामग्री में किसी भी अनुपलब्धता या अशुद्धि के लिए कोई जवाबदेही नहीं होगी। उपयोगकर्ता द्वारा एक्सेस की जाने वाली किसी भी सामग्री के अनुरूप उपयोगकर्ता सभी जोखिमों को सहन करेगा। www.sellebration.ltd द्वारा या इसके माध्यम से उपलब्ध कराई गई किसी भी सामग्री तक उपयोगकर्ता की पहुंच। और तीसरे पक्ष इस प्रावधान और इन नियमों और शर्तों के लिए आपके समझौते के अधीन हैं।"
+              ]
+            },
+            {
+              "head": "अस्वीकरण नोटिस:",
+              "text": [
+                "इस वेबसाइट के माध्यम से प्रदान की जाने वाली सभी सेवाएँ बिना किसी वारंटी के \"जैसा है\" प्रदान की जाती हैं। सभी व्यक्त, निहित और न्यायिक वारंटियाँ, जिनमें बिना किसी सीमा के, व्यापारिकता की वारंटी, किसी विशेष समाधान के लिए उपयुक्तता और गैर-उल्लंघन शामिल हैं, स्पष्ट रूप से कानून द्वारा अनुमत पूर्ण सीमा तक अस्वीकृत हैं, बिक्री सुरक्षा, समयबद्धता के लिए किसी भी वारंटी का खंडन करती है और इस सेवा की प्रस्तुति। बिक्री अन्य सेवाओं या इस वेबसाइट के माध्यम से प्राप्त या विज्ञापित या इस वेबसाइट में प्रदान किए गए किसी भी लिंक के साथ-साथ वेबसाइट के माध्यम से प्राप्त किसी भी जानकारी या सलाह के साथ-साथ किसी भी जानकारी या वेबसाइट के माध्यम से प्राप्त किसी भी जानकारी के लिए किसी भी वारंटी को अस्वीकार करती है। वेबसाइट में दिए गए किसी भी लिंक के माध्यम से। बिक्री समान रूप से साइट के माध्यम से प्राप्त किसी भी जानकारी या सलाह के लिए किसी भी वारंटियों को अस्वीकार करती है।",
+                "आप स्वीकार करते हैं और सहमत हैं कि उत्पादों और सेवाओं के उपयोग के माध्यम से डाउनलोड की गई या अन्यथा प्राप्त की गई कोई भी सामग्री आपके अपने जोखिम और जोखिम पर की जाती है, और यह कि आप अपने कंप्यूटर सिस्टम को होने वाली किसी भी क्षति या डेटा की गड़बड़ी के लिए विशेष रूप से जिम्मेदार होंगे, जिसका परिणाम हो सकता है ऐसी सामग्री का डाउनलोड।",
+                "मामलों के किसी भी सेट के तहत बिक्री किसी भी उपयोगकर्ता के लिए उस उपयोगकर्ता के उपयोग या दुरुपयोग और/या वेबसाइट, या इसके संबद्ध उत्पादों और सेवाओं पर निर्भरता के लिए जवाबदेह नहीं होगी। उपयोगकर्ता स्पष्ट रूप से सहमत है कि प्रभार्यता की ऐसी सीमा प्रत्यक्ष, अप्रत्यक्ष, आकस्मिक, परिणामी, विशेष, अनुकरणीय और दंडात्मक क्षतियों की वसूली को रोकने के लिए लागू होगी (भले ही बिक्री ने ऐसे नुकसानों की संभावना की सलाह दी हो)। उत्तरदायित्व की इस तरह की गिरावट लागू होगी चाहे विनाश वेबसाइट, उत्पादों या सेवाओं के उपयोग या दुरुपयोग और उन पर निर्भरता से उत्पन्न हुआ हो, वेबसाइट का उपयोग करने में असमर्थता से, या रुकावट, स्थगन या वेबसाइटों की समाप्ति या अन्य कारणों से हुई क्षति से उत्पन्न हुआ हो इस सेवा के माध्यम से प्राप्त या इस सेवा पर विज्ञापित या इस वेबसाइट पर प्रदान किए गए किसी भी लिंक के माध्यम से प्राप्त की गई सेवाएं या सामान, साथ ही सेवाओं के माध्यम से प्राप्त या विज्ञापित किसी भी विवरण या सलाह के कारण, या उत्पादों और सेवाओं में प्रदान किए गए किसी भी लिंक के माध्यम से प्राप्त किया गया।"
+              ]
+            },
+            {
+              "head": "क्षतिपूर्ति:",
+              "text": [
+                "इस वेबसाइट का उपयोग करके, उपयोगकर्ता सेलब्रेशन और उसके माता-पिता, सहायक, सहयोगी, निदेशकों, अधिकारियों, सलाहकारों और कर्मचारियों की प्रतिपूर्ति और बचाव करने के लिए सहमति देता है और उन्हें इस वेबसाइट के उपयोगकर्ता के दुरुपयोग से उत्पन्न होने वाले किसी भी और सभी दावों और वकील की फीस सहित खर्चों से हानिरहित रखता है। या सेवा।"
+              ]
+            },
+            {
+              "head": "प्रश्न, टिप्पणियाँ या प्रश्न:",
+              "text": [
+                "यदि आपके पास वेबसाइट या इस समझौते के बारे में कोई प्रश्न, टिप्पणी या संदेह, नोटिस हैं, तो कृपया बेझिझक हमसे hello@sellebration.ltd पर संपर्क करें।"
+              ]
+            }
+          ]
     }
     
 }

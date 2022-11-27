@@ -34,6 +34,7 @@ import Stories from './components/organism/stories/index';
 import Downloads from './components/organism/downloads';
 import Logo from './components/organism/logo';
 import OurProfile from './components/organism/ourProfile';
+import TandC from './components/organism/tandc';
 import Navbar from './components/organism/NavBar/index';
 
 const App=(props)=>{
@@ -86,7 +87,7 @@ const App=(props)=>{
 
 
 
-  const[lang,setLang]=useState('hindi')
+  const[lang,setLang]=useState('english')
 
   const[routeName,setRouteName]=useState("-")
 
@@ -224,6 +225,10 @@ const App=(props)=>{
         changeLang={changeLang} lang={lang} routeName={routeName} 
         changeRouteName={changeRouteName}/>} ></Route>
         
+        <Route path="/termsandcondition" element={<TandC 
+        navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
+        changeLang={changeLang} lang={lang} routeName={routeName} 
+        changeRouteName={changeRouteName}/>} ></Route>
         
         <Route path="/err" element={<Err navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} changeLang={changeLang} lang={lang} routeName={routeName} changeRouteName={changeRouteName}/>} ></Route>
         <Route

@@ -44,9 +44,9 @@ return (
             </div>
             <div className="footer__inner__bottom">
                 {FooterData.bottom.map((item) => {
-                    const {id,data}=item;
+                    const {id,data,link}=item;
                     return(
-                        <div key={id} className='footer__inner__top__left__each3'>                           
+                        <div key={id} className='footer__inner__top__left__each3' onClick={()=>{navigate(link)}}>                           
                         {data}
                         </div>
                     )

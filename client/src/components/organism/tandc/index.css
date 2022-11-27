@@ -1,0 +1,13 @@
+.policy__head{
+    width:100%;
+    height: fit-content;
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-weight: 800;
+}
+.policy__body{
+    width:90%;
+    height: fit-content;
+    font-size: 13px;
+}

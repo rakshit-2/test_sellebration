@@ -30,9 +30,9 @@ const FooterData={
  },
  middle:"2022 All Rights Reserved, Selebration Pvt. Ltd.",
  bottom:[
-    {id:0,data:"Terms and Conditions"},
-    {id:1,data:"Privacy policy"},
-    {id:2,data:"site map"},
+    {id:0,data:"Terms and Conditions",link:"/termsandcondition"},
+    {id:1,data:"Privacy policy",link:"/privacypolicy"},
+    {id:2,data:"site map",link:'/sitemap'},
  ]
 }
 export default FooterData;
