@@ -9,12 +9,14 @@ import { useEffect, useState } from 'react';
 import alert from './../../assets/image/event/alert.svg';
 import Axios from 'axios';
 import ApiLink from './../../assets/store/apiLink';
+import { useLocation } from 'react-router-dom';
+
 
 
 const ContactUs=(props)=>{
 
 
-
+    const location = useLocation();
     // scroll to top
 
     useEffect(() => {
@@ -190,8 +192,7 @@ const ContactUs=(props)=>{
     <div className="contactus__outer">
         <div className="contactus__inner">
 
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
-            
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <ContactUsSection1/>
             
             <div className='contactus__inner__seaction2'>
@@ -304,7 +305,7 @@ const ContactUs=(props)=>{
                 </div>
             </div>
 
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
 

@@ -334,7 +334,7 @@ const Home=(props)=>{
                     </div>
 
                 </div>
-                <Footer/>
+                <Footer   changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             </div>
         </div>
         </>

@@ -12,11 +12,14 @@ import arrow_right from './../../assets/image/event/right_arrow.svg';
 import Footer2 from './../../molecule/footer2/index';
 import Footer from './../../molecule/footer/index';
 import SocialFeed from '../../molecule/socialFeed';
+import { useLocation } from 'react-router-dom';
+
+
 
 const PressReport=(props)=>{
 
 
-
+    const location = useLocation();
     // scroll to top
     
     useEffect(() => {
@@ -216,7 +219,7 @@ return (
     <>
     <div className="pressreport__outer">
         <div className="pressreport__inner">
-                <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
                 <div className="pressreport__inner__section1">
                     <div className="pressreport__inner__section1__inner">
                         <div className="pressreport__inner__section1__inner__top">
@@ -309,7 +312,7 @@ return (
                 </div>
             </div>
             <Footer2/>
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>

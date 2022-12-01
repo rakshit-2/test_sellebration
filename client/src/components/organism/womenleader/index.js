@@ -1,7 +1,7 @@
 
 import './index.css';
 import { useEffect ,useState} from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate ,useLocation} from 'react-router-dom';
 
 import Navbar from './../NavBar/index';
 import Footer from './../../molecule/footer/index';
@@ -19,7 +19,7 @@ import Axios from 'axios';
 
 
 const WomenLeadership=(props)=>{
-
+  const location = useLocation();
 
   const[redefiningData,setRedefiningData]=useState();
   const[redefiningLoading,setRedefiningLoading]=useState(true);
@@ -94,7 +94,7 @@ return (
     <div className="womenleader__outer">
         <div className="womenleader__inner">
           
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className="womenleader__sec1">
                 <Carousel 
                 responsive={responsive} 
@@ -183,7 +183,7 @@ return (
               </div>
               
           </div>
-          <Footer/>
+          <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
       </div>
     </div>
 

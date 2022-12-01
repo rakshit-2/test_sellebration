@@ -10,9 +10,14 @@ import Footer from './../../molecule/footer/index';
 import Footer2 from './../../molecule/footer2/index';
 import alert from './../../assets/image/event/alert.svg';
 import back_img from './../../assets/image/stories_img/background_img.svg';
+import { useLocation } from 'react-router-dom';
 // background_img.svg
 
 const Stories=(props)=>{
+    const location = useLocation();
+
+
+
     const[all,setAll]=useState();
     const[displayerData,setDisplayerData]=useState();
     const[company,setCompany]=useState();
@@ -219,7 +224,7 @@ const Stories=(props)=>{
     <>
     <div className="stories__outer">
         <div className="stories__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             
             
             <div className="stories__inner__section1">
@@ -324,7 +329,7 @@ const Stories=(props)=>{
             </div>
             <Footer2/>
 
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
 
         </div>
     </div>

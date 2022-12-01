@@ -1,6 +1,6 @@
 
 import './index.css';
-import Nabvbar from './../NavBar/index';
+import Navbar from './../NavBar/index';
 import Axios from 'axios';
 import ApiLink from '../../assets/store/apiLink';
 import {useState,useEffect} from 'react';
@@ -139,7 +139,7 @@ return (
     <>
     <div className='leadership__outer'>
         <div className='leadership__inner'>
-            <Nabvbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}  name={location.pathname}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className='leadership__inner__seaction1' >
                 <img src={img} className="leadership__top__image"/>
                 <div className='leadership__inner__seaction1__inner'>
@@ -369,7 +369,7 @@ return (
                     </div>
                 </div>
             </div>
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>

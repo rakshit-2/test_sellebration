@@ -8,13 +8,13 @@ import logo from '../../assets/image/navbar_img/navbar_logo_img.svg';
 import centerimg from '../../assets/image/logo/logo_mid.svg';
 import logo_quote from './../../assets/image/logo/logo_quote.svg';
 import logo_quote1 from './../../assets/image/logo/logo_quote1.svg';
-
+import { useLocation } from 'react-router-dom';
 
 
 
 const Logo=(props)=>{
       // scroll to top
-
+      const location = useLocation();
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
@@ -22,7 +22,7 @@ return (
     <>
     <div className='logo__outer'>
         <div className='logo__inner'>
-        <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         <div className='logo__inner__inner'>
             <div className='logo__sec1'>
                 <div className='logo__sec1__inner'>
@@ -89,7 +89,7 @@ return (
             </div>
         </div>
         <Footer2/>
-        <Footer/>
+        <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>

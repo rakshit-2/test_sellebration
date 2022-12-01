@@ -6,9 +6,11 @@ import Footer2 from './../../molecule/footer2/index';
 import Footer from './../../molecule/footer/index';
 import SocialFeed from '../../molecule/socialFeed';
 import staticModel from './../../assets/store/staticModel.json';
+import { useLocation } from 'react-router-dom';
+
 
 const TandC=(props)=>{
-
+    const location = useLocation();
   // scroll to top
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -32,7 +34,7 @@ return (
     <>
     <div className="event__outer">
         <div className="event__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className="event__inner__section1">
                 <div className='event__inner__section1__img'>
 
@@ -69,7 +71,7 @@ return (
             </div>
 
             <Footer2/>
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
 
         </div>
     </div>

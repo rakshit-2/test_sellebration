@@ -2,7 +2,7 @@
 import './index.css';
 import Navbar from './../NavBar/index';
 import Footer from './../../molecule/footer/index';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate ,useLocation} from 'react-router-dom';
 import section8_img from './../../assets/image/career/section8_background.svg';
 import { useEffect } from 'react';
 
@@ -14,7 +14,7 @@ import Section5 from './../../molecule/careerSection5/index';
 import Section6 from './../../molecule/careerSection6/index';
 
 const Career=(props)=>{
-
+    const location = useLocation();
     const navigate = useNavigate();
     // scroll to top
 
@@ -29,8 +29,7 @@ return (
     <>
     <div className="career__outer">
         <div className="career__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
-            
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             
             <Section1/>
 
@@ -97,7 +96,7 @@ return (
                 </div>
             </div>
 
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>

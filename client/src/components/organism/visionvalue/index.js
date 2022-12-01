@@ -7,9 +7,10 @@ import Footer from './../../molecule/footer/index';
 import VisionValueSection1 from '../../molecule/visionvalueSection1';
 import VisionValueSection2 from '../../molecule/visionvalueSection2';
 import quote_img from './../../assets/image/vision&values_img/quote_img.svg'
+import { useLocation } from 'react-router-dom';
 
 const VisionValue=(props)=>{
-
+    const location = useLocation();
     // scroll to top
 
     useEffect(() => {
@@ -22,7 +23,7 @@ return (
     <div className="vision__outer">
         <div className="vision__inner">
             
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
 
             <VisionValueSection1/>
 
@@ -66,7 +67,7 @@ return (
                     </div>
                 </div>
             </div>
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>

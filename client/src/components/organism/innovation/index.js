@@ -14,12 +14,12 @@ import ApiLink from '../../assets/store/apiLink';
 import LoadingScreen from '../../atom/loadingScreen';
 import img from './../../assets/image/test.png';
 import innovation_back from './../../assets/image/innovation_img/innovation_back.png';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate ,useLocation} from 'react-router-dom';
 
 
 
 const Innovation=(props)=>{
-
+    const location = useLocation();
     const navigate = useNavigate();
     const[insight,setInsight]=useState()
     const[insightLoading,setInsightLoading]=useState(true)
@@ -84,7 +84,7 @@ const Innovation=(props)=>{
         <div className='innovation_inner'>
 
        
-                <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
                 <div className='innovation__sec1'>
                     <div className='innovation__sec1__top'>
                         <img src={innovation_back} style={{width:"100%",height:"100%",position:"absolute"}}/>
@@ -191,7 +191,7 @@ const Innovation=(props)=>{
                 }
                 
 
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>

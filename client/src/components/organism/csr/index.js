@@ -5,7 +5,7 @@ import Navbar from './../NavBar/index';
 
 
 
-
+import { useLocation } from 'react-router-dom';
 import Footer from './../../molecule/footer/index';
 import CsrSection1 from '../../molecule/csrSection1';
 import CsrSection2 from '../../molecule/csrSection2';
@@ -21,7 +21,7 @@ const Csr=(props)=>{
 
 
     // scroll to top
-
+    const location = useLocation();
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
@@ -35,8 +35,7 @@ return (
     <>
     <div className="csr__outer">
         <div className="csr__inner">
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
-
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <CsrSection1/>
 
             <CsrSection2/>
@@ -99,7 +98,7 @@ return (
                     </div>
 
                 </div>
-            <Footer />
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang} />
         </div>
     </div>
     </>

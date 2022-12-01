@@ -13,10 +13,13 @@ import Footer2 from './../../molecule/footer2/index';
 import Footer from './../../molecule/footer/index';
 import SocialFeed from '../../molecule/socialFeed';
 import back_img from './../../assets/image/media_release/background_img.svg';
+import { useLocation } from 'react-router-dom';
+
+
 
 const MediaRelease=(props)=>{
 
-
+    const location = useLocation();
 
     // scroll to top
     
@@ -193,7 +196,7 @@ return (
     <>
     <div className="mediarelease__outer">
         <div className="mediarelease__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className="mediarelease__inner__section1">
                 <div className='mediarelease__back__img'>
 
@@ -281,7 +284,7 @@ return (
                 </div>
             </div>
             <Footer2/>
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>

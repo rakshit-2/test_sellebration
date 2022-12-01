@@ -1,6 +1,7 @@
 import './index.css';
 import Navbar from './../NavBar/index';
 import { useState,useEffect } from 'react';
+import { useLocation } from 'react-router-dom';
 import Axios from 'axios';
 import ApiLink from './../../assets/store/apiLink'
 import LoadingScreen from './../../atom/loadingScreen/index';
@@ -19,7 +20,7 @@ const Event=(props)=>{
 
 
   // scroll to top
-
+  const location = useLocation();
   useEffect(() => {
     window.scrollTo(0, 0);
   }, []);
@@ -209,7 +210,7 @@ return (
     <>
     <div className="event__outer">
         <div className="event__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className="event__inner__section1">
                 <div className='event__inner__section1__img'>
 
@@ -309,7 +310,7 @@ return (
             </div>
 
             <Footer2/>
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
 
         </div>
     </div>

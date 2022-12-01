@@ -7,14 +7,14 @@ import logo from './../../assets/image/test.png';
 import CardType3 from '../../atom/cardType3';
 import Footer from './../../molecule/footer/index';
 import Carousel from "react-multi-carousel";
-import { useNavigate } from 'react-router-dom';
+import { useNavigate,useLocation } from 'react-router-dom';
 
 
 
 const OurProfile=(props)=>{
 
   const navigate = useNavigate();
-
+  const location = useLocation();
   
   useEffect(() => {
     window.scrollTo(0, 0);
@@ -44,7 +44,7 @@ const OurProfile=(props)=>{
     <>
         <div className="OurProfile__outer">
           <div className="OurProfile__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
+          <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className='OurProfile__inner__inner'> 
                 <div className="OurProfile__about">
                   <div className="OurProfile__about__left"  data-aos="fade-right">
@@ -145,7 +145,7 @@ const OurProfile=(props)=>{
                   </div>
                 </div>
               </div>
-              <Footer/>
+              <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
           </div>
         </div>
     </>

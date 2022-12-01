@@ -14,7 +14,7 @@ import Axios from 'axios';
 import img from "../../assets/image/test.png";
 import DownloadCard1 from '../../atom/downloadCard1';
 import DownloadCard2 from '../../atom/downloadCard2';
-
+import { useLocation } from 'react-router-dom';
 
 
 
@@ -27,7 +27,7 @@ const Downloads=(props)=>{
     const[companyData,setCompanyData]=useState();
     const[companyLoading,setCompanyLoading]=useState(true);
     // scroll to top
-
+    const location = useLocation();
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
@@ -88,8 +88,7 @@ const Downloads=(props)=>{
     return (<>
         <div className='downloads__outer'>
             <div  className='downloads__inner'>
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
-                
+            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>   
                 <div className='downloads__inner__inner'>
                         
                     <div className='downloads__sec1'>
@@ -234,7 +233,7 @@ const Downloads=(props)=>{
                     </div>
                 </div>
                 <Footer2/>
-                <Footer/>
+                <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             </div>
         </div>
     

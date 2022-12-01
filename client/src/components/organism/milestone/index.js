@@ -4,12 +4,12 @@ import { useEffect } from 'react';
 import Navbar from './../NavBar/index';
 import Footer from './../../molecule/footer/index';
 import milestoneData from './../../assets/store/milestoneData';
-
+import { useLocation } from 'react-router-dom';
 
 
 const Milestone=(props)=>{
 
-
+    const location = useLocation();
     // scroll to top
 
     useEffect(() => {
@@ -22,7 +22,7 @@ return (
     <>
     <div className='milestone__outer'>
         <div className='milestone__inner'>
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}/>
+        <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className='milestone__inner__section1'>
                 <div className='milestone__inner__section1__inner'>
                     <div className='milestone__inner__section1__left'>
@@ -84,7 +84,7 @@ return (
                         })}
                     </div> 
                 </div>
-            <Footer/>
+            <Footer  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
         </div>
     </div>
     </>
