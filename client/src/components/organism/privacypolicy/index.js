@@ -121,6 +121,32 @@ return (
                         </div>
 
 
+                        <div className='policy__head'>
+                            {staticModel[props.lang].privacy.cookie.head}
+                        </div>
+                        <div className='policy__body'>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>{staticModel[props.lang].privacy.cookie.headSmall1}</th>
+                                        <th>{staticModel[props.lang].privacy.cookie.headSmall2}</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td data-label="Projeto">{staticModel[props.lang].privacy.cookie.inner1Small1}</td>
+                                        <td data-label="Descrição">{innerDataDisplay(staticModel[props.lang].privacy.cookie.inner2Small2)} <a href={"https://tools.google.com/dlpage/gaoptout"}>https://tools.google.com/dlpage/gaoptout</a></td>
+                                    </tr>
+                                    <tr>
+                                        <td data-label="Projeto">{staticModel[props.lang].privacy.cookie.inner1Small2}</td>
+                                        <td data-label="Descrição">{innerDataDisplay(staticModel[props.lang].privacy.cookie.inner2Small2)} <a href={"https://learn.microsoft.com/en-us/clarity/faq"}>https://learn.microsoft.com/en-us/clarity/faq</a></td>
+                                    </tr>
+                                    
+                                </tbody>
+                            </table>
+                        </div>
+
+
                         {
                             staticModel[props.lang].privacy[1].map((ele)=>{
                                 const{head,text}=ele;
