@@ -1,0 +1,11 @@
+[
+    {"id":0,"label":"English"},
+    {"id":1,"label":"हिन्दी"},
+    {"id":2,"label":"deutsch"},
+    {"id":3,"label":"français"},
+    {"id":4,"label":"русский"},
+    {"id":5,"label":"Português"},
+    {"id":6,"label":"中国人"},
+    {"id":7,"label":"español"},
+    {"id":8,"label":"日本"}
+]

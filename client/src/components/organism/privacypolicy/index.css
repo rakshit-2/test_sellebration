@@ -11,11 +11,3 @@
     height: fit-content;
     font-size: 13px;
 }
-.event__inner__section2__left__tandc{
-    width:70%;
-    height:fit-content;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-}

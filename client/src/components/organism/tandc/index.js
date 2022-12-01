@@ -46,9 +46,9 @@ return (
             <div className='event__inner__inner'>
 
                 <div className='event__inner__section2'>
-                    <div className='event__inner__section2__left'>
+                    <div className='event__inner__section2__left__tandc'>
                         {
-                            staticModel[props.lang].privacy.map((ele)=>{
+                            staticModel[props.lang].tandc.map((ele)=>{
                                 const{head,text}=ele;
                                 return(
                                     <>

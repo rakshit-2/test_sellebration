@@ -61,7 +61,7 @@ return (
     <>     
     <div className="BusinessBrand__outer">
         <div className="BusinessBrand__inner">
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang}  name={location.pathname} viewLang={props.viewLang}/>
             <div className="BusinessBrand__sec1">
                 <div className="BusinessBrand__sec1__inner">
                     <div className="BusinessBrand__sec1__head">

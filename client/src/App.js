@@ -36,6 +36,10 @@ import Logo from './components/organism/logo';
 import OurProfile from './components/organism/ourProfile';
 import TandC from './components/organism/tandc';
 import Navbar from './components/organism/NavBar/index';
+import Landing from './components/organism/landing';
+import Privacy from './components/organism/privacypolicy'
+
+
 
 const App=(props)=>{
 
@@ -88,11 +92,12 @@ const App=(props)=>{
 
 
   const[lang,setLang]=useState('english')
-
+  const[viewLang,setViewLang]=useState('English')
   const[routeName,setRouteName]=useState("-")
 
-  function changeLang(x,name){
+  function changeLang(x,name,langValue){
     setLang(x);
+    setViewLang(langValue);
     setRouteName(name);
   }
 
@@ -117,120 +122,131 @@ const App=(props)=>{
         <Route path="/" element={<Home 
         changePageState={changePageState} navDisplay={navDisplay} openNav={openNav} 
         closeNav={closeNav} changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/bringchange" element={<Bringchange  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang}  routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/bussinessbrand" element={<Businessbrand  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang}  routeName={routeName}
-         changeRouteName={changeRouteName}/>} ></Route>
+         changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
         <Route path="/csr" element={<Csr revertScroll={revertScroll} 
         pageScroll={pageScroll} navDisplay={navDisplay} openNav={openNav} 
         closeNav={closeNav} changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
         
         <Route path="/leadership" element={<Leadership  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
         
         <Route path="/milestone" element={<Milestone  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/visionvalue" element={<Visionvalue  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/womenleadership" element={<Womenleadership  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/contactus" element={<ContactUs  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/career" element={<Career  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/investor" element={<Investor  
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav}
          changeLang={changeLang} lang={lang} routeName={routeName} 
-         changeRouteName={changeRouteName}/>} ></Route>
+         changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/event" element={<Event 
          navDisplay={navDisplay} openNav={openNav} 
          closeNav={closeNav} changeLang={changeLang} lang={lang} 
-         routeName={routeName} changeRouteName={changeRouteName}/>} ></Route>
+         routeName={routeName} changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/innovation" element={<Innovation 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName}
-         changeRouteName={changeRouteName}/>} ></Route>
+         changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/downloads" element={<Downloads 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/mediarelease" element={<MediaRelease 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/pressreoprt" element={<PressReport 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/stories" element={<Stories 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/logo" element={<Logo 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav}
          changeLang={changeLang} lang={lang} routeName={routeName} 
-         changeRouteName={changeRouteName}/>} ></Route>
+         changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
 
         <Route path="/ourprofile" element={<OurProfile 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
         
         <Route path="/termsandcondition" element={<TandC 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
-        changeRouteName={changeRouteName}/>} ></Route>
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
+
+        <Route path="/privacypolicy" element={<Privacy 
+        navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
+        changeLang={changeLang} lang={lang} routeName={routeName} 
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
+
+        <Route path="/landing" element={<Landing 
+        navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
+        changeLang={changeLang} lang={lang} routeName={routeName} 
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
+
         
-        <Route path="/err" element={<Err navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} changeLang={changeLang} lang={lang} routeName={routeName} changeRouteName={changeRouteName}/>} ></Route>
+        <Route path="/err" element={<Err navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} viewLang={viewLang} changeLang={changeLang} lang={lang} routeName={routeName} changeRouteName={changeRouteName}/>} ></Route>
         <Route
             path="*"
             element={<Navigate to="/err" replace />}

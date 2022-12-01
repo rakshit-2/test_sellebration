@@ -24,6 +24,195 @@
             "10":""
         },
         "privacy":
+        {
+          "0":
+          [
+            {
+              "head":"INTRODUCTION:",
+              "text":
+              [
+                  "In the world where everything is overexposed, Sellebration Private Limited is following this privacy policy to protect your personal identifiable information that you provide to Sellebration Private Limited through www.sellebration.ltd. You must also review and accept our Website Terms of Use as it is also applicable and govern the use of the website.",
+                  "This Privacy Policy does not apply to any Personal Identifiable Information that you may share with the third-party entities (including Sellebration Private Limited Entities), such as through other websites that draw a connection to the website. Please be conscious in case you opt to visit any such third-party website, you should get in touch with third party directly for their privacy policy as that third parties privacy policy will govern your activities and any Personal Identifiable Information shared with them, this privacy policy won’t be applicable there.",
+                  "This privacy policy describes the purposes for which Sellebration Private Limited processes your Personal Identifiable Information through its Website."  
+              ]
+            }
+          ],
+          "11":
+          {
+              "head":"PURPOSE OF GATHERING AND PROCESSING:",
+              "text1":
+              [
+                "We may gather your information like title, name, gender, date of birth, email addresses, mobile number, location, and other personal identifiable information that you submit on the website (“Personal Identifiable Information”) to provide you:"
+              ],
+              "bullets":
+              [
+                "Unwrinkled, structured, and customized experience,",
+                "To enable Sellebration Private Limited entities to connect with you in relation to programs managed by them or products/ services offered by them,",
+                "To enable us to refine our products & services, as well as of the Sellebration Private Limited entities,",
+                "To process your communication requests (such as responding to your queries or complaints),",
+                "To assess your candidature for anticipated career opportunities with us,",
+                "To drive promotional communications, marketing campaign for which you have consented",
+                "To protect our vital interest."
+              ],
+              "text2":
+              [
+                "The PII collected for the afore mentioned purposes will not be posted in areas of the website viewable by the public or the users of the site."
+              ]
+          },
+          "22":{
+              "id":1,
+              "head":"How We Collect Your Personal Data:",
+              "text1":
+              [
+                "We collect your data in the following ways:"
+              ],
+              "bullets":[
+                "Personal Identifiable Information provided to us by you, and",
+                "Personal Identifiable Information gathered automatically conforming to your visit to the website."
+              ],
+              "headSmall1":"A. Data provided by you",
+              "textSmall1":"Sellebration Private Limited may gather your Personal Identifiable Information in different ways from your use of this website, for instances:",
+              "bulletsSmall1":
+              [
+                "When you reach out to us through the website (through any form via e-mail address, hyperlink or social media address posted therein),",
+                "When you enroll with us to receive products and/or services of any of the Sellebration Companies,",
+                "When you take part in surveys conducted by or for us,",
+                "When you elect to receive any communication (including any promotional offers, any newsletter) from us, and",
+                "Details may be voluntarily provided by you"
+              ],
+              "headSmall2":"B. Data that is gathered automatically",
+              "textSmall2":"Some information about your visit to the website is automatically collected by us. This information helps us to upgrade website content and navigation and includes your IP address and the way you use and interact with its content, namely:",
+              "bulletsSmall2":
+              [
+                "Our web servers or affiliates who provide analytics and execution enhancement services collects IP address, Operating System attributes, browsing attributes, device attributes, and language settings. The information is aggregated to estimate the number of visits, average time spent on the website, pages viewed and similar information. Sellebration Private Limited uses this information to measure the site usage, improve content, and to guarantee safety and security, as well enhance the performance of website.",
+                "We may gather your Personal Identifiable Information automatically via cookies, in line with the cookie settings on your browser. For more information about Cookies, please see the section below titled “Cookies”."
+              ]
+          },
+          "cookie":
+          {
+            "head":"Use of Cookies:",
+            "headSmall1":"TYPE OF COOKIE",
+            "headSmall2":"PURPOSE",
+            "inner1Small1":"_utma,_utmb,_utmc, _utmz, display_features_cookie",
+            "inner1Small2":"_clck, _clsk, CLID, ANONCHK, MR, MUID, SM",
+            "inner2Small1":
+            [
+              "Google Analytics is used on the Websites to track visitor traffic and site performance traffic by collecting anonymous information about the average time spent on the website, the pages viewed and other relevant usage statistics.",
+              "To opt out of being tracked by Google Analytics visit:"
+            ],
+            "inner2Small2":
+            [
+              "Microsoft Clarity is used on the Website to track visitor traffic and site performance traffic by collecting anonymous information about the average time spent on the website, the pages viewed and other relevant usage statistics.",
+              "To opt out of being tracked by Microsoft Clarity visit:"
+            ]
+          },
+          "1":
+          [
+            {
+              "head":"TRANSFER OF PERSONAL IDENTIFIABLE INFORMATION TO SELLEBRATION PRIVATE LIMITED ENTITIES:",
+              "text":
+              [
+                  "The www.sellebration.ltd website is designed to give you one stop view of Sellebration Private Limited Conglomerate and enable you to uprise issues related to any product / services being offered by Sellebration Private Limited Entities. To enable us to provide you flawless experience, we may have to share your personal identifiable information with Sellebration Private Limited entities, including but not limited those listed on website. To the scope that these entities have access to your Personal Identifiable Information, we will appeal them to treat it at least as protectively as they treat Personal Identifiable Information they obtain from their authorized sources. It is possible that any of the Sellebration Private Limited Entities or amalgamation of them could merge or be acquired by another business entity. Should such a combination occur, you should expect that Sellebration Private Limited would share some or all your Personal Identifiable Information to continue to maintain and provide access to the website.  "  
+              ]
+            },
+            {
+              "head":"TRANSFER OF PERSONAL IDENTIFIABLE INFORMATION:",
+              "text":
+              [
+                  "The Personal Identifiable Information that we gather from you may be conveyed to and reserved at locations that may or may not be in India. It may be processed by the workforce operating outside the territory of India, who work for or are engaged by Sellebration Private Limited."  
+              ]
+            },
+            {
+              "head":"LINKS TO OTHER WEBSITES:",
+              "text":
+              [
+                  "Our website has links that switch you to our social networking pages such as Twitter, Facebook, LinkedIn, YouTube, and others that may be added in future. Your visits and activity thereon vis-à-vis those portals shall be looked after by their own privacy policy applicable for visiting their websites. Please read their privacy policy for getting information on their privacy practices."  
+              ]
+            },
+            {
+              "head":"PARTNER:",
+              "text":
+              [
+                  "To allow us to provide you intensified and secured user experience, we may foot into contract with various third-party vendors on periodic basis. Such engagements may include sharing of your personal identifiable information, we will ask them to treat it at least as protectively as they treat personally identifiable information they obtain from their other authorized sources.",
+                  "We do not market or sell your personal data to any third party."
+              ]
+            },
+            {
+              "head":"DATA RETENTION POLICY:",
+              "text":
+              [
+                "We keep possession of your data for a reasonable time and/or as may be judicially required to be maintained as per applicable law/ or arising out of admissible purposes. We shall take reasonable steps to knock down or permanently de-identify Personal Identifiable Information that is no longer needed, including that managed by third party vendors engaged by the company quite often."
+              ]
+            },
+            {
+              "head":"CHANGING YOUR PERSONAL IDENTIFIABLE INFORMATION:",
+              "text":
+              [
+                "Sellebration Private Limited gives you the ability to amend your Personal Identifiable Information at any time, an appeal should be made to hello@sellebration.ltd. We will, however, hold information in our files and databases Personal Identifiable Information you have requested to remove to use it in some set of conditions, such as to resolve disputes, troubleshoot problems, and implement terms and conditions of use. Further, such old Personal Identifiable Information is never completely removed from our databases due to technical and legal reasons, not limited to stored “back-up” systems. Therefore, you should be clear that all your Personal Identifiable Information will not be completely removed from our systems in response to your appeal."
+              ]
+            }
+            ,
+            {
+              "head":"REGULATORY OBLIGATIONS:",
+              "text":
+              [
+                "Due to existing regulatory environment, we can’t guarantee that all of your Personal Information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be required to disclose your Personal Identifiable Information to the government, law enforcement agencies, etc."
+              ]
+            },
+            {
+              "head":"DATA SECURITY:",
+              "text":
+              [
+                "To safeguard your privacy and security, we will also take reasonable steps to verify your identity before granting access. We are committed for safeguarding your Personal Identifiable Information in our custody and have taken the steps to ensure appropriate physical, technical and managerial safeguards to protect your Personal Data from unauthorized access, alteration, transmission, and deletion. Encryption is being used at relevant points to protect your data. We test our systems on periodic basis for ensuring security of data processing."
+              ]
+            },
+            {
+              "head":"DISCLAIMER:",
+              "text":
+              [
+                "To safeguard your privacy as mentioned above, we take finest efforts and adopt best Industry Standards Information Practice, however you acknowledge that 100% does not exist over internet. You are accountable for protecting your Personal Identifiable Information and you should not share your login credentials and/or leave your personal devices unattended while you are accessing the website, etc. The company does not guarantee, and you should not expect in the event of malware attack or negligence on your part that your Personal Information will remain private. "
+              ]
+            },
+            {
+              "head":"YOUR CONSENT:",
+              "text":
+              [
+                "By agreeing this privacy policy and our Terms, you expressly consent to our use and disclosure of your Personal Information in the manner prescribed in this Privacy Policy."
+              ]
+            },
+            {
+              "head":"RIGHTS UNDER APPLICABLE LAWS:",
+              "text":
+              [
+                "Your personal data is processed basis the consent you have provided by accepting this Privacy Policy.",
+                "Your right to access, rectification, erasure, restriction of the processing, data portability and object to the processing of your personal data is being acknowledged by us. However, these rights are not absolute in nature and are subjected to contract, applicable legislation, record keeping requirement under applicable statutes, ongoing disputes, or potential disputes Sellebration Private Limited may foresee. To exercise these rights with respect to your personal data you may contact hello@sellebration.ltd.",
+                "In the event of any misconduct/fraud/cybercrime, etc. on your part, the Company shall be at liberty to use your PII as evidence in the Court of law and shall also be entitled to carry out investigations/inquiries as it deems fit with the help of private agencies or authorities as it deems fit. By you consenting to this Notice, you agree to sharing of your PII for the aforesaid purposes and understand that exercise of your rights to that extent shall be restricted."
+              ]
+            },
+            {
+              "head":"QUESTIONS AND GRIEVANCES/ RIGHT TO LODGE A COMPLAINT:",
+              "text":
+              [
+                "In the event, you are of the view that your personal data is not processed in accordance with the purposes as disclosed in this Privacy Policy or if you have any query related to your privacy of information or in relation to your rights under applicable law, please feel free to contact us at hello@sellebration.ltd. "
+              ]
+            },
+            {
+              "head":"NOTIFICATION OF CHANGES:",
+              "text":
+              [
+                "Sellebration Private Limited expressly reserves at its sole discretion the right to change this Privacy Policy periodically in the future without prior notice to the Users. User shall review our Privacy Policy regularly to be sure you are fully updated with our practices and procedures in this area."
+              ]
+            },
+            {
+              "head":"Questions and updates ",
+              "text":
+              [
+                "If you have any questions or suggestions about our privacy practices, please feel free to contact us at hello@sellebration.ltd. "
+              ]
+            }
+          ]
+        },
+        "tandc":
         [
             {
                 "head":"GENERAL TERMS OF USE: ",
@@ -156,7 +345,168 @@
             "9": "la vanguardia",
             "10": ""
           },
-          "privacy": [
+          "privacy":
+          {
+            "0": [
+              {
+                "head": "INTRODUCCIÓN:",
+                "text": [
+                  "En el mundo donde todo está sobreexpuesto, Sellebration Private Limited sigue esta política de privacidad para proteger su información de identificación personal que proporciona a Sellebration Private Limited a través de www.sellebration.ltd. También debe revisar y aceptar los Términos de uso de nuestro sitio web, ya que también es aplicable y rige el uso del sitio web.",
+                  "Esta Política de privacidad no se aplica a ninguna Información de identificación personal que pueda compartir con entidades de terceros (incluidas las Entidades limitadas privadas de Sellebration), como a través de otros sitios web que establecen una conexión con el sitio web. Tenga en cuenta que, en caso de que opte por visitar un sitio web de terceros, debe ponerse en contacto directamente con el tercero para conocer su política de privacidad, ya que la política de privacidad de dicho tercero regirá sus actividades y cualquier información de identificación personal compartida con ellos, esta política de privacidad. la política no será aplicable allí.",
+                  "Esta política de privacidad describe los propósitos por los cuales Sellebration Private Limited procesa su información de identificación personal a través de su sitio web."
+                ]
+              }
+            ],
+            "1": [
+              {
+                "head": "TRANSFERENCIA DE INFORMACIÓN DE IDENTIFICACIÓN PERSONAL A ENTIDADES LIMITADAS PRIVADAS DE SELLEBRATION:",
+                "text": [
+                  "El sitio web www.sellebration.ltd está diseñado para brindarle una vista integral del conglomerado de Sellebration Private Limited y permitirle plantear problemas relacionados con cualquier producto o servicio ofrecido por Sellebration Private Limited Entities. Para permitirnos brindarle una experiencia impecable, es posible que tengamos que compartir su información de identificación personal con las entidades de Sellebration Private Limited, incluidas, entre otras, las que se enumeran en el sitio web. En la medida en que estas entidades tengan acceso a su información de identificación personal, les pediremos que la traten al menos con la misma protección con la que tratan la información de identificación personal que obtienen de sus fuentes autorizadas. Es posible que cualquiera de las Entidades limitadas privadas de Sellebration o la fusión de ellas se fusionen o sean adquiridas por otra entidad comercial. Si ocurriera tal combinación, debe esperar que Sellebration Private Limited comparta parte o toda su información de identificación personal para continuar manteniendo y brindando acceso al sitio web."
+                ]
+              },
+              {
+                "head": "TRANSFERENCIA DE INFORMACIÓN DE IDENTIFICACIÓN PERSONAL:",
+                "text": [
+                  "La información de identificación personal que recopilamos de usted puede transmitirse y reservarse en ubicaciones que pueden estar o no en la India. Puede ser procesada por la fuerza laboral que opera fuera del territorio de la India, que trabaja para o está contratada por Sellebration Private Limited."
+                ]
+              },
+              {
+                "head": "ENLACES A OTROS SITIOS WEB:",
+                "text": [
+                  "Nuestro sitio web tiene enlaces que lo llevan a nuestras páginas de redes sociales como Twitter, Facebook, LinkedIn, YouTube y otras que pueden agregarse en el futuro. Sus visitas y actividad en los mismos frente a dichos portales serán atendidas por su propia política de privacidad aplicable para la visita a sus sitios web. Lea su política de privacidad para obtener información sobre sus prácticas de privacidad."
+                ]
+              },
+              {
+                "head": "COMPAÑERO:",
+                "text": [
+                  "Para permitirnos brindarle una experiencia de usuario intensificada y segura, podemos firmar contratos con varios proveedores externos de forma periódica. Dichos compromisos pueden incluir compartir su información de identificación personal, les pediremos que la traten al menos con la misma protección con la que tratan la información de identificación personal que obtienen de sus otras fuentes autorizadas.",
+                  "No comercializamos ni vendemos sus datos personales a ningún tercero."
+                ]
+              },
+              {
+                "head": "POLÍTICA DE RETENCIÓN DE DATOS:",
+                "text": [
+                  "Mantenemos la posesión de sus datos durante un tiempo razonable y/o según se requiera judicialmente que se mantengan de acuerdo con la ley aplicable/o que surja de propósitos admisibles. Tomaremos medidas razonables para eliminar o desidentificar permanentemente la información de identificación personal que ya no se necesita, incluida la administrada por proveedores externos contratados por la empresa con bastante frecuencia."
+                ]
+              },
+              {
+                "head": "CAMBIO DE SU INFORMACIÓN DE IDENTIFICACIÓN PERSONAL:",
+                "text": [
+                  "Sellebration Private Limited le brinda la posibilidad de modificar su información de identificación personal en cualquier momento; debe enviar una apelación a hello@sellebration.ltd. Sin embargo, mantendremos la información en nuestros archivos y bases de datos. Información de identificación personal que haya solicitado eliminar para usarla en un conjunto de condiciones, como resolver disputas, solucionar problemas e implementar términos y condiciones de uso. Además, dicha información de identificación personal antigua nunca se elimina por completo de nuestras bases de datos debido a razones técnicas y legales, sin limitarse a los sistemas de \"copia de seguridad\" almacenados. Por lo tanto, debe tener claro que toda su información de identificación personal no se eliminará por completo de nuestros sistemas en respuesta a su apelación."
+                ]
+              },
+              {
+                "head": "OBLIGACIONES REGLAMENTARIAS:",
+                "text": [
+                  "Debido al entorno regulatorio existente, no podemos garantizar que toda su información personal nunca se divulgue de una manera que no se describa en esta Política de privacidad. A modo de ejemplo (sin limitar lo anterior), se nos puede solicitar que divulguemos su información de identificación personal al gobierno, a las fuerzas del orden, etc."
+                ]
+              },
+              {
+                "head": "SEGURIDAD DE DATOS:",
+                "text": [
+                  "Para salvaguardar su privacidad y seguridad, también tomaremos medidas razonables para verificar su identidad antes de otorgarle acceso. Estamos comprometidos a salvaguardar su información de identificación personal bajo nuestra custodia y hemos tomado las medidas necesarias para garantizar las medidas de seguridad físicas, técnicas y administrativas adecuadas para proteger sus datos personales contra el acceso, la alteración, la transmisión y la eliminación no autorizados. El cifrado se utiliza en puntos relevantes para proteger sus datos. Probamos nuestros sistemas periódicamente para garantizar la seguridad del procesamiento de datos."
+                ]
+              },
+              {
+                "head": "DESCARGO DE RESPONSABILIDAD:",
+                "text": [
+                  "Para salvaguardar su privacidad como se mencionó anteriormente, hacemos los mejores esfuerzos y adoptamos las mejores prácticas de información de estándares de la industria, sin embargo, reconoce que el 100% no existe en Internet. Usted es responsable de proteger su información de identificación personal y no debe compartir sus credenciales de inicio de sesión y/o dejar sus dispositivos personales desatendidos mientras accede al sitio web, etc. La empresa no garantiza, y no debe esperar en caso de malware. ataque o negligencia de su parte que su información personal permanecerá privada."
+                ]
+              },
+              {
+                "head": "TU CONSENTIMIENTO:",
+                "text": [
+                  "Al aceptar esta política de privacidad y nuestros Términos, usted acepta expresamente nuestro uso y divulgación de su Información personal en la forma prescrita en esta Política de privacidad."
+                ]
+              },
+              {
+                "head": "DERECHOS BAJO LAS LEYES APLICABLES:",
+                "text": [
+                  "Sus datos personales se procesan en base al consentimiento que ha proporcionado al aceptar esta Política de privacidad.",
+                  "Reconocemos su derecho de acceso, rectificación, supresión, limitación del tratamiento, portabilidad de datos y oposición al tratamiento de sus datos personales. Sin embargo, estos derechos no son de naturaleza absoluta y están sujetos al contrato, la legislación aplicable, el requisito de mantenimiento de registros en virtud de los estatutos aplicables, las disputas en curso o las posibles disputas que Sellebration Private Limited pueda prever. Para ejercer estos derechos con respecto a sus datos personales, puede comunicarse con hello@sellebration.ltd.",
+                  "En el caso de cualquier mala conducta/fraude/delito cibernético, etc. de su parte, la Compañía tendrá la libertad de usar su PII como evidencia en el Tribunal de justicia y también tendrá derecho a realizar investigaciones/indagaciones según lo considere adecuado con la ayuda de agencias privadas o autoridades según lo estime conveniente. Al dar su consentimiento a este Aviso, acepta compartir su PII para los fines antes mencionados y comprende que el ejercicio de sus derechos en esa medida estará restringido."
+                ]
+              },
+              {
+                "head": "CONSULTAS Y QUEJAS/ DERECHO A PRESENTAR UNA QUEJA:",
+                "text": [
+                  "En caso de que considere que sus datos personales no se procesan de acuerdo con los propósitos descritos en esta Política de privacidad o si tiene alguna consulta relacionada con la privacidad de su información o en relación con sus derechos en virtud de la ley aplicable, por favor no dude en contactarnos en hello@sellebration.ltd."
+                ]
+              },
+              {
+                "head": "NOTIFICACIÓN DE CAMBIOS:",
+                "text": [
+                  "Sellebration Private Limited se reserva expresamente, a su sola discreción, el derecho de cambiar esta Política de Privacidad periódicamente en el futuro sin previo aviso a los Usuarios. El usuario deberá revisar nuestra Política de privacidad con regularidad para asegurarse de estar completamente actualizado con nuestras prácticas y procedimientos en esta área."
+                ]
+              },
+              {
+                "head": "Preguntas y actualizaciones",
+                "text": [
+                  "Si tiene alguna pregunta o sugerencia sobre nuestras prácticas de privacidad, no dude en contactarnos en hello@sellebration.ltd."
+                ]
+              }
+            ],
+            "11": {
+              "head": "FINALIDAD DE LA RECOGIDA Y EL TRATAMIENTO:",
+              "text1": [
+                "Podemos recopilar su información como título, nombre, género, fecha de nacimiento, direcciones de correo electrónico, número de teléfono móvil, ubicación y otra información de identificación personal que envíe en el sitio web (\"Información de identificación personal\") para proporcionarle:"
+              ],
+              "bullets": [
+                "Experiencia sin arrugas, estructurada y personalizada,",
+                "Para permitir que las entidades de Sellebration Private Limited se conecten con usted en relación con los programas que administran o los productos/servicios que ofrecen,",
+                "Para permitirnos refinar nuestros productos y servicios, así como las entidades de Sellebration Private Limited,",
+                "Para procesar sus solicitudes de comunicación (como responder a sus consultas o quejas),",
+                "Para evaluar su candidatura para oportunidades de carrera anticipadas con nosotros,",
+                "Para impulsar comunicaciones promocionales, campañas de marketing para las que haya dado su consentimiento",
+                "Para proteger nuestro interés vital."
+              ],
+              "text2": [
+                "La PII recopilada para los fines mencionados anteriormente no se publicará en áreas del sitio web visibles para el público o los usuarios del sitio."
+              ]
+            },
+            "22": {
+              "id": 1,
+              "head": "Cómo recopilamos sus datos personales:",
+              "text1": [
+                "Recopilamos sus datos de las siguientes maneras:"
+              ],
+              "bullets": [
+                "Información de identificación personal proporcionada por usted, y",
+                "Información de identificación personal recopilada automáticamente conforme a su visita al sitio web."
+              ],
+              "headSmall1": "A. Datos proporcionados por usted",
+              "textSmall1": "Sellebration Private Limited puede recopilar su información de identificación personal de diferentes maneras a partir de su uso de este sitio web, por ejemplo:",
+              "bulletsSmall1": [
+                "Cuando se comunica con nosotros a través del sitio web (a través de cualquier formulario a través de una dirección de correo electrónico, un hipervínculo o una dirección de redes sociales publicada allí),",
+                "Cuando se inscribe con nosotros para recibir productos y/o servicios de cualquiera de las Compañías de Sellebration,",
+                "Cuando participa en encuestas realizadas por o para nosotros,",
+                "Cuando elige recibir cualquier comunicación (incluidas las ofertas promocionales, los boletines informativos) de nuestra parte, y",
+                "Los detalles pueden ser proporcionados voluntariamente por usted"
+              ],
+              "headSmall2": "B. Datos que se recopilan automáticamente",
+              "textSmall2": "Cierta información sobre su visita al sitio web es recopilada automáticamente por nosotros. Esta información nos ayuda a actualizar el contenido y la navegación del sitio web e incluye su dirección IP y la forma en que usa e interactúa con su contenido, a saber:",
+              "bulletsSmall2": [
+                "Nuestros servidores web o afiliados que brindan servicios de análisis y mejora de la ejecución recopilan la dirección IP, los atributos del sistema operativo, los atributos de navegación, los atributos del dispositivo y la configuración de idioma. La información se agrega para estimar el número de visitas, el tiempo promedio de permanencia en el sitio web, las páginas visitadas e información similar. Sellebration Private Limited utiliza esta información para medir el uso del sitio, mejorar el contenido y garantizar la seguridad, así como mejorar el rendimiento del sitio web.",
+                "Podemos recopilar su información de identificación personal automáticamente a través de cookies, de acuerdo con la configuración de cookies en su navegador. Para obtener más información sobre las cookies, consulte la sección a continuación titulada \"Cookies\"."
+              ]
+            },
+            "cookie": {
+              "head": "Uso de Cookies:",
+              "headSmall1": "TIPO DE COOKIES",
+              "headSmall2": "OBJETIVO",
+              "inner1Small1": "_utma,_utmb,_utmc, _utmz, display_features_cookie",
+              "inner1Small2": "_clck, _clsk, CLID, ANONCHK, MR, MUID, SM",
+              "inner2Small1": [
+                "Google Analytics se utiliza en los sitios web para rastrear el tráfico de visitantes y el rendimiento del sitio mediante la recopilación de información anónima sobre el tiempo promedio que se pasa en el sitio web, las páginas visitadas y otras estadísticas de uso relevantes.",
+                "Para optar por no ser rastreado por Google Analytics, visite:"
+              ],
+              "inner2Small2": [
+                "Microsoft Clarity se utiliza en el sitio web para realizar un seguimiento del tráfico de visitantes y del rendimiento del sitio mediante la recopilación de información anónima sobre el tiempo promedio de permanencia en el sitio web, las páginas visitadas y otras estadísticas de uso relevantes.",
+                "Para optar por no ser rastreado por Microsoft Clarity, visite:"
+              ]
+            }
+          },
+          "tandc": [
             {
               "head": "CONDICIONES GENERALES DE USO:",
               "text": [
@@ -292,7 +642,168 @@
             "9": "L'avant-garde",
             "10": ""
           },
-          "privacy": [
+          "privacy":
+          {
+            "0": [
+              {
+                "head": "INTRODUCTION:",
+                "text": [
+                  "Dans le monde où tout est surexposé, Sellebration Private Limited suit cette politique de confidentialité pour protéger vos informations personnelles identifiables que vous fournissez à Sellebration Private Limited via www.sellebration.ltd. Vous devez également lire et accepter les conditions d'utilisation de notre site Web car elles sont également applicables et régissent l'utilisation du site Web.",
+                  "Cette politique de confidentialité ne s'applique pas aux informations personnelles identifiables que vous pouvez partager avec des entités tierces (y compris les entités à responsabilité limitée de Sellebration), par exemple via d'autres sites Web qui établissent une connexion avec le site Web. Veuillez être conscient si vous choisissez de visiter un tel site Web tiers, vous devez contacter directement un tiers pour connaître sa politique de confidentialité, car cette politique de confidentialité régira vos activités et toute information personnelle identifiable partagée avec eux, cette confidentialité politique ne sera pas applicable là-bas.",
+                  "Cette politique de confidentialité décrit les finalités pour lesquelles Sellebration Private Limited traite vos informations personnelles identifiables via son site Web."
+                ]
+              }
+            ],
+            "1": [
+              {
+                "head": "TRANSFERT D'INFORMATIONS PERSONNELLES IDENTIFIABLES À SELLEBRATION PRIVATE LIMITED ENTITIES :",
+                "text": [
+                  "Le site Web www.sellebration.ltd est conçu pour vous donner une vue d'ensemble du conglomérat Sellebration Private Limited et vous permettre de soulever des problèmes liés à tout produit / service offert par les entités Sellebration Private Limited. Pour nous permettre de vous offrir une expérience sans faille, nous pouvons être amenés à partager vos informations personnelles identifiables avec des entités de Sellebration Private Limited, y compris, mais sans s'y limiter, celles répertoriées sur le site Web. Dans la mesure où ces entités ont accès à vos informations personnelles identifiables, nous les appellerons à les traiter de manière au moins aussi protectrice qu'elles traitent les informations personnelles identifiables qu'elles obtiennent de leurs sources autorisées. Il est possible que l'une des entités à responsabilité limitée de Sellebration ou leur fusion puisse fusionner ou être acquise par une autre entité commerciale. Si une telle combinaison se produit, vous devez vous attendre à ce que Sellebration Private Limited partage tout ou partie de vos informations personnelles identifiables pour continuer à maintenir et à fournir l'accès au site Web."
+                ]
+              },
+              {
+                "head": "TRANSFERT D'INFORMATIONS PERSONNELLES IDENTIFIABLES :",
+                "text": [
+                  "Les informations personnelles identifiables que nous recueillons auprès de vous peuvent être transmises et réservées à des endroits qui peuvent ou non être en Inde. Elles peuvent être traitées par la main-d'œuvre opérant en dehors du territoire de l'Inde, qui travaille pour ou est engagée par Sellebration Private Limited."
+                ]
+              },
+              {
+                "head": "LIENS VERS D'AUTRES SITES WEB :",
+                "text": [
+                  "Notre site Web contient des liens qui vous redirigent vers nos pages de réseaux sociaux telles que Twitter, Facebook, LinkedIn, YouTube et d'autres qui pourraient être ajoutées à l'avenir. Vos visites et activités sur ceux-ci vis-à-vis de ces portails seront régies par leur propre politique de confidentialité applicable à la visite de leurs sites Web. Veuillez lire leur politique de confidentialité pour obtenir des informations sur leurs pratiques de confidentialité."
+                ]
+              },
+              {
+                "head": "PARTENAIRE:",
+                "text": [
+                  "Pour nous permettre de vous offrir une expérience utilisateur intensifiée et sécurisée, nous pouvons conclure périodiquement des contrats avec divers fournisseurs tiers. Ces engagements peuvent inclure le partage de vos informations personnelles identifiables, nous leur demanderons de les traiter de manière au moins aussi protectrice qu'ils traitent les informations personnellement identifiables qu'ils obtiennent de leurs autres sources autorisées.",
+                  "Nous ne commercialisons ni ne vendons vos données personnelles à des tiers."
+                ]
+              },
+              {
+                "head": "POLITIQUE DE CONSERVATION DES DONNÉES :",
+                "text": [
+                  "Nous conservons la possession de vos données pendant une durée raisonnable et/ou dans la mesure où il peut être judiciairement requis de les conserver conformément à la loi applicable/ou découlant d'objectifs admissibles. Nous prendrons des mesures raisonnables pour supprimer ou anonymiser de manière permanente les informations personnelles identifiables qui ne sont plus nécessaires, y compris celles gérées par des fournisseurs tiers engagés par la société assez souvent."
+                ]
+              },
+              {
+                "head": "MODIFICATION DE VOS INFORMATIONS PERSONNELLES IDENTIFIABLES :",
+                "text": [
+                  "Sellebration Private Limited vous donne la possibilité de modifier vos informations personnelles identifiables à tout moment, un appel doit être fait à hello@sellebration.ltd. Cependant, nous conserverons dans nos fichiers et bases de données les informations personnelles identifiables que vous avez demandé de supprimer pour les utiliser dans certaines conditions, telles que la résolution de litiges, la résolution de problèmes et la mise en œuvre des conditions d'utilisation. De plus, ces anciennes informations personnelles identifiables ne sont jamais complètement supprimées de nos bases de données pour des raisons techniques et juridiques, sans se limiter aux systèmes de « sauvegarde » stockés. Par conséquent, vous devez être clair sur le fait que toutes vos informations personnelles identifiables ne seront pas complètement supprimées de nos systèmes en réponse à votre appel."
+                ]
+              },
+              {
+                "head": "OBLIGATIONS RÉGLEMENTAIRES :",
+                "text": [
+                  "En raison de l'environnement réglementaire existant, nous ne pouvons garantir que toutes vos informations personnelles ne seront jamais divulguées d'une manière non décrite dans la présente politique de confidentialité. À titre d'exemple (sans limiter ce qui précède), nous pouvons être tenus de divulguer vos informations personnelles identifiables au gouvernement, aux forces de l'ordre, etc."
+                ]
+              },
+              {
+                "head": "SÉCURITÉ DES DONNÉES:",
+                "text": [
+                  "Pour protéger votre vie privée et votre sécurité, nous prendrons également des mesures raisonnables pour vérifier votre identité avant d'accorder l'accès. Nous nous engageons à protéger vos informations personnelles identifiables sous notre garde et avons pris les mesures nécessaires pour garantir des garanties physiques, techniques et de gestion appropriées afin de protéger vos données personnelles contre tout accès, modification, transmission et suppression non autorisés. Le cryptage est utilisé aux points pertinents pour protéger vos données. Nous testons périodiquement nos systèmes pour garantir la sécurité du traitement des données."
+                ]
+              },
+              {
+                "head": "CLAUSE DE NON-RESPONSABILITÉ:",
+                "text": [
+                  "Pour protéger votre vie privée comme mentionné ci-dessus, nous déployons les meilleurs efforts et adoptons les meilleures pratiques d'information sur les normes de l'industrie, mais vous reconnaissez que 100 % n'existe pas sur Internet. Vous êtes responsable de la protection de vos informations personnelles identifiables et vous ne devez pas partager vos identifiants de connexion et / ou laisser vos appareils personnels sans surveillance lorsque vous accédez au site Web, etc. La société ne garantit pas, et vous ne devez pas vous attendre en cas de malware attaque ou négligence de votre part que vos informations personnelles resteront privées."
+                ]
+              },
+              {
+                "head": "VOTRE CONSENTEMENT:",
+                "text": [
+                  "En acceptant cette politique de confidentialité et nos conditions, vous consentez expressément à ce que nous utilisions et divulguions vos informations personnelles de la manière prescrite dans la présente politique de confidentialité."
+                ]
+              },
+              {
+                "head": "DROITS EN VERTU DES LOIS APPLICABLES :",
+                "text": [
+                  "Vos données personnelles sont traitées sur la base du consentement que vous avez fourni en acceptant cette politique de confidentialité.",
+                  "Nous reconnaissons votre droit d'accès, de rectification, d'effacement, de limitation du traitement, de portabilité des données et d'opposition au traitement de vos données personnelles. Cependant, ces droits ne sont pas de nature absolue et sont soumis au contrat, à la législation applicable, à l'exigence de tenue de registres en vertu des lois applicables, aux litiges en cours ou aux litiges potentiels que Sellebration Private Limited peut prévoir. Pour exercer ces droits concernant vos données personnelles, vous pouvez contacter hello@sellebration.ltd.",
+                  "En cas d'inconduite/fraude/cybercriminalité, etc. de votre part, la Société sera libre d'utiliser vos PII comme preuve devant la Cour de justice et sera également autorisée à mener des enquêtes/enquêtes comme elle le juge approprié avec l'aide d'agences ou d'autorités privées selon ce qu'il juge bon. En consentant à cet Avis, vous acceptez le partage de vos PII aux fins susmentionnées et comprenez que l'exercice de vos droits dans cette mesure sera limité."
+                ]
+              },
+              {
+                "head": "QUESTIONS ET GRIEFS / DROIT DE PORTER PLAINTE :",
+                "text": [
+                  "Dans le cas où vous estimez que vos données personnelles ne sont pas traitées conformément aux finalités décrites dans la présente politique de confidentialité ou si vous avez des questions concernant la confidentialité de vos informations ou en relation avec vos droits en vertu de la loi applicable, veuillez n'hésitez pas à nous contacter à hello@sellebration.ltd."
+                ]
+              },
+              {
+                "head": "AVIS DE MODIFICATIONS :",
+                "text": [
+                  "Sellebration Private Limited se réserve expressément, à sa seule discrétion, le droit de modifier périodiquement cette politique de confidentialité à l'avenir sans préavis aux utilisateurs. L'utilisateur doit consulter régulièrement notre politique de confidentialité pour s'assurer que vous êtes pleinement informé de nos pratiques et procédures dans ce domaine."
+                ]
+              },
+              {
+                "head": "Questions et mises à jour",
+                "text": [
+                  "Si vous avez des questions ou des suggestions concernant nos pratiques de confidentialité, n'hésitez pas à nous contacter à hello@sellebration.ltd."
+                ]
+              }
+            ],
+            "11": {
+              "head": "BUT DE LA COLLECTE ET DU TRAITEMENT :",
+              "text1": [
+                "Nous pouvons recueillir vos informations telles que le titre, le nom, le sexe, la date de naissance, les adresses e-mail, le numéro de téléphone portable, l'emplacement et d'autres informations personnelles identifiables que vous soumettez sur le site Web (\"Informations personnelles identifiables\") pour vous fournir :"
+              ],
+              "bullets": [
+                "Une expérience sans rides, structurée et personnalisée,",
+                "Pour permettre aux entités de Sellebration Private Limited de se connecter avec vous concernant les programmes qu'elles gèrent ou les produits/services qu'elles proposent,",
+                "Pour nous permettre d'affiner nos produits et services, ainsi que des entités de Sellebration Private Limited,",
+                "Pour traiter vos demandes de communication (telles que répondre à vos questions ou réclamations),",
+                "Pour évaluer votre candidature aux opportunités de carrière anticipées chez nous,",
+                "Pour piloter des communications promotionnelles, campagne de marketing pour lesquelles vous avez consenti",
+                "Pour protéger nos intérêts vitaux."
+              ],
+              "text2": [
+                "Les PII collectées aux fins susmentionnées ne seront pas publiées dans les zones du site Web visibles par le public ou les utilisateurs du site."
+              ]
+            },
+            "22": {
+              "id": 1,
+              "head": "Comment nous collectons vos données personnelles :",
+              "text1": [
+                "Nous collectons vos données de la manière suivante :"
+              ],
+              "bullets": [
+                "Les informations personnelles identifiables que vous nous fournissez, et",
+                "Informations personnelles identifiables recueillies automatiquement conformément à votre visite sur le site Web."
+              ],
+              "headSmall1": "A. Données fournies par vous",
+              "textSmall1": "Sellebration Private Limited peut collecter vos informations personnelles identifiables de différentes manières à partir de votre utilisation de ce site Web, par exemple :",
+              "bulletsSmall1": [
+                "Lorsque vous nous contactez via le site Web (via tout formulaire via une adresse e-mail, un lien hypertexte ou une adresse de réseau social qui y est publiée),",
+                "Lorsque vous vous inscrivez auprès de nous pour recevoir des produits et/ou services de l'une des sociétés Sellebration,",
+                "Lorsque vous participez à des sondages menés par ou pour nous,",
+                "Lorsque vous choisissez de recevoir toute communication (y compris toute offre promotionnelle, toute newsletter) de notre part, et",
+                "Les détails peuvent être fournis volontairement par vous"
+              ],
+              "headSmall2": "B. Données collectées automatiquement",
+              "textSmall2": "Certaines informations concernant votre visite sur le site Web sont automatiquement collectées par nous. Ces informations nous aident à améliorer le contenu et la navigation du site Web et incluent votre adresse IP et la manière dont vous utilisez et interagissez avec son contenu, à savoir :",
+              "bulletsSmall2": [
+                "Nos serveurs Web ou sociétés affiliées qui fournissent des services d'analyse et d'amélioration de l'exécution collectent l'adresse IP, les attributs du système d'exploitation, les attributs de navigation, les attributs de l'appareil et les paramètres de langue. Les informations sont agrégées pour estimer le nombre de visites, le temps moyen passé sur le site Web, les pages consultées et des informations similaires. Sellebration Private Limited utilise ces informations pour mesurer l'utilisation du site, améliorer le contenu et garantir la sûreté et la sécurité, ainsi que pour améliorer les performances du site Web.",
+                "Nous pouvons collecter automatiquement vos informations personnelles identifiables via des cookies, conformément aux paramètres des cookies de votre navigateur. Pour plus d'informations sur les cookies, veuillez consulter la section ci-dessous intitulée « Cookies »."
+              ]
+            },
+            "cookie": {
+              "head": "Utilisation des Cookies :",
+              "headSmall1": "TYPE DE BISCUITS",
+              "headSmall2": "OBJECTIF",
+              "inner1Small1": "_utma,_utmb,_utmc, _utmz, display_features_cookie",
+              "inner1Small2": "_clck, _clsk, CLID, ANONCHK, MR, MUID, SM",
+              "inner2Small1": [
+                "Google Analytics est utilisé sur les sites Web pour suivre le trafic des visiteurs et le trafic des performances du site en collectant des informations anonymes sur le temps moyen passé sur le site Web, les pages consultées et d'autres statistiques d'utilisation pertinentes.",
+                "Pour refuser d'être suivi par Google Analytics, visitez :"
+              ],
+              "inner2Small2": [
+                "Microsoft Clarity est utilisé sur le site Web pour suivre le trafic des visiteurs et le trafic des performances du site en collectant des informations anonymes sur le temps moyen passé sur le site Web, les pages consultées et d'autres statistiques d'utilisation pertinentes.",
+                "Pour refuser d'être suivi par Microsoft Clarity, visitez :"
+              ]
+            }
+          },
+          "tandc": [
             {
               "head": "CONDITIONS GÉNÉRALES D'UTILISATION :",
               "text": [
@@ -427,7 +938,168 @@
             "9": "先锋队",
             "10": ""
           },
-        "privacy": [
+        "privacy":
+        {
+          "0": [
+            {
+              "head": "介绍：",
+              "text": [
+                "在一切都过度曝光的世界中，Sellebration Private Limited 遵循本隐私政策来保护您通过 www.sellebration.ltd 提供给 Sellebration Private Limited 的个人身份信息。您还必须查看并接受我们的网站使用条款，因为它也适用并管理网站的使用。",
+                "本隐私政策不适用于您可能与第三方实体（包括 Sellebration Private Limited 实体）共享的任何个人身份信息，例如通过与本网站建立连接的其他网站。请注意，如果您选择访问任何此类第三方网站，您应该直接与第三方联系以了解他们的隐私政策，因为第三方隐私政策将管理您的活动以及与他们共享的任何个人身份信息，本隐私政策在那里不适用。",
+                "本隐私政策描述了 Sellebration Private Limited 通过其网站处理您的个人身份信息的目的。"
+              ]
+            }
+          ],
+          "1": [
+            {
+              "head": "将个人身份信息传输给 SELLEBRATION PRIVATE LIMITED 实体：",
+              "text": [
+                "www.sellebration.ltd 网站旨在为您提供 Sellebration Private Limited Conglomerate 的一站式视图，并使您能够提出与 Sellebration Private Limited Entities 提供的任何产品/服务相关的问题。为了使我们能够为您提供完美的体验，我们可能必须与 Sellebration Private Limited 实体共享您的个人身份信息，包括但不限于网站上列出的实体。在这些实体可以访问您的个人身份信息的范围内，我们将呼吁他们至少像对待从授权来源获得的个人身份信息一样保护这些信息。任何 Sellebration Private Limited 实体或它们的合并都可能合并或被另一个商业实体收购。如果发生这种组合，您应该期望 Sellebration Private Limited 会共享您的部分或全部个人身份信息，以继续维护和提供对网站的访问。"
+              ]
+            },
+            {
+              "head": "个人身份信息的传输：",
+              "text": [
+                "我们从您那里收集的个人身份信息可能会被传送到并保留在可能位于或不位于印度的地点。它可能由在印度境外运营、为 Sellebration Private Limited 工作或受聘的员工处理。"
+              ]
+            },
+            {
+              "head": "其他网站的链接：",
+              "text": [
+                "我们的网站上有一些链接，可以将您切换到我们的社交网络页面，例如 Twitter、Facebook、LinkedIn、YouTube 以及将来可能添加的其他页面。您对这些门户网站的访问和活动应遵守适用于访问其网站的隐私政策。请阅读他们的隐私政策以获取有关其隐私惯例的信息。"
+              ]
+            },
+            {
+              "head": "伙伴：",
+              "text": [
+                "为了让我们能够为您提供强化和安全的用户体验，我们可能会定期与各种第三方供应商签订合同。此类参与可能包括共享您的个人身份信息，我们将要求他们至少像对待从其他授权来源获得的个人身份信息一样保护这些信息。",
+                "我们不会向任何第三方推销或出售您的个人数据。"
+              ]
+            },
+            {
+              "head": "数据保留政策：",
+              "text": [
+                "我们会在合理的时间内和/或根据适用法律/或出于可接受的目的在司法上要求维护您的数据。我们将采取合理措施删除或永久取消不再需要的个人身份信息，包括由公司经常聘用的第三方供应商管理的个人身份信息。"
+              ]
+            },
+            {
+              "head": "更改您的个人身份信息：",
+              "text": [
+                "Sellebration Private Limited 使您能够随时修改您的个人身份信息，应向 hello@sellebration.ltd 提出上诉。但是，我们将在我们的文件和数据库中保存您要求删除的个人身份信息，以便在某些情况下使用它，例如解决争议、解决问题以及实施使用条款和条件。此外，由于技术和法律原因，此类旧的个人身份信息永远不会从我们的数据库中完全删除，不仅限于存储的“备份”系统。因此，您应该清楚，您的所有个人身份信息不会因您的申诉而从我们的系统中完全删除。"
+              ]
+            },
+            {
+              "head": "监管义务：",
+              "text": [
+                "由于现有的监管环境，我们无法保证您的所有个人信息绝不会以本隐私政策中未另行说明的方式披露。例如（不限于上述情况），我们可能需要向政府、执法机构等披露您的个人身份信息。"
+              ]
+            },
+            {
+              "head": "数据安全：",
+              "text": [
+                "为了保护您的隐私和安全，我们还将采取合理措施在授予访问权限之前验证您的身份。我们致力于保护我们保管的您的个人身份信息，并已采取措施确保采取适当的物理、技术和管理保障措施，以保护您的个人数据免遭未经授权的访问、更改、传输和删除。在相关点使用加密来保护您的数据。我们定期测试我们的系统以确保数据处理的安全性。"
+              ]
+            },
+            {
+              "head": "免责声明：",
+              "text": [
+                "如上所述，为了保护您的隐私，我们尽最大努力并采用最佳行业标准信息实践，但是您承认 100% 不存在于互联网上。您有责任保护您的个人身份信息，您不应共享您的登录凭据和/或在访问网站时让您的个人设备无人看管等。公司不保证，您不应期望出现恶意软件您攻击或疏忽您的个人信息将保密。"
+              ]
+            },
+            {
+              "head": "您的同意：",
+              "text": [
+                "同意本隐私政策和我们的条款，即表示您明确同意我们以本隐私政策规定的方式使用和披露您的个人信息。"
+              ]
+            },
+            {
+              "head": "适用法律规定的权利：",
+              "text": [
+                "您的个人数据是根据您接受本隐私政策所提供的同意进行处理的。",
+                "我们承认您有权访问、更正、删除、限制处理、数据可移植性和反对处理您的个人数据。然而，这些权利在本质上不是绝对的，并受合同、适用法律、适用法规下的记录保存要求、正在进行的争议或 Sellebration Private Limited 可能预见的潜在争议的约束。要对您的个人数据行使这些权利，您可以联系 hello@sellebration.ltd。",
+                "如果您有任何不当行为/欺诈/网络犯罪等，公司有权在法庭上使用您的 PII 作为证据，并有权进行其认为合适的调查/询问私人机构或当局认为合适的帮助。您同意本通知，即表示您同意为上述目的共享您的 PII，并了解您在该范围内行使权利将受到限制。"
+              ]
+            },
+            {
+              "head": "问题和申诉/提出投诉的权利：",
+              "text": [
+                "如果您认为您的个人数据未按照本隐私政策中披露的目的进行处理，或者如果您对您的信息隐私或适用法律规定的您的权利有任何疑问，请请随时通过 hello@sellebration.ltd 与我们联系。"
+              ]
+            },
+            {
+              "head": "变更通知：",
+              "text": [
+                "Sellebration Private Limited 明确保留自行决定在未来定期更改本隐私政策的权利，恕不另行通知用户。用户应定期查看我们的隐私政策，以确保您完全了解我们在该领域的做法和程序。"
+              ]
+            },
+            {
+              "head": "问题和更新",
+              "text": [
+                "如果您对我们的隐私惯例有任何疑问或建议，请随时通过 hello@sellebration.ltd 与我们联系。"
+              ]
+            }
+          ],
+          "11": {
+            "head": "收集和处理的目的：",
+            "text1": [
+              "我们可能会收集您的头衔、姓名、性别、出生日期、电子邮件地址、手机号码、位置和您在网站上提交的其他个人身份信息（“个人身份信息”），以便为您提供："
+            ],
+            "bullets": [
+              "无褶皱、结构化和定制化的体验，",
+              "为了使 Sellebration Private Limited 实体能够就他们管理的计划或他们提供的产品/服务与您建立联系，",
+              "为了使我们能够改进我们的产品和服务，以及 Sellebration Private Limited 实体的产品和服务，",
+              "处理您的通信请求（例如回复您的查询或投诉），",
+              "为了评估您在我们这里的预期职业机会的候选人资格，",
+              "推动您同意的促销传播、营销活动",
+              "保护我们的切身利益。"
+            ],
+            "text2": [
+              "为上述目的收集的 PII 不会发布在公众或网站用户可以查看的网站区域。"
+            ]
+          },
+          "22": {
+            "id": 1,
+            "head": "我们如何收集您的个人资料：",
+            "text1": [
+              "我们通过以下方式收集您的数据："
+            ],
+            "bullets": [
+              "您提供给我们的个人身份信息，以及",
+              "根据您对网站的访问自动收集的个人身份信息。"
+            ],
+            "headSmall1": "A. 您提供的数据",
+            "textSmall1": "Sellebration Private Limited 可能会通过您使用本网站的不同方式收集您的个人身份信息，例如：",
+            "bulletsSmall1": [
+              "当您通过网站（通过电子邮件地址、超链接或发布在其中的社交媒体地址的任何形式）联系我们时，",
+              "当您注册我们以接收任何 Sellebration 公司的产品和/或服务时，",
+              "当您参加由我们或为我们进行的调查时，",
+              "当您选择接收我们的任何通讯（包括任何促销优惠、任何时事通讯）时，以及",
+              "您可以自愿提供详细信息"
+            ],
+            "headSmall2": "B. 自动收集的数据",
+            "textSmall2": "我们会自动收集有关您访问网站的一些信息。这些信息帮助我们升级网站内容和导航，包括您的 IP 地址以及您使用和互动其内容的方式，即：",
+            "bulletsSmall2": [
+              "我们提供分析和执行增强服务的网络服务器或附属机构收集 IP 地址、操作系统属性、浏览属性、设备属性和语言设置。这些信息被汇总以估计访问次数、在网站上花费的平均时间、浏览的页面和类似信息。 Sellebration Private Limited 使用此信息来衡量网站的使用情况、改进内容、保证安全和保障以及提高网站的性能。",
+              "我们可能会根据您浏览器上的 cookie 设置，通过 cookie 自动收集您的个人身份信息。有关 Cookie 的更多信息，请参阅下面标题为“Cookie”的部分。"
+            ]
+          },
+          "cookie": {
+            "head": "Cookies的使用：",
+            "headSmall1": "饼干类型",
+            "headSmall2": "目的",
+            "inner1Small1": "_utma,_utmb,_utmc, _utmz, display_features_cookie",
+            "inner1Small2": "_clck、_clsk、CLID、ANONCHK、MR、MUID、SM",
+            "inner2Small1": [
+              "Google Analytics 在网站上使用，通过收集有关在网站上花费的平均时间、查看的页面和其他相关使用统计数据的匿名信息来跟踪访问者流量和网站性能流量。",
+              "要选择不被 Google Analytics 跟踪，请访问："
+            ],
+            "inner2Small2": [
+              "Microsoft Clarity 在网站上用于通过收集有关在网站上花费的平均时间、查看的页面和其他相关使用统计数据的匿名信息来跟踪访问者流量和网站性能流量。",
+              "要选择不被 Microsoft Clarity 跟踪，请访问："
+            ]
+          }
+        },
+        "tandc": [
         {
             "head": "一般使用条款：",
             "text": [
@@ -563,7 +1235,168 @@
             "9": "Авангард",
             "10": ""
           },
-          "privacy": [
+          "privacy":
+          {
+            "0": [
+              {
+                "head": "ВВЕДЕНИЕ:",
+                "text": [
+                  "В мире, где все преувеличено, Sellebration Private Limited следует этой политике конфиденциальности, чтобы защитить вашу личную идентифицируемую информацию, которую вы предоставляете Sellebration Private Limited через www.sellebration.ltd. Вы также должны ознакомиться и принять наши Условия использования веб-сайта, поскольку они также применимы и регулируют использование веб-сайта.",
+                  "Настоящая Политика конфиденциальности не распространяется на любую личную информацию, которую вы можете передавать сторонним организациям (включая Sellebration Private Limited Entities), например, через другие веб-сайты, которые подключаются к веб-сайту. Пожалуйста, имейте в виду, что если вы решите посетить какой-либо такой сторонний веб-сайт, вам следует связаться с третьей стороной напрямую, чтобы узнать об их политике конфиденциальности, поскольку политика конфиденциальности этой третьей стороны будет регулировать вашу деятельность и любую личную информацию, передаваемую им, эту конфиденциальность. политика там не применима.",
+                  "Эта политика конфиденциальности описывает цели, для которых Sellebration Private Limited обрабатывает вашу личную информацию через свой веб-сайт."
+                ]
+              }
+            ],
+            "1": [
+              {
+                "head": "ПЕРЕДАЧА ЛИЧНОЙ ИДЕНТИФИКАЦИОННОЙ ИНФОРМАЦИИ ПРОДАЖНЫМ ЧАСТНЫМ ЛИЦАМ С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ:",
+                "text": [
+                  "Веб-сайт www.sellebration.ltd предназначен для того, чтобы предоставить вам комплексное представление о конгломерате Sellebration Private Limited и дать вам возможность решать вопросы, связанные с любыми продуктами/услугами, предлагаемыми Sellebration Private Limited Entities. Чтобы мы могли предоставить вам безупречный опыт, нам, возможно, придется поделиться вашей личной идентифицирующей информацией с организациями Sellebration Private Limited, включая, помимо прочего, те, которые перечислены на веб-сайте. В той мере, в какой эти лица имеют доступ к вашей Личной информации, мы будем призывать их относиться к ней так же бережно, как они относятся к Личной информации, которую они получают из своих авторизованных источников. Возможно, что любое из Sellebration Private Limited Entities или их объединение могут быть объединены или приобретены другим юридическим лицом. Если такая комбинация произойдет, вы должны ожидать, что Sellebration Private Limited передаст часть или всю вашу личную информацию, чтобы продолжать поддерживать и предоставлять доступ к веб-сайту."
+                ]
+              },
+              {
+                "head": "ПЕРЕДАЧА ЛИЧНОЙ ИДЕНТИФИКАЦИОННОЙ ИНФОРМАЦИИ:",
+                "text": [
+                  "Личная информация, которую мы получаем от вас, может быть передана и зарезервирована в местах, которые могут находиться или не находиться в Индии. Они могут обрабатываться сотрудниками, работающими за пределами территории Индии, которые работают или наняты Sellebration Private Limited."
+                ]
+              },
+              {
+                "head": "ССЫЛКИ НА ДРУГИЕ САЙТЫ:",
+                "text": [
+                  "На нашем веб-сайте есть ссылки, которые переключают вас на страницы наших социальных сетей, таких как Twitter, Facebook, LinkedIn, YouTube и другие, которые могут быть добавлены в будущем. Ваши посещения и действия на этих порталах регулируются их собственной политикой конфиденциальности, применимой к посещению их веб-сайтов. Пожалуйста, ознакомьтесь с их политикой конфиденциальности, чтобы получить информацию об их методах конфиденциальности."
+                ]
+              },
+              {
+                "head": "ПАРТНЕР:",
+                "text": [
+                  "Чтобы мы могли предоставить вам расширенный и безопасный пользовательский интерфейс, мы можем периодически заключать контракты с различными сторонними поставщиками. Такие обязательства могут включать передачу вашей личной информации, и мы попросим их относиться к ней как минимум так же бережно, как они относятся к личной информации, которую они получают из других авторизованных источников.",
+                  "Мы не продаем и не продаем ваши личные данные какой-либо третьей стороне."
+                ]
+              },
+              {
+                "head": "ПОЛИТИКА ХРАНЕНИЯ ДАННЫХ:",
+                "text": [
+                  "Мы храним ваши данные в течение разумного периода времени и/или в течение того времени, которое может потребоваться по закону для хранения в соответствии с применимым законодательством/или исходя из допустимых целей. Мы предпримем разумные меры для уничтожения или окончательной деидентификации личной информации, которая больше не нужна, в том числе той, которая довольно часто управляется сторонними поставщиками, привлекаемыми компанией."
+                ]
+              },
+              {
+                "head": "ИЗМЕНЕНИЕ ВАШЕЙ ЛИЧНОЙ ИДЕНТИФИКАЦИОННОЙ ИНФОРМАЦИИ:",
+                "text": [
+                  "Sellebration Private Limited дает вам возможность изменить вашу личную информацию в любое время, апелляция должна быть подана по адресу hello@sellebration.ltd. Однако мы будем хранить в наших файлах и базах данных личную информацию, которую вы запросили удалить, чтобы использовать ее в определенных условиях, например, для разрешения споров, устранения неполадок и реализации условий использования. Кроме того, такая старая личная информация никогда полностью не удаляется из наших баз данных по техническим и юридическим причинам, не ограничиваясь хранимыми «резервными» системами. Поэтому вам должно быть ясно, что вся ваша личная информация не будет полностью удалена из наших систем в ответ на вашу апелляцию."
+                ]
+              },
+              {
+                "head": "НОРМАТИВНЫЕ ОБЯЗАТЕЛЬСТВА:",
+                "text": [
+                  "В связи с существующей нормативно-правовой базой мы не можем гарантировать, что вся ваша Личная информация никогда не будет раскрыта способами, не описанными в настоящей Политике конфиденциальности. В качестве примера (без ограничения вышеизложенного) от нас может потребоваться раскрытие вашей Личной информации правительству, правоохранительным органам и т. д."
+                ]
+              },
+              {
+                "head": "БЕЗОПАСНОСТЬ ДАННЫХ:",
+                "text": [
+                  "Чтобы защитить вашу конфиденциальность и безопасность, мы также предпримем разумные меры для проверки вашей личности перед предоставлением доступа. Мы стремимся защитить вашу личную информацию, находящуюся у нас, и предприняли шаги для обеспечения надлежащих физических, технических и управленческих мер безопасности для защиты ваших личных данных от несанкционированного доступа, изменения, передачи и удаления. Шифрование используется в соответствующих точках для защиты ваших данных. Мы периодически тестируем наши системы для обеспечения безопасности обработки данных."
+                ]
+              },
+              {
+                "head": "ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ:",
+                "text": [
+                  "Чтобы защитить вашу конфиденциальность, как упоминалось выше, мы прилагаем все усилия и применяем лучшие отраслевые стандарты информации, однако вы признаете, что 100% не существует через Интернет. Вы несете ответственность за защиту вашей личной информации, и вы не должны делиться своими учетными данными для входа и / или оставлять свои личные устройства без присмотра во время доступа к веб-сайту и т. д. Компания не гарантирует, и вы не должны ожидать в случае вредоносного ПО нападение или халатность с вашей стороны, что ваша личная информация останется конфиденциальной."
+                ]
+              },
+              {
+                "head": "ВАШЕ СОГЛАСИЕ:",
+                "text": [
+                  "Соглашаясь с настоящей политикой конфиденциальности и нашими Условиями, вы прямо соглашаетесь на использование и раскрытие нами вашей личной информации в порядке, предусмотренном настоящей Политикой конфиденциальности."
+                ]
+              },
+              {
+                "head": "ПРАВА В СООТВЕТСТВИИ С ПРИМЕНИМЫМ ЗАКОНОДАТЕЛЬСТВОМ:",
+                "text": [
+                  "Ваши персональные данные обрабатываются на основании согласия, которое вы предоставили, приняв настоящую Политику конфиденциальности.",
+                  "Мы признаем ваше право на доступ, исправление, удаление, ограничение обработки, переносимость данных и возражение против обработки ваших личных данных. Однако эти права не являются абсолютными по своему характеру и регулируются договором, применимым законодательством, требованием ведения учета в соответствии с действующим законодательством, текущими спорами или потенциальными спорами, которые Sellebration Private Limited может предвидеть. Чтобы воспользоваться этими правами в отношении ваших личных данных, вы можете связаться с hello@sellebration.ltd.",
+                  "В случае любого неправомерного поведения/мошенничества/киберпреступления и т. д. с вашей стороны, Компания вправе использовать вашу личную информацию в качестве доказательства в суде, а также имеет право проводить расследования/дознания по своему усмотрению. помощь частных агентств или властей по своему усмотрению. Соглашаясь с этим Уведомлением, вы соглашаетесь на передачу вашей PII для вышеуказанных целей и понимаете, что осуществление ваших прав в этом отношении будет ограничено."
+                ]
+              },
+              {
+                "head": "ВОПРОСЫ И ЖАЛОБЫ/ПРАВО НА ПОДАЧУ ЖАЛОБ:",
+                "text": [
+                  "В случае, если вы считаете, что ваши личные данные не обрабатываются в соответствии с целями, раскрытыми в настоящей Политике конфиденциальности, или если у вас есть какие-либо вопросы, связанные с вашей конфиденциальностью информации или в связи с вашими правами в соответствии с применимым законодательством, пожалуйста, не стесняйтесь обращаться к нам по адресу hello@sellebration.ltd."
+                ]
+              },
+              {
+                "head": "УВЕДОМЛЕНИЕ ОБ ИЗМЕНЕНИЯХ:",
+                "text": [
+                  "Sellebration Private Limited прямо оставляет за собой право по своему усмотрению периодически изменять настоящую Политику конфиденциальности в будущем без предварительного уведомления Пользователей. Пользователь должен регулярно просматривать нашу Политику конфиденциальности, чтобы убедиться, что вы полностью в курсе наших методов и процедур в этой области."
+                ]
+              },
+              {
+                "head": "Вопросы и обновления",
+                "text": [
+                  "Если у вас есть какие-либо вопросы или предложения относительно нашей политики конфиденциальности, пожалуйста, свяжитесь с нами по адресу hello@sellebration.ltd."
+                ]
+              }
+            ],
+            "11": {
+              "head": "ЦЕЛЬ СБОРА И ПЕРЕРАБОТКИ:",
+              "text1": [
+                "Мы можем собирать вашу информацию, такую как должность, имя, пол, дату рождения, адреса электронной почты, номер мобильного телефона, местонахождение и другую личную информацию, которую вы предоставляете на веб-сайте («Личная информация»), чтобы предоставить вам:"
+              ],
+              "bullets": [
+                "Безупречный, структурированный и индивидуальный опыт,",
+                "Чтобы позволить организациям Sellebration Private Limited связываться с вами в отношении управляемых ими программ или продуктов/услуг, предлагаемых ими,",
+                "Чтобы мы могли усовершенствовать наши продукты и услуги, а также компании Sellebration Private Limited,",
+                "Для обработки ваших запросов на связь (например, для ответа на ваши запросы или жалобы),",
+                "Чтобы оценить вашу кандидатуру на предполагаемые карьерные возможности у нас,",
+                "Для продвижения рекламных сообщений, маркетинговой кампании, на которую вы дали согласие",
+                "Чтобы защитить наши жизненные интересы."
+              ],
+              "text2": [
+                "Персональные данные, собранные для вышеупомянутых целей, не будут размещаться в разделах веб-сайта, доступных для просмотра публикой или пользователями сайта."
+              ]
+            },
+            "22": {
+              "id": 1,
+              "head": "Как мы собираем ваши персональные данные:",
+              "text1": [
+                "Мы собираем ваши данные следующими способами:"
+              ],
+              "bullets": [
+                "Личная идентифицирующая информация, предоставленная нам вами, и",
+                "Личная информация, собираемая автоматически в соответствии с вашим посещением веб-сайта."
+              ],
+              "headSmall1": "A. Данные, предоставленные вами",
+              "textSmall1": "Sellebration Private Limited может собирать вашу личную информацию различными способами при использовании вами этого веб-сайта, например:",
+              "bulletsSmall1": [
+                "Когда вы связываетесь с нами через веб-сайт (через любую форму, используя адрес электронной почты, гиперссылку или адрес социальной сети, размещенный на нем),",
+                "Когда вы регистрируетесь у нас для получения продуктов и/или услуг любой из компаний Sellebration,",
+                "Когда вы принимаете участие в опросах, проводимых нами или для нас,",
+                "Когда вы решите получать от нас какие-либо сообщения (включая любые рекламные предложения, любой информационный бюллетень) и",
+                "Детали могут быть предоставлены вами добровольно"
+              ],
+              "headSmall2": "B. Данные, которые собираются автоматически",
+              "textSmall2": "Некоторая информация о вашем посещении веб-сайта собирается нами автоматически. Эта информация помогает нам обновлять содержимое веб-сайта и навигацию и включает ваш IP-адрес и то, как вы используете его содержимое и взаимодействуете с ним, а именно:",
+              "bulletsSmall2": [
+                "Наши веб-серверы или аффилированные лица, которые предоставляют услуги аналитики и улучшения выполнения, собирают IP-адрес, атрибуты операционной системы, атрибуты просмотра, атрибуты устройства и языковые настройки. Информация агрегируется для оценки количества посещений, среднего времени, проведенного на веб-сайте, просмотренных страниц и аналогичной информации. Sellebration Private Limited использует эту информацию для оценки использования сайта, улучшения контента и обеспечения безопасности и защиты, а также повышения производительности веб-сайта.",
+                "Мы можем автоматически собирать вашу личную информацию с помощью файлов cookie в соответствии с настройками файлов cookie в вашем браузере. Для получения дополнительной информации о файлах cookie см. раздел ниже под названием «Файлы cookie»."
+              ]
+            },
+            "cookie": {
+              "head": "Использование файлов cookie:",
+              "headSmall1": "ТИП ПЕЧЕНЬЯ",
+              "headSmall2": "ЦЕЛЬ",
+              "inner1Small1": "_utma, _utmb, _utmc, _utmz, display_features_cookie",
+              "inner1Small2": "_clck, _clsk, КЛИД, АНОНЧК, МР, МУИД, СМ",
+              "inner2Small1": [
+                "Google Analytics используется на веб-сайтах для отслеживания трафика посетителей и производительности сайта путем сбора анонимной информации о среднем времени, проведенном на веб-сайте, просмотренных страницах и другой соответствующей статистике использования.",
+                "Чтобы отказаться от отслеживания с помощью Google Analytics, посетите:"
+              ],
+              "inner2Small2": [
+                "Microsoft Clarity используется на веб-сайте для отслеживания трафика посетителей и производительности сайта путем сбора анонимной информации о среднем времени, проведенном на веб-сайте, просмотренных страницах и другой соответствующей статистике использования.",
+                "Чтобы отказаться от отслеживания Microsoft Clarity, посетите:"
+              ]
+            }
+          },
+          "tandc": [
             {
               "head": "ОБЩИЕ УСЛОВИЯ ИСПОЛЬЗОВАНИЯ:",
               "text": [
@@ -699,7 +1532,168 @@
             "9": "Die Avantgarde",
             "10": ""
         },
-        "privacy": [
+        "privacy":
+        {
+          "0": [
+            {
+              "head": "EINLEITUNG:",
+              "text": [
+                "In einer Welt, in der alles überbelichtet ist, befolgt Sellebration Private Limited diese Datenschutzrichtlinie, um Ihre personenbezogenen Daten zu schützen, die Sie Sellebration Private Limited über www.sellebration.ltd zur Verfügung stellen. Sie müssen auch unsere Website-Nutzungsbedingungen lesen und akzeptieren, da sie ebenfalls anwendbar sind und die Nutzung der Website regeln.",
+                "Diese Datenschutzrichtlinie gilt nicht für personenbezogene Daten, die Sie möglicherweise an Drittunternehmen (einschließlich Sellebration Private Limited Entities) weitergeben, z. B. über andere Websites, die eine Verbindung zur Website herstellen. Bitte seien Sie sich bewusst, falls Sie sich entscheiden, eine solche Website eines Drittanbieters zu besuchen, sollten Sie sich direkt mit dem Drittanbieter in Verbindung setzen, um dessen Datenschutzrichtlinie zu erhalten, da die Datenschutzrichtlinie des Drittanbieters Ihre Aktivitäten und alle mit ihnen geteilten personenbezogenen Daten, diese Datenschutzrichtlinie, regelt Die Richtlinie gilt dort nicht.",
+                "Diese Datenschutzrichtlinie beschreibt die Zwecke, für die Sellebration Private Limited Ihre personenbezogenen Daten über seine Website verarbeitet."
+              ]
+            }
+          ],
+          "1": [
+            {
+              "head": "ÜBERTRAGUNG PERSONENBEZOGENER DATEN AN SELLEBRATION PRIVATE LIMITED ENTITIES:",
+              "text": [
+                "Die Website www.sellebration.ltd soll Ihnen einen umfassenden Überblick über das Konglomerat von Sellebration Private Limited geben und es Ihnen ermöglichen, Probleme im Zusammenhang mit Produkten / Dienstleistungen anzusprechen, die von Sellebration Private Limited-Einheiten angeboten werden. Damit wir Ihnen ein einwandfreies Erlebnis bieten können, müssen wir möglicherweise Ihre personenbezogenen Daten an Unternehmen von Sellebration Private Limited weitergeben, einschließlich, aber nicht beschränkt auf die auf der Website aufgeführten. In dem Umfang, in dem diese Unternehmen Zugriff auf Ihre personenbezogenen Daten haben, werden wir sie auffordern, diese mindestens so schützend zu behandeln, wie sie personenbezogene Daten behandeln, die sie von ihren autorisierten Quellen erhalten. Es ist möglich, dass eine der Sellebration Private Limited Entities oder ein Zusammenschluss von ihnen fusionieren oder von einer anderen Geschäftseinheit übernommen werden. Sollte eine solche Kombination auftreten, sollten Sie damit rechnen, dass Sellebration Private Limited einige oder alle Ihrer personenbezogenen Daten weitergibt, um die Website weiterhin zu pflegen und den Zugriff darauf zu ermöglichen."
+              ]
+            },
+            {
+              "head": "ÜBERTRAGUNG PERSONENBEZOGENER INFORMATIONEN:",
+              "text": [
+                "Die personenbezogenen Daten, die wir von Ihnen erfassen, können an Orte übermittelt und dort reserviert werden, die sich möglicherweise in Indien befinden oder nicht. Sie können von Mitarbeitern verarbeitet werden, die außerhalb des Hoheitsgebiets Indiens tätig sind und für Sellebration Private Limited arbeiten oder von Sellebration Private Limited beschäftigt werden."
+              ]
+            },
+            {
+              "head": "LINKS ZU ANDEREN WEBSEITEN:",
+              "text": [
+                "Unsere Website enthält Links, die Sie zu unseren Seiten sozialer Netzwerke wie Twitter, Facebook, LinkedIn, YouTube und anderen weiterleiten, die in Zukunft hinzugefügt werden können. Ihre Besuche und Aktivitäten auf diesen Portalen werden durch deren eigene Datenschutzrichtlinie geregelt, die für den Besuch ihrer Websites gilt. Bitte lesen Sie ihre Datenschutzrichtlinie, um Informationen über ihre Datenschutzpraktiken zu erhalten."
+              ]
+            },
+            {
+              "head": "PARTNER:",
+              "text": [
+                "Damit wir Ihnen ein intensiveres und sicheres Benutzererlebnis bieten können, schließen wir möglicherweise regelmäßig Verträge mit verschiedenen Drittanbietern ab. Solche Verpflichtungen können die Weitergabe Ihrer personenbezogenen Daten beinhalten. Wir werden sie bitten, diese mindestens so schützend zu behandeln, wie sie personenbezogene Daten behandeln, die sie von ihren anderen autorisierten Quellen erhalten.",
+                "Wir vermarkten oder verkaufen Ihre personenbezogenen Daten nicht an Dritte."
+              ]
+            },
+            {
+              "head": "DATENAUFBEWAHRUNGSRICHTLINIE:",
+              "text": [
+                "Wir bewahren Ihre Daten für einen angemessenen Zeitraum auf und/oder wie es gerichtlich erforderlich ist, um sie gemäß geltendem Recht aufzubewahren, oder die sich aus zulässigen Zwecken ergeben. Wir werden angemessene Schritte unternehmen, um personenbezogene Daten, die nicht mehr benötigt werden, zu löschen oder dauerhaft zu de-identifizieren, einschließlich derjenigen, die von Drittanbietern verwaltet werden, die vom Unternehmen häufig beauftragt werden."
+              ]
+            },
+            {
+              "head": "ÄNDERUNG IHRER PERSONENBEZOGENEN INFORMATIONEN:",
+              "text": [
+                "Sellebration Private Limited gibt Ihnen die Möglichkeit, Ihre personenbezogenen Daten jederzeit zu ändern, ein Einspruch sollte an hello@sellebration.ltd gerichtet werden. Wir werden jedoch personenbezogene Daten in unseren Dateien und Datenbanken speichern, um deren Entfernung Sie gebeten haben, um sie unter bestimmten Bedingungen zu verwenden, z. B. um Streitigkeiten beizulegen, Probleme zu beheben und Nutzungsbedingungen umzusetzen. Darüber hinaus werden solche alten personenbezogenen Daten aus technischen und rechtlichen Gründen nie vollständig aus unseren Datenbanken entfernt, nicht beschränkt auf gespeicherte „Backup“-Systeme. Daher sollten Sie sich darüber im Klaren sein, dass alle Ihre personenbezogenen Daten als Reaktion auf Ihren Einspruch nicht vollständig aus unseren Systemen entfernt werden."
+              ]
+            },
+            {
+              "head": "REGULIERUNGSPFLICHTEN:",
+              "text": [
+                "Aufgrund des bestehenden regulatorischen Umfelds können wir nicht garantieren, dass alle Ihre personenbezogenen Daten niemals auf eine Weise offengelegt werden, die in dieser Datenschutzrichtlinie nicht anderweitig beschrieben ist. Beispielsweise (ohne das Vorstehende einzuschränken) können wir verpflichtet sein, Ihre personenbezogenen Daten an die Regierung, Strafverfolgungsbehörden usw. weiterzugeben."
+              ]
+            },
+            {
+              "head": "DATENSICHERHEIT:",
+              "text": [
+                "Um Ihre Privatsphäre und Sicherheit zu schützen, werden wir auch angemessene Schritte unternehmen, um Ihre Identität zu überprüfen, bevor wir Ihnen Zugang gewähren. Wir verpflichten uns, Ihre personenbezogenen Daten in unserer Obhut zu schützen und haben Maßnahmen ergriffen, um angemessene physische, technische und verwaltungstechnische Sicherheitsvorkehrungen zu treffen, um Ihre personenbezogenen Daten vor unbefugtem Zugriff, Änderung, Übertragung und Löschung zu schützen. Zum Schutz Ihrer Daten wird an relevanten Stellen Verschlüsselung eingesetzt. Wir testen unsere Systeme regelmäßig, um die Sicherheit der Datenverarbeitung zu gewährleisten."
+              ]
+            },
+            {
+              "head": "HAFTUNGSAUSSCHLUSS:",
+              "text": [
+                "Um Ihre Privatsphäre wie oben erwähnt zu schützen, unternehmen wir größte Anstrengungen und wenden die besten Informationspraktiken nach Industriestandards an, Sie erkennen jedoch an, dass 100% über das Internet nicht existieren. Sie sind für den Schutz Ihrer personenbezogenen Daten verantwortlich und sollten Ihre Anmeldeinformationen nicht weitergeben und/oder Ihre persönlichen Geräte nicht unbeaufsichtigt lassen, während Sie auf die Website zugreifen usw. Das Unternehmen übernimmt keine Garantie, und Sie sollten im Falle von Malware nicht damit rechnen Angriff oder Fahrlässigkeit Ihrerseits, dass Ihre personenbezogenen Daten privat bleiben."
+              ]
+            },
+            {
+              "head": "IHRE ZUSTIMMUNG:",
+              "text": [
+                "Indem Sie dieser Datenschutzrichtlinie und unseren Bedingungen zustimmen, stimmen Sie ausdrücklich unserer Verwendung und Offenlegung Ihrer personenbezogenen Daten in der in dieser Datenschutzrichtlinie vorgeschriebenen Weise zu."
+              ]
+            },
+            {
+              "head": "RECHTE NACH GELTENDEM RECHT:",
+              "text": [
+                "Ihre personenbezogenen Daten werden auf Grundlage der Zustimmung verarbeitet, die Sie durch Akzeptieren dieser Datenschutzrichtlinie erteilt haben.",
+                "Ihre Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten werden von uns anerkannt. Diese Rechte sind jedoch nicht absoluter Natur und unterliegen Verträgen, geltenden Gesetzen, Aufzeichnungspflichten gemäß geltenden Gesetzen, laufenden Streitigkeiten oder potenziellen Streitigkeiten, die Sellebration Private Limited vorhersehen kann. Um diese Rechte in Bezug auf Ihre personenbezogenen Daten auszuüben, können Sie sich an hello@sellebration.ltd wenden.",
+                "Im Falle von Fehlverhalten/Betrug/Cyberkriminalität usw. Ihrerseits steht es dem Unternehmen frei, Ihre personenbezogenen Daten als Beweismittel vor Gericht zu verwenden, und es ist auch berechtigt, Ermittlungen/Ermittlungen durchzuführen, wenn es dies für angemessen hält die Hilfe privater Agenturen oder Behörden, wenn sie dies für angemessen hält. Indem Sie dieser Mitteilung zustimmen, stimmen Sie der Weitergabe Ihrer PII für die oben genannten Zwecke zu und verstehen, dass die Ausübung Ihrer Rechte in diesem Umfang eingeschränkt ist."
+              ]
+            },
+            {
+              "head": "FRAGEN UND BESCHWERDEN/ BESCHWERDERECHT:",
+              "text": [
+                "Falls Sie der Ansicht sind, dass Ihre personenbezogenen Daten nicht gemäß den in dieser Datenschutzrichtlinie angegebenen Zwecken verarbeitet werden, oder wenn Sie Fragen zu Ihrem Datenschutz oder zu Ihren Rechten nach geltendem Recht haben, wenden Sie sich bitte an uns Kontaktieren Sie uns gerne unter hello@sellebration.ltd."
+              ]
+            },
+            {
+              "head": "MITTEILUNG VON ÄNDERUNGEN:",
+              "text": [
+                "Sellebration Private Limited behält sich ausdrücklich nach eigenem Ermessen das Recht vor, diese Datenschutzrichtlinie regelmäßig in der Zukunft ohne vorherige Ankündigung an die Benutzer zu ändern. Der Benutzer muss unsere Datenschutzrichtlinie regelmäßig überprüfen, um sicherzustellen, dass Sie mit unseren Praktiken und Verfahren in diesem Bereich vollständig auf dem Laufenden sind."
+              ]
+            },
+            {
+              "head": "Fragen und Aktualisierungen",
+              "text": [
+                "Wenn Sie Fragen oder Anregungen zu unseren Datenschutzpraktiken haben, können Sie uns gerne unter hello@sellebration.ltd kontaktieren."
+              ]
+            }
+          ],
+          "11": {
+            "head": "ZWECK DER ERHEBUNG UND VERARBEITUNG:",
+            "text1": [
+              "Wir können Ihre Informationen wie Titel, Name, Geschlecht, Geburtsdatum, E-Mail-Adressen, Handynummer, Standort und andere personenbezogene Daten, die Sie auf der Website übermitteln („personenbezogene Daten“) erfassen, um Ihnen Folgendes bereitzustellen:"
+            ],
+            "bullets": [
+              "Ein faltenfreies, strukturiertes und individuelles Erlebnis,",
+              "Um es den Unternehmen von Sellebration Private Limited zu ermöglichen, mit Ihnen in Bezug auf von ihnen verwaltete Programme oder von ihnen angebotene Produkte/Dienstleistungen in Kontakt zu treten,",
+              "Damit wir unsere Produkte und Dienstleistungen sowie die Unternehmen von Sellebration Private Limited verbessern können,",
+              "Zur Bearbeitung Ihrer Kommunikationsanfragen (z. B. Beantwortung Ihrer Anfragen oder Beschwerden),",
+              "Um Ihre Bewerbung auf erwartete Karrieremöglichkeiten bei uns zu prüfen,",
+              "Um Werbemitteilungen und Marketingkampagnen voranzutreiben, denen Sie zugestimmt haben",
+              "Um unser lebenswichtiges Interesse zu schützen."
+            ],
+            "text2": [
+              "Die für die oben genannten Zwecke gesammelten PII werden nicht in Bereichen der Website veröffentlicht, die für die Öffentlichkeit oder die Benutzer der Website sichtbar sind."
+            ]
+          },
+          "22": {
+            "id": 1,
+            "head": "Wie wir Ihre personenbezogenen Daten erfassen:",
+            "text1": [
+              "Wir erheben Ihre Daten auf folgende Weise:"
+            ],
+            "bullets": [
+              "Personenbezogene Daten, die Sie uns zur Verfügung gestellt haben, und",
+              "Persönliche identifizierbare Informationen, die automatisch erfasst werden, wenn Sie die Website besuchen."
+            ],
+            "headSmall1": "A. Von Ihnen bereitgestellte Daten",
+            "textSmall1": "Sellebration Private Limited kann Ihre personenbezogenen Daten auf unterschiedliche Weise aus Ihrer Nutzung dieser Website erfassen, zum Beispiel:",
+            "bulletsSmall1": [
+              "Wenn Sie uns über die Website erreichen (über ein beliebiges Formular per E-Mail-Adresse, Hyperlink oder darin veröffentlichter Social-Media-Adresse),",
+              "Wenn Sie sich bei uns anmelden, um Produkte und/oder Dienstleistungen eines der Sellebration-Unternehmen zu erhalten,",
+              "Wenn Sie an Umfragen teilnehmen, die von oder für uns durchgeführt werden,",
+              "Wenn Sie sich dafür entscheiden, Mitteilungen (einschließlich Werbeangebote, Newsletter) von uns zu erhalten, und",
+              "Angaben können freiwillig von Ihnen gemacht werden"
+            ],
+            "headSmall2": "B. Daten, die automatisch erfasst werden",
+            "textSmall2": "Einige Informationen über Ihren Besuch auf der Website werden von uns automatisch erfasst. Diese Informationen helfen uns, den Inhalt und die Navigation der Website zu verbessern, und umfassen Ihre IP-Adresse und die Art und Weise, wie Sie den Inhalt verwenden und mit ihm interagieren, nämlich:",
+            "bulletsSmall2": [
+              "Unsere Webserver oder verbundenen Unternehmen, die Analyse- und Ausführungsverbesserungsdienste bereitstellen, erfassen IP-Adressen, Betriebssystemattribute, Browsing-Attribute, Geräteattribute und Spracheinstellungen. Die Informationen werden aggregiert, um die Anzahl der Besuche, die durchschnittlich auf der Website verbrachte Zeit, die aufgerufenen Seiten und ähnliche Informationen zu schätzen. Sellebration Private Limited verwendet diese Informationen, um die Nutzung der Website zu messen, den Inhalt zu verbessern und die Sicherheit zu gewährleisten sowie die Leistung der Website zu verbessern.",
+              "Wir können Ihre personenbezogenen Daten automatisch über Cookies gemäß den Cookie-Einstellungen Ihres Browsers erfassen. Weitere Informationen zu Cookies finden Sie im Abschnitt „Cookies“ weiter unten."
+            ]
+          },
+          "cookie": {
+            "head": "Verwendung von Cookies:",
+            "headSmall1": "Cookie-Art",
+            "headSmall2": "ZWECK",
+            "inner1Small1": "_utma,_utmb,_utmc, _utmz, display_features_cookie",
+            "inner1Small2": "_clck, _clsk, CLID, ANONCHK, MR, MUID, SM",
+            "inner2Small1": [
+              "Google Analytics wird auf den Websites verwendet, um den Besucherverkehr und den Websiteleistungsverkehr zu verfolgen, indem anonyme Informationen über die durchschnittlich auf der Website verbrachte Zeit, die aufgerufenen Seiten und andere relevante Nutzungsstatistiken gesammelt werden.",
+              "Um sich von der Verfolgung durch Google Analytics abzumelden, besuchen Sie:"
+            ],
+            "inner2Small2": [
+              "Microsoft Clarity wird auf der Website verwendet, um den Besucherverkehr und den Websiteleistungsverkehr zu verfolgen, indem anonyme Informationen über die durchschnittlich auf der Website verbrachte Zeit, die aufgerufenen Seiten und andere relevante Nutzungsstatistiken gesammelt werden.",
+              "Um sich von der Nachverfolgung durch Microsoft Clarity abzumelden, besuchen Sie:"
+            ]
+          }
+        },
+        "tandc": [
             {
               "head": "ALLGEMEINE NUTZUNGSBEDINGUNGEN:",
               "text": [
@@ -835,7 +1829,168 @@
             "9": "A Vanguarda",
             "10": ""
           },
-          "privacy": [
+          "privacy":
+          {
+            "0": [
+              {
+                "head": "INTRODUÇÃO:",
+                "text": [
+                  "No mundo onde tudo está superexposto, a Sellebration Private Limited está seguindo esta política de privacidade para proteger suas informações pessoais identificáveis que você fornece à Sellebration Private Limited através de www.sellebration.ltd. Você também deve revisar e aceitar nossos Termos de Uso do Site, pois também são aplicáveis e regem o uso do site.",
+                  "Esta Política de Privacidade não se aplica a nenhuma Informação Pessoal Identificável que você possa compartilhar com entidades terceirizadas (incluindo Sellebration Private Limited Entities), como por meio de outros sites que estabelecem uma conexão com o site. Esteja ciente de que, caso opte por visitar qualquer site de terceiros, você deve entrar em contato com terceiros diretamente para obter sua política de privacidade, pois a política de privacidade de terceiros regerá suas atividades e quaisquer informações pessoais identificáveis compartilhadas com eles, esta privacidade política não será aplicável lá.",
+                  "Esta política de privacidade descreve os propósitos para os quais a Sellebration Private Limited processa suas informações pessoais identificáveis por meio de seu site."
+                ]
+              }
+            ],
+            "1": [
+              {
+                "head": "TRANSFERÊNCIA DE INFORMAÇÕES PESSOAIS IDENTIFICÁVEIS PARA ENTIDADES LIMITADAS PRIVADAS DA SELLEBRATION:",
+                "text": [
+                  "O site www.sellebration.ltd foi projetado para fornecer a você uma visão completa do Conglomerado Sellebration Private Limited e permitir que você levante questões relacionadas a qualquer produto / serviço oferecido pelas Entidades Sellebration Private Limited. Para nos permitir fornecer a você uma experiência impecável, podemos ter que compartilhar suas informações de identificação pessoal com as entidades Sellebration Private Limited, incluindo, entre outras, aquelas listadas no site. No âmbito em que essas entidades tenham acesso às suas Informações Pessoais Identificáveis, apelaremos para que as tratem pelo menos com o mesmo cuidado com que tratam as Informações Pessoais Identificáveis que obtêm de suas fontes autorizadas. É possível que qualquer uma das Entidades Limitadas Privadas da Sellebration ou fusão delas possa se fundir ou ser adquirida por outra entidade comercial. Se tal combinação ocorrer, você deve esperar que a Sellebration Private Limited compartilhe algumas ou todas as suas informações pessoais identificáveis para continuar a manter e fornecer acesso ao site."
+                ]
+              },
+              {
+                "head": "TRANSFERÊNCIA DE INFORMAÇÕES PESSOAIS IDENTIFICÁVEIS:",
+                "text": [
+                  "As Informações Pessoais Identificáveis que coletamos de você podem ser transmitidas e reservadas em locais que podem ou não estar na Índia. Pode ser processado pela força de trabalho que opera fora do território da Índia, que trabalha ou é contratada pela Sellebration Private Limited."
+                ]
+              },
+              {
+                "head": "LINKS PARA OUTROS SITES:",
+                "text": [
+                  "Nosso site possui links que direcionam você para nossas páginas de redes sociais como Twitter, Facebook, LinkedIn, YouTube e outras que podem ser adicionadas no futuro. Suas visitas e atividades relacionadas a esses portais serão resguardadas por sua própria política de privacidade aplicável à visita a seus sites. Leia a política de privacidade deles para obter informações sobre suas práticas de privacidade."
+                ]
+              },
+              {
+                "head": "PARCEIRO:",
+                "text": [
+                  "Para nos permitir fornecer a você uma experiência de usuário intensificada e segura, podemos fechar contratos com vários fornecedores terceirizados periodicamente. Tais compromissos podem incluir o compartilhamento de suas informações de identificação pessoal, pediremos a eles que as tratem pelo menos com o mesmo cuidado com que tratam as informações de identificação pessoal que obtêm de outras fontes autorizadas.",
+                  "Não comercializamos ou vendemos seus dados pessoais a terceiros."
+                ]
+              },
+              {
+                "head": "POLÍTICA DE RETENÇÃO DE DADOS:",
+                "text": [
+                  "Mantemos a posse de seus dados por um tempo razoável e/ou conforme exigido judicialmente para ser mantido de acordo com a lei aplicável/ ou decorrente de finalidades admissíveis. Tomaremos medidas razoáveis para derrubar ou desidentificar permanentemente as Informações Pessoais Identificáveis que não são mais necessárias, incluindo aquelas gerenciadas por fornecedores terceirizados contratados pela empresa com bastante frequência."
+                ]
+              },
+              {
+                "head": "ALTERANDO SUAS INFORMAÇÕES DE IDENTIFICAÇÃO PESSOAL:",
+                "text": [
+                  "A Sellebration Private Limited oferece a você a capacidade de alterar suas Informações Pessoais Identificáveis a qualquer momento, uma apelação deve ser feita para hello@sellebration.ltd. No entanto, manteremos as informações em nossos arquivos e bancos de dados Informações Pessoais Identificáveis que você solicitou remover para usá-las em algumas condições, como resolver disputas, solucionar problemas e implementar termos e condições de uso. Além disso, tais Informações Pessoais Identificáveis antigas nunca são completamente removidas de nossos bancos de dados devido a razões técnicas e legais, não limitadas a sistemas de “back-up” armazenados. Portanto, você deve deixar claro que todas as suas informações pessoais identificáveis não serão completamente removidas de nossos sistemas em resposta à sua apelação."
+                ]
+              },
+              {
+                "head": "OBRIGAÇÕES REGULATÓRIAS:",
+                "text": [
+                  "Devido ao ambiente regulatório existente, não podemos garantir que todas as suas informações pessoais nunca serão divulgadas de maneiras não descritas nesta Política de Privacidade. A título de exemplo (sem limitar o precedente), podemos ser obrigados a divulgar suas Informações Pessoais Identificáveis ao governo, agências de aplicação da lei, etc."
+                ]
+              },
+              {
+                "head": "SEGURANÇA DE DADOS:",
+                "text": [
+                  "Para proteger sua privacidade e segurança, também tomaremos medidas razoáveis para verificar sua identidade antes de conceder acesso. Estamos comprometidos em proteger suas Informações Pessoais Identificáveis sob nossa custódia e tomamos as medidas necessárias para garantir salvaguardas físicas, técnicas e gerenciais apropriadas para proteger seus Dados Pessoais contra acesso, alteração, transmissão e exclusão não autorizados. A criptografia está sendo usada em pontos relevantes para proteger seus dados. Testamos nossos sistemas periodicamente para garantir a segurança do processamento de dados."
+                ]
+              },
+              {
+                "head": "AVISO LEGAL:",
+                "text": [
+                  "Para salvaguardar a sua privacidade, conforme mencionado acima, envidamos todos os esforços e adotamos as melhores práticas de informações dos padrões da indústria, no entanto, você reconhece que 100% não existe na Internet. Você é responsável por proteger suas Informações Pessoais Identificáveis e não deve compartilhar suas credenciais de login e/ou deixar seus dispositivos pessoais sem vigilância enquanto estiver acessando o site, etc. A empresa não garante e você não deve esperar em caso de malware ataque ou negligência de sua parte para que suas informações pessoais permaneçam privadas."
+                ]
+              },
+              {
+                "head": "SUA PERMISSÃO:",
+                "text": [
+                  "Ao concordar com esta política de privacidade e nossos Termos, você concorda expressamente com nosso uso e divulgação de suas informações pessoais da maneira prescrita nesta Política de Privacidade."
+                ]
+              },
+              {
+                "head": "DIREITOS DE ACORDO COM AS LEIS APLICÁVEIS:",
+                "text": [
+                  "Seus dados pessoais são processados com base no consentimento que você forneceu ao aceitar esta Política de Privacidade.",
+                  "O seu direito de acesso, retificação, apagamento, limitação do tratamento, portabilidade dos dados e oposição ao tratamento dos seus dados pessoais é por nós reconhecido. No entanto, esses direitos não são de natureza absoluta e estão sujeitos a contrato, legislação aplicável, exigência de manutenção de registros sob os estatutos aplicáveis, disputas em andamento ou possíveis disputas que a Sellebration Private Limited possa prever. Para exercer esses direitos com relação aos seus dados pessoais, você pode entrar em contato com hello@sellebration.ltd.",
+                  "No caso de qualquer conduta imprópria/fraude/crime cibernético, etc. de sua parte, a Empresa terá a liberdade de usar suas PII como prova no Tribunal de Justiça e também terá o direito de realizar investigações/inquéritos conforme julgar adequado com a ajuda de agências ou autoridades privadas que julgar conveniente. Ao consentir com este Aviso, você concorda em compartilhar suas PII para os fins mencionados e entende que o exercício de seus direitos nessa medida será restrito."
+                ]
+              },
+              {
+                "head": "PERGUNTAS E QUEIXAS/ DIREITO DE APRESENTAR UMA QUEIXA:",
+                "text": [
+                  "No caso, você é da opinião de que seus dados pessoais não são processados de acordo com os propósitos divulgados nesta Política de Privacidade ou se você tiver alguma dúvida relacionada à sua privacidade de informações ou em relação aos seus direitos sob a lei aplicável, por favor sinta-se à vontade para nos contatar em hello@sellebration.ltd."
+                ]
+              },
+              {
+                "head": "NOTIFICAÇÃO DE MUDANÇAS:",
+                "text": [
+                  "A Sellebration Private Limited reserva-se expressamente, a seu exclusivo critério, o direito de alterar esta Política de Privacidade periodicamente no futuro sem aviso prévio aos Usuários. O usuário deve revisar nossa Política de Privacidade regularmente para ter certeza de que está totalmente atualizado com nossas práticas e procedimentos nesta área."
+                ]
+              },
+              {
+                "head": "Dúvidas e atualizações",
+                "text": [
+                  "Se você tiver alguma dúvida ou sugestão sobre nossas práticas de privacidade, sinta-se à vontade para nos contatar em hello@sellebration.ltd."
+                ]
+              }
+            ],
+            "11": {
+              "head": "FINALIDADE DA COLETA E PROCESSAMENTO:",
+              "text1": [
+                "Podemos coletar suas informações como título, nome, sexo, data de nascimento, endereços de e-mail, número de celular, localização e outras informações de identificação pessoal que você envia no site (“Informações de identificação pessoal”) para fornecer a você:"
+              ],
+              "bullets": [
+                "Experiência sem rugas, estruturada e personalizada,",
+                "Para permitir que entidades Sellebration Private Limited se conectem com você em relação a programas gerenciados por elas ou produtos/serviços oferecidos por elas,",
+                "Para nos permitir refinar nossos produtos e serviços, bem como das entidades Sellebration Private Limited,",
+                "Para processar suas solicitações de comunicação (como responder às suas dúvidas ou reclamações),",
+                "Para avaliar sua candidatura para oportunidades de carreira antecipadas conosco,",
+                "Para conduzir comunicações promocionais, campanha de marketing para a qual você consentiu",
+                "Para proteger nosso interesse vital."
+              ],
+              "text2": [
+                "As PII coletadas para os fins mencionados acima não serão postadas em áreas do site visíveis ao público ou aos usuários do site."
+              ]
+            },
+            "22": {
+              "id": 1,
+              "head": "Como coletamos seus dados pessoais:",
+              "text1": [
+                "Recolhemos os seus dados das seguintes formas:"
+              ],
+              "bullets": [
+                "Informações Pessoais Identificáveis fornecidas a nós por você, e",
+                "Informações Pessoais Identificáveis coletadas automaticamente de acordo com sua visita ao site."
+              ],
+              "headSmall1": "A. Dados fornecidos por você",
+              "textSmall1": "A Sellebration Private Limited pode coletar suas informações pessoais identificáveis de diferentes maneiras a partir do uso deste site, por exemplo:",
+              "bulletsSmall1": [
+                "Quando você entrar em contato conosco através do site (através de qualquer formulário via endereço de e-mail, hiperlink ou endereço de mídia social postado nele),",
+                "Quando você se cadastra conosco para receber produtos e/ou serviços de qualquer uma das Empresas de Vendas,",
+                "Quando você participa de pesquisas realizadas por nós ou para nós,",
+                "Quando você optar por receber qualquer comunicação (incluindo quaisquer ofertas promocionais, qualquer boletim informativo) de nós, e",
+                "Os detalhes podem ser fornecidos voluntariamente por você"
+              ],
+              "headSmall2": "B. Dados coletados automaticamente",
+              "textSmall2": "Algumas informações sobre sua visita ao site são coletadas automaticamente por nós. Esta informação ajuda-nos a atualizar o conteúdo e navegação do site e inclui o seu endereço IP e a forma como utiliza e interage com o seu conteúdo, nomeadamente:",
+              "bulletsSmall2": [
+                "Nossos servidores da Web ou afiliados que fornecem serviços de análise e aprimoramento de execução coletam endereço IP, atributos do sistema operacional, atributos de navegação, atributos do dispositivo e configurações de idioma. A informação é agregada para estimar o número de visitas, tempo médio gasto no site, páginas visualizadas e informações semelhantes. A Sellebration Private Limited usa essas informações para medir o uso do site, melhorar o conteúdo e garantir segurança e proteção, além de melhorar o desempenho do site.",
+                "Podemos coletar suas informações pessoais identificáveis automaticamente por meio de cookies, de acordo com as configurações de cookies do seu navegador. Para obter mais informações sobre Cookies, consulte a seção abaixo intitulada “Cookies”."
+              ]
+            },
+            "cookie": {
+              "head": "Utilização de Cookies:",
+              "headSmall1": "TIPO DE BISCOITO",
+              "headSmall2": "PROPÓSITO",
+              "inner1Small1": "_utma,_utmb,_utmc, _utmz, display_features_cookie",
+              "inner1Small2": "_clck, _clsk, CLID, ANONCHK, MR, MUID, SM",
+              "inner2Small1": [
+                "O Google Analytics é usado nos sites para rastrear o tráfego de visitantes e o tráfego de desempenho do site, coletando informações anônimas sobre o tempo médio gasto no site, as páginas visualizadas e outras estatísticas de uso relevantes.",
+                "Para optar por não ser rastreado pelo Google Analytics, visite:"
+              ],
+              "inner2Small2": [
+                "O Microsoft Clarity é usado no site para rastrear o tráfego de visitantes e o tráfego de desempenho do site, coletando informações anônimas sobre o tempo médio gasto no site, as páginas visualizadas e outras estatísticas de uso relevantes.",
+                "Para optar por não ser rastreado pelo Microsoft Clarity, visite:"
+              ]
+            }
+          },
+          "tandc": [
             {
               "head": "CONDIÇÕES GERAIS DE USO:",
               "text": [
@@ -971,7 +2126,168 @@
         "9": "ヴァンガード",
         "10": ""
         },
-        "privacy": [
+        "privacy":
+        {
+          "0": [
+            {
+              "head": "前書き：",
+              "text": [
+                "すべてが過度に露出されている世界では、Sellebration Private Limited はこのプライバシー ポリシーに従って、www.selebration.ltd を通じて Sellebration Private Limited に提供される個人を特定できる情報を保護します。また、当社のウェブサイト利用規約も適用され、ウェブサイトの使用に適用されるため、これを確認して同意する必要があります。",
+                "このプライバシーポリシーは、ウェブサイトへの接続を引き出す他のウェブサイトなどを通じて、お客様が第三者機関 (Sellebration Private Limited Entities を含む) と共有する可能性のある個人を特定できる情報には適用されません。そのようなサードパーティのウェブサイトにアクセスすることを選択した場合は、サードパーティのプライバシーポリシーに直接連絡する必要があることに注意してください.ポリシーは適用されません。",
+                "このプライバシー ポリシーでは、Sellebration Private Limited が Web サイトを通じて個人を特定できる情報を処理する目的について説明します。"
+              ]
+            }
+          ],
+          "1": [
+            {
+              "head": "SELLEBRATION PRIVATE LIMITED ENTITYへの個人識別情報の転送:",
+              "text": [
+                "www.sellebration.ltd ウェブサイトは、Sellebration Private Limited コングロマリットのワンストップ ビューを提供し、Sellebration Private Limited Entity が提供する製品/サービスに関連する問題を提起できるように設計されています。お客様に完璧なエクスペリエンスを提供できるようにするために、お客様の個人を特定できる情報を、ウェブサイトに記載されているものを含むがこれに限定されない、Sellebration Private Limited の事業体と共有する必要がある場合があります。これらのエンティティがお客様の個人を特定できる情報にアクセスできる範囲で、許可された情報源から取得した個人を特定できる情報を扱う場合と少なくとも同じくらい保護的に扱うよう、これらのエンティティに訴えます。 Sellebration Private Limited Entity またはそれらの合併は、別の事業体によって合併または買収される可能性があります。このような組み合わせが発生した場合、Sellebration Private Limited は、ウェブサイトへのアクセスを維持および提供し続けるために、個人を特定できる情報の一部またはすべてを共有することを期待する必要があります。"
+              ]
+            },
+            {
+              "head": "個人を特定できる情報の転送:",
+              "text": [
+                "当社がお客様から収集した個人を特定できる情報は、インドにある場合とない場合がある場所に伝達され、保存される場合があります。それは、Sellebration Private Limited で働いているか、Sellebration Private Limited に従事している、インドの領域外で活動する従業員によって処理される場合があります。"
+              ]
+            },
+            {
+              "head": "他のウェブサイトへのリンク:",
+              "text": [
+                "当社の Web サイトには、Twitter、Facebook、LinkedIn、YouTube、および将来追加される可能性のあるその他のソーシャル ネットワーキング ページに切り替えるリンクがあります。それらのポータルに対するあなたの訪問とそこでの活動は、それらのウェブサイトへの訪問に適用される独自のプライバシーポリシーによって管理されます。プライバシー慣行に関する情報を入手するには、プライバシー ポリシーをお読みください。"
+              ]
+            },
+            {
+              "head": "相棒：",
+              "text": [
+                "強化された安全なユーザー エクスペリエンスを提供できるようにするために、定期的にさまざまなサードパーティ ベンダーと契約を結ぶ場合があります。このような関与には、個人を特定できる情報の共有が含まれる場合があります。当社は、他の承認された情報源から取得した個人を特定できる情報を扱うのと少なくとも同じくらい保護的に扱うように依頼します。",
+                "当社は、お客様の個人データを第三者に販売または販売しません。"
+              ]
+            },
+            {
+              "head": "データ保持ポリシー:",
+              "text": [
+                "当社は、合理的な期間、および/または適用法に従って司法的に維持する必要がある場合、または許容される目的から生じる場合に限り、お客様のデータを保持します。当社は、当社が頻繁に契約しているサードパーティベンダーによって管理されているものを含め、不要になった個人を特定できる情報をノックダウンまたは永久に匿名化するための合理的な措置を講じるものとします。"
+              ]
+            },
+            {
+              "head": "個人を特定できる情報の変更:",
+              "text": [
+                "Sellebration Private Limited では、個人を特定できる情報をいつでも修正することができます。hello@selebration.ltd に申し立てを行う必要があります。ただし、紛争の解決、問題のトラブルシューティング、および使用条件の実施など、いくつかの条件で使用するために、削除を要求された個人を特定できる情報をファイルおよびデータベースに保持します。さらに、保存された「バックアップ」システムに限らず、技術的および法的な理由により、そのような古い個人を特定できる情報が当社のデータベースから完全に削除されることはありません。したがって、あなたの申し立てに応じて、すべての個人を特定できる情報が当社のシステムから完全に削除されるわけではないことを明確にする必要があります。"
+              ]
+            },
+            {
+              "head": "規制上の義務:",
+              "text": [
+                "既存の規制環境のため、このプライバシー ポリシーに記載されていない方法ですべての個人情報が決して開示されないことを保証することはできません。例として (上記を制限することなく)、政府、法執行機関などに個人を特定できる情報を開示する必要がある場合があります。"
+              ]
+            },
+            {
+              "head": "データセキュリティ：",
+              "text": [
+                "また、お客様のプライバシーとセキュリティを保護するために、アクセスを許可する前に、お客様の身元を確認するための合理的な措置を講じます。当社は、お客様の個人を特定できる情報を保護することをお約束し、適切な物理的、技術的、および管理上の安全対策を講じて、お客様の個人データを不正アクセス、改ざん、送信、および削除から保護します。データを保護するために、関連するポイントで暗号化が使用されています。データ処理のセキュリティを確保するために、定期的にシステムをテストしています。"
+              ]
+            },
+            {
+              "head": "免責事項:",
+              "text": [
+                "上記のようにお客様のプライバシーを保護するために、当社は最善の努力を払い、最高の業界標準情報慣行を採用していますが、インターネット上に 100% が存在しないことをお客様は認めます。個人を特定できる情報を保護する責任はお客様にあります。ウェブサイトなどにアクセスしている間は、ログイン資格情報を共有したり、個人のデバイスを放置したりしないでください。会社は保証しておらず、マルウェアが発生した場合は期待しないでください。あなたの個人情報が非公開のままであるというあなたの側の攻撃または過失。"
+              ]
+            },
+            {
+              "head": "あなたの同意:",
+              "text": [
+                "このプライバシー ポリシーと当社の利用規約に同意することにより、お客様は、このプライバシー ポリシーに規定された方法で、当社がお客様の個人情報を使用および開示することに明示的に同意したことになります。"
+              ]
+            },
+            {
+              "head": "適用法に基づく権利:",
+              "text": [
+                "あなたの個人データは、あなたがこのプライバシーポリシーに同意することによって提供した同意に基づいて処理されます。",
+                "アクセス、修正、消去、処理の制限、データの移植性、および個人データの処理に対する異議申し立ての権利は、当社によって認められています。ただし、これらの権利は本質的に絶対的なものではなく、契約、適用法、適用法に基づく記録保持要件、進行中の紛争、または Sellebration Private Limited が予見する可能性のある潜在的な紛争の対象となります。個人データに関してこれらの権利を行使するには、hello@selebration.ltd に連絡してください。",
+                "あなたの側で不正行為/詐欺/サイバー犯罪などが発生した場合、会社は自由にあなたのPIIを法廷での証拠として使用することができ、また、会社が適切と考える調査/調査を実施する権利を有するものとします。適切と思われる民間機関または当局の支援。この通知に同意することにより、前述の目的で PII を共有することに同意し、その範囲での権利の行使が制限されることを理解したものとみなされます。"
+              ]
+            },
+            {
+              "head": "質問と苦情/苦情を申し立てる権利:",
+              "text": [
+                "お客様の個人データが本プライバシー ポリシーに開示されている目的に従って処理されていないと考えられる場合、またはお客様の情報のプライバシーまたは適用法に基づくお客様の権利に関してご質問がある場合は、 hello@selebration.ltd までお気軽にお問い合わせください。"
+              ]
+            },
+            {
+              "head": "変更の通知:",
+              "text": [
+                "Sellebration Private Limited は、独自の裁量により、ユーザーへの事前の通知なしに、このプライバシー ポリシーを今後定期的に変更する権利を明示的に留保します。ユーザーは、当社のプライバシー ポリシーを定期的に見直して、この分野における当社の慣行と手順を完全に更新する必要があります。"
+              ]
+            },
+            {
+              "head": "質問と更新",
+              "text": [
+                "当社のプライバシー慣行についてご質問やご提案がございましたら、hello@selebration.ltd までお気軽にお問い合わせください。"
+              ]
+            }
+          ],
+          "11": {
+            "head": "収集および処理の目的:",
+            "text1": [
+              "役職、名前、性別、生年月日、電子メール アドレス、携帯電話番号、場所、およびウェブサイトで送信されたその他の個人を特定できる情報 (「個人を特定できる情報」) などの情報を収集して、次の情報を提供する場合があります。"
+            ],
+            "bullets": [
+              "しわのない、構造化された、カスタマイズされた体験、",
+              "Sellebration Private Limited エンティティが、それらによって管理されるプログラムまたはそれらによって提供される製品/サービスに関連してあなたと接続できるようにするため、",
+              "Sellebration Private Limitedの事業体だけでなく、当社の製品とサービスを改善できるようにするため、",
+              "お客様からの連絡要求を処理するため (問い合わせや苦情への対応など)、",
+              "予想される当社でのキャリアの機会に対するあなたの候補者を評価するため、",
+              "お客様が同意したプロモーション コミュニケーション、マーケティング キャンペーンを推進するため",
+              "私たちの重要な利益を守るため。"
+            ],
+            "text2": [
+              "前述の目的で収集された PII は、一般ユーザーまたはサイトのユーザーが閲覧できる Web サイトの領域には掲載されません。"
+            ]
+          },
+          "22": {
+            "id": 1,
+            "head": "個人データの収集方法:",
+            "text1": [
+              "当社は、次の方法でお客様のデータを収集します。"
+            ],
+            "bullets": [
+              "お客様から当社に提供された個人を特定できる情報、および",
+              "ウェブサイトへの訪問に応じて自動的に収集される個人を特定できる情報。"
+            ],
+            "headSmall1": "A. お客様から提供されたデータ",
+            "textSmall1": "Sellebration Private Limited は、この Web サイトの使用とは異なる方法で、個人を特定できる情報を収集する場合があります。",
+            "bulletsSmall1": [
+              "あなたがウェブサイトを通じて私たちに連絡するとき（電子メールアドレス、ハイパーリンク、またはそこに投稿されたソーシャルメディアアドレスを介して任意のフォームを介して）、",
+              "Sellebration Companyの製品および/またはサービスを受けるために当社に登録すると、",
+              "当社が、または当社のために実施する調査に参加する場合、",
+              "お客様が当社からの連絡 (プロモーションのオファー、ニュースレターを含む) を受け取ることを選択した場合、および",
+              "詳細は、お客様が自発的に提供することができます"
+            ],
+            "headSmall2": "B. 自動的に収集されるデータ",
+            "textSmall2": "ウェブサイトへのアクセスに関する一部の情報は、当社によって自動的に収集されます。この情報は、ウェブサイトのコンテンツとナビゲーションをアップグレードするのに役立ちます。これには、IP アドレスと、コンテンツの使用方法と操作方法が含まれます。",
+            "bulletsSmall2": [
+              "分析および実行強化サービスを提供する当社の Web サーバーまたは関連会社は、IP アドレス、オペレーティング システム属性、ブラウジング属性、デバイス属性、および言語設定を収集します。情報は、訪問数、Web サイトでの平均滞在時間、閲覧ページ、および同様の情報を推定するために集計されます。 Sellebration Private Limited は、この情報を使用して、サイトの使用状況を測定し、コンテンツを改善し、安全性とセキュリティを保証し、ウェブサイトのパフォーマンスを向上させます。",
+              "ブラウザの Cookie 設定に従って、Cookie を介して自動的に個人を特定できる情報を収集する場合があります。クッキーの詳細については、以下の「クッキー」というタイトルのセクションを参照してください。"
+            ]
+          },
+          "cookie": {
+            "head": "クッキーの使用:",
+            "headSmall1": "クッキーの種類",
+            "headSmall2": "目的",
+            "inner1Small1": "_utma、_utmb、_utmc、_utmz、display_features_cookie",
+            "inner1Small2": "_clck、_clsk、CLID、ANONCHK、MR、MUID、SM",
+            "inner2Small1": [
+              "Google アナリティクスは、ウェブサイトでの平均滞在時間、閲覧したページ、およびその他の関連する使用統計に関する匿名情報を収集することにより、訪問者のトラフィックとサイトのパフォーマンス トラフィックを追跡するためにウェブサイトで使用されます。",
+              "Google アナリティクスによる追跡をオプトアウトするには:"
+            ],
+            "inner2Small2": [
+              "Microsoft Clarity は Web サイトで使用され、Web サイトでの平均滞在時間、表示されたページ、およびその他の関連する使用統計に関する匿名情報を収集することにより、訪問者のトラフィックとサイトのパフォーマンス トラフィックを追跡します。",
+              "Microsoft Clarity による追跡をオプトアウトするには、次のサイトにアクセスしてください。"
+            ]
+          }
+        },
+        "tandc": [
             {
               "head": "一般利用規約:",
               "text": [
@@ -1107,7 +2423,168 @@
             "9": "मोहरा",
             "10": ""
         },
-        "privacy": [
+        "privacy":
+        {
+          "0": [
+            {
+              "head": "परिचय:",
+              "text": [
+                "दुनिया में जहां सब कुछ हद से ज्यादा उजागर है, सेलब्रेशन प्राइवेट लिमिटेड आपकी व्यक्तिगत पहचान योग्य जानकारी की सुरक्षा के लिए इस गोपनीयता नीति का पालन कर रही है, जिसे आप सेलब्रेशन प्राइवेट लिमिटेड को www.sellebration.ltd के माध्यम से प्रदान करते हैं। आपको हमारी वेबसाइट उपयोग की शर्तों की समीक्षा करनी चाहिए और उन्हें स्वीकार करना चाहिए क्योंकि यह भी लागू होती है और वेबसाइट के उपयोग को नियंत्रित करती है।",
+                "यह गोपनीयता नीति किसी भी व्यक्तिगत पहचान योग्य जानकारी पर लागू नहीं होती है जिसे आप तृतीय-पक्ष संस्थाओं (सेलब्रेशन प्राइवेट लिमिटेड संस्थाओं सहित) के साथ साझा कर सकते हैं, जैसे कि अन्य वेबसाइटों के माध्यम से जो वेबसाइट से संबंध बनाती हैं। कृपया सचेत रहें यदि आप ऐसी किसी भी तृतीय-पक्ष वेबसाइट पर जाने का विकल्प चुनते हैं, तो आपको उनकी गोपनीयता नीति के लिए सीधे तृतीय पक्ष से संपर्क करना चाहिए क्योंकि तृतीय पक्ष गोपनीयता नीति आपकी गतिविधियों और उनके साथ साझा की गई किसी भी व्यक्तिगत पहचान योग्य जानकारी को नियंत्रित करेगी, यह गोपनीयता वहां नीति लागू नहीं होगी।",
+                "यह गोपनीयता नीति उन उद्देश्यों का वर्णन करती है जिनके लिए सेलेब्रेशन प्राइवेट लिमिटेड अपनी वेबसाइट के माध्यम से आपकी व्यक्तिगत पहचान योग्य जानकारी को संसाधित करती है।"
+              ]
+            }
+          ],
+          "1": [
+            {
+              "head": "सेलेब्रेशन प्राइवेट लिमिटेड संस्थाओं को व्यक्तिगत पहचान योग्य जानकारी का हस्तांतरण:",
+              "text": [
+                "Www.sellebration.ltd वेबसाइट आपको सेलेब्रेशन प्राइवेट लिमिटेड कांग्लोमरेट का एक स्टॉप व्यू देने के लिए डिज़ाइन की गई है और आपको सेलेब्रेशन प्राइवेट लिमिटेड संस्थाओं द्वारा पेश किए जा रहे किसी भी उत्पाद / सेवाओं से संबंधित मुद्दों को उठाने में सक्षम बनाती है। हमें आपको दोषरहित अनुभव प्रदान करने में सक्षम बनाने के लिए, हमें आपकी व्यक्तिगत पहचान योग्य जानकारी को सेलेब्रेशन प्राइवेट लिमिटेड संस्थाओं के साथ साझा करना पड़ सकता है, जिसमें वेबसाइट पर सूचीबद्ध लेकिन सीमित नहीं हैं। इस दायरे में कि इन संस्थाओं के पास आपकी व्यक्तिगत पहचान योग्य जानकारी तक पहुंच है, हम उनसे कम से कम सुरक्षात्मक रूप से व्यवहार करने की अपील करेंगे क्योंकि वे अपने अधिकृत स्रोतों से प्राप्त व्यक्तिगत पहचान योग्य जानकारी का इलाज करते हैं। यह संभव है कि सेलेब्रेशन प्राइवेट लिमिटेड संस्थाओं में से कोई भी या उनका समामेलन विलय कर सकता है या किसी अन्य व्यवसाय इकाई द्वारा अधिग्रहित किया जा सकता है। यदि ऐसा संयोजन होता है, तो आपको उम्मीद करनी चाहिए कि सेलब्रेशन प्राइवेट लिमिटेड वेबसाइट को बनाए रखने और उस तक पहुंच प्रदान करने के लिए आपकी कुछ या सभी व्यक्तिगत पहचान योग्य जानकारी साझा करेगा।"
+              ]
+            },
+            {
+              "head": "व्यक्तिगत पहचान योग्य जानकारी का स्थानांतरण:",
+              "text": [
+                "व्यक्तिगत पहचान योग्य जानकारी जो हम आपसे एकत्र करते हैं उन्हें उन स्थानों पर पहुँचाया और आरक्षित किया जा सकता है जो भारत में हो भी सकते हैं और नहीं भी। इसे भारत के क्षेत्र के बाहर काम करने वाले कर्मचारियों द्वारा संसाधित किया जा सकता है, जो सेलेब्रेशन प्राइवेट लिमिटेड के लिए काम करते हैं या उसके द्वारा नियुक्त हैं।"
+              ]
+            },
+            {
+              "head": "अन्य वेब साइटों के लिंक:",
+              "text": [
+                "हमारी वेबसाइट में ऐसे लिंक हैं जो आपको हमारे सोशल नेटवर्किंग पेज जैसे कि ट्विटर, फेसबुक, लिंक्डइन, यूट्यूब और अन्य जो भविष्य में जोड़े जा सकते हैं, पर ले जाते हैं। उन पोर्टलों की तुलना में आपकी यात्राओं और उनकी गतिविधियों पर उनकी वेबसाइटों पर जाने के लिए लागू उनकी अपनी गोपनीयता नीति द्वारा निगरानी की जाएगी। उनकी गोपनीयता प्रथाओं के बारे में जानकारी प्राप्त करने के लिए कृपया उनकी गोपनीयता नीति पढ़ें।"
+              ]
+            },
+            {
+              "head": "साथी:",
+              "text": [
+                "हमें आपको गहन और सुरक्षित उपयोगकर्ता अनुभव प्रदान करने की अनुमति देने के लिए, हम समय-समय पर विभिन्न तृतीय-पक्ष विक्रेताओं के साथ अनुबंध कर सकते हैं। इस तरह की व्यस्तताओं में आपकी व्यक्तिगत पहचान योग्य जानकारी को साझा करना शामिल हो सकता है, हम उनसे कम से कम सुरक्षात्मक रूप से व्यवहार करने के लिए कहेंगे क्योंकि वे व्यक्तिगत रूप से पहचाने जाने योग्य जानकारी को अपने अन्य अधिकृत स्रोतों से प्राप्त करते हैं।",
+                "हम आपके व्यक्तिगत डेटा की मार्केटिंग या बिक्री किसी तीसरे पक्ष को नहीं करते हैं।"
+              ]
+            },
+            {
+              "head": "डेटा प्रतिधारण नीति:",
+              "text": [
+                "हम उचित समय के लिए आपके डेटा को अपने पास रखते हैं और/या लागू कानून के अनुसार/या स्वीकार्य उद्देश्यों से उत्पन्न होने के लिए न्यायिक रूप से आवश्यक हो सकते हैं। हम व्यक्तिगत पहचान योग्य जानकारी को नकारने या स्थायी रूप से डी-आइडेंटिफाई करने के लिए उचित कदम उठाएंगे, जिसकी अब आवश्यकता नहीं है, जिसमें कंपनी द्वारा अक्सर लगे हुए तीसरे पक्ष के विक्रेताओं द्वारा प्रबंधित की जाने वाली जानकारी भी शामिल है।"
+              ]
+            },
+            {
+              "head": "आपकी व्यक्तिगत पहचान योग्य जानकारी को बदलना:",
+              "text": [
+                "सेलेब्रेशन प्राइवेट लिमिटेड आपको किसी भी समय अपनी व्यक्तिगत पहचान योग्य जानकारी में संशोधन करने की क्षमता देता है, hello@sellebration.ltd पर अपील की जानी चाहिए। हालाँकि, हम अपनी फाइलों और डेटाबेस में व्यक्तिगत पहचान योग्य जानकारी रखते हैं जिसे आपने कुछ स्थितियों में उपयोग करने के लिए हटाने का अनुरोध किया है, जैसे विवादों को हल करने, समस्याओं का निवारण करने और उपयोग के नियमों और शर्तों को लागू करने के लिए। इसके अलावा, ऐसी पुरानी व्यक्तिगत पहचान योग्य जानकारी तकनीकी और कानूनी कारणों से हमारे डेटाबेस से पूरी तरह से कभी नहीं हटाई जाती है, जो कि संग्रहीत \"बैक-अप\" सिस्टम तक सीमित नहीं है। इसलिए, आपको स्पष्ट होना चाहिए कि आपकी अपील के जवाब में आपकी सभी व्यक्तिगत पहचान योग्य जानकारी को हमारे सिस्टम से पूरी तरह से नहीं हटाया जाएगा।"
+              ]
+            },
+            {
+              "head": "विनियामक दायित्व:",
+              "text": [
+                "मौजूदा विनियामक वातावरण के कारण, हम इस बात की गारंटी नहीं दे सकते कि आपकी सभी व्यक्तिगत जानकारी को कभी भी इस गोपनीयता नीति में अन्यथा वर्णित तरीके से प्रकट नहीं किया जाएगा। उदाहरण के तौर पर (पूर्वगामी को सीमित किए बिना), हमें सरकार, कानून प्रवर्तन एजेंसियों आदि को आपकी व्यक्तिगत पहचान योग्य जानकारी का खुलासा करने की आवश्यकता हो सकती है।"
+              ]
+            },
+            {
+              "head": "डाटा सुरक्षा:",
+              "text": [
+                "आपकी गोपनीयता और सुरक्षा को सुरक्षित रखने के लिए, हम एक्सेस प्रदान करने से पहले आपकी पहचान सत्यापित करने के लिए उचित कदम भी उठाएंगे। हम अपनी हिरासत में आपकी व्यक्तिगत पहचान योग्य जानकारी की सुरक्षा के लिए प्रतिबद्ध हैं और आपके व्यक्तिगत डेटा को अनधिकृत पहुंच, परिवर्तन, प्रसारण और विलोपन से बचाने के लिए उचित भौतिक, तकनीकी और प्रबंधकीय सुरक्षा उपाय सुनिश्चित करने के लिए कदम उठाए हैं। आपके डेटा की सुरक्षा के लिए प्रासंगिक बिंदुओं पर एन्क्रिप्शन का उपयोग किया जा रहा है। हम डेटा प्रोसेसिंग की सुरक्षा सुनिश्चित करने के लिए समय-समय पर अपने सिस्टम का परीक्षण करते हैं।"
+              ]
+            },
+            {
+              "head": "अस्वीकरण:",
+              "text": [
+                "जैसा कि ऊपर उल्लेख किया गया है, आपकी गोपनीयता की सुरक्षा के लिए, हम सर्वोत्तम प्रयास करते हैं और सर्वोत्तम उद्योग मानक सूचना अभ्यास को अपनाते हैं, हालाँकि आप स्वीकार करते हैं कि 100% इंटरनेट पर मौजूद नहीं है। आप अपनी व्यक्तिगत पहचान योग्य जानकारी की सुरक्षा के लिए जवाबदेह हैं और जब आप वेबसाइट आदि का उपयोग कर रहे हों तो आपको अपने लॉगिन क्रेडेंशियल साझा नहीं करने चाहिए और/या अपने व्यक्तिगत उपकरणों को अकेला नहीं छोड़ना चाहिए। कंपनी गारंटी नहीं देती है, और आपको मैलवेयर की स्थिति में अपेक्षा नहीं करनी चाहिए आपकी ओर से हमला या लापरवाही कि आपकी व्यक्तिगत जानकारी निजी रहेगी।"
+              ]
+            },
+            {
+              "head": "आपकी सहमति:",
+              "text": [
+                "इस गोपनीयता नीति और हमारी शर्तों से सहमत होकर, आप इस गोपनीयता नीति में निर्धारित तरीके से अपनी व्यक्तिगत जानकारी के उपयोग और प्रकटीकरण के लिए स्पष्ट रूप से सहमति देते हैं।"
+              ]
+            },
+            {
+              "head": "लागू कानूनों के तहत अधिकार:",
+              "text": [
+                "इस गोपनीयता नीति को स्वीकार करके आपके द्वारा प्रदान की गई सहमति के आधार पर आपका व्यक्तिगत डेटा संसाधित किया जाता है।",
+                "आपके व्यक्तिगत डेटा के उपयोग, सुधार, मिटाने, प्रसंस्करण पर प्रतिबंध, डेटा पोर्टेबिलिटी और आपके व्यक्तिगत डेटा के प्रसंस्करण पर आपत्ति करने का आपका अधिकार हमारे द्वारा स्वीकार किया जा रहा है। हालांकि, ये अधिकार प्रकृति में पूर्ण नहीं हैं और अनुबंध, लागू कानून, लागू कानूनों के तहत रिकॉर्ड रखने की आवश्यकता, चल रहे विवादों, या संभावित विवादों के अधीन हैं, जिन्हें सेलेब्रेशन प्राइवेट लिमिटेड देख सकता है। अपने व्यक्तिगत डेटा के संबंध में इन अधिकारों का प्रयोग करने के लिए आप hello@sellebration.ltd पर संपर्क कर सकते हैं।",
+                "आपकी ओर से किसी भी कदाचार/धोखाधड़ी/साइबर अपराध आदि की स्थिति में, कंपनी कानून की अदालत में सबूत के रूप में आपकी पीआईआई का उपयोग करने के लिए स्वतंत्र होगी और जांच/पूछताछ करने की भी हकदार होगी जैसा कि वह उपयुक्त समझे निजी एजेंसियों या प्राधिकरणों की मदद, जैसा वह उचित समझे। इस नोटिस पर सहमति देकर, आप उपरोक्त उद्देश्यों के लिए अपनी PII को साझा करने के लिए सहमत हैं और समझते हैं कि उस सीमा तक आपके अधिकारों का प्रयोग प्रतिबंधित होगा।"
+              ]
+            },
+            {
+              "head": "प्रश्न और शिकायतें/शिकायत दर्ज करने का अधिकार:",
+              "text": [
+                "ऐसी स्थिति में, आपका विचार है कि आपका व्यक्तिगत डेटा इस गोपनीयता नीति में प्रकट किए गए उद्देश्यों के अनुसार संसाधित नहीं किया गया है या यदि आपकी जानकारी की गोपनीयता से संबंधित कोई प्रश्न है या लागू कानून के तहत आपके अधिकारों के संबंध में कोई प्रश्न है, तो कृपया hello@sellebration.ltd पर हमसे बेझिझक संपर्क करें।"
+              ]
+            },
+            {
+              "head": "परिवर्तनों की अधिसूचना:",
+              "text": [
+                "सेलब्रेशन प्राइवेट लिमिटेड स्पष्ट रूप से अपने विवेकाधिकार पर उपयोगकर्ताओं को पूर्व सूचना के बिना भविष्य में समय-समय पर इस गोपनीयता नीति को बदलने का अधिकार सुरक्षित रखता है। उपयोगकर्ता यह सुनिश्चित करने के लिए नियमित रूप से हमारी गोपनीयता नीति की समीक्षा करेंगे कि आप इस क्षेत्र में हमारी प्रथाओं और प्रक्रियाओं से पूरी तरह अपडेट हैं।"
+              ]
+            },
+            {
+              "head": "प्रश्न और अद्यतन",
+              "text": [
+                "यदि हमारे गोपनीयता अभ्यासों के बारे में आपके कोई प्रश्न या सुझाव हैं, तो कृपया बेझिझक हमसे hello@sellebration.ltd पर संपर्क करें।"
+              ]
+            }
+          ],
+          "11": {
+            "head": "इकट्ठा करने और प्रसंस्करण का उद्देश्य:",
+            "text1": [
+              "हम आपकी जानकारी जैसे शीर्षक, नाम, लिंग, जन्म तिथि, ईमेल पते, मोबाइल नंबर, स्थान और अन्य व्यक्तिगत पहचान योग्य जानकारी एकत्र कर सकते हैं, जिसे आप वेबसाइट पर सबमिट करते हैं (\"व्यक्तिगत पहचान योग्य जानकारी\") आपको प्रदान करने के लिए:"
+            ],
+            "bullets": [
+              "बिना झुर्रियों वाला, संरचित और अनुकूलित अनुभव,",
+              "सेलेब्रेशन प्राइवेट लिमिटेड संस्थाओं को उनके द्वारा प्रबंधित कार्यक्रमों या उनके द्वारा पेश किए जाने वाले उत्पादों/सेवाओं के संबंध में आपसे जुड़ने में सक्षम बनाने के लिए,",
+              "हमें अपने उत्पादों और सेवाओं के साथ-साथ सेलेब्रेशन प्राइवेट लिमिटेड संस्थाओं को परिष्कृत करने में सक्षम बनाने के लिए,",
+              "आपके संचार अनुरोधों को संसाधित करने के लिए (जैसे आपके प्रश्नों या शिकायतों का जवाब देना),",
+              "हमारे साथ प्रत्याशित कैरियर के अवसरों के लिए अपनी उम्मीदवारी का आकलन करने के लिए,",
+              "प्रचार संचार, मार्केटिंग अभियान चलाने के लिए जिसके लिए आपने सहमति दी है",
+              "हमारे महत्वपूर्ण हित की रक्षा के लिए।"
+            ],
+            "text2": [
+              "उपर्युक्त उद्देश्यों के लिए एकत्र की गई PII को वेबसाइट के उन क्षेत्रों में पोस्ट नहीं किया जाएगा जो जनता या साइट के उपयोगकर्ताओं द्वारा देखे जा सकते हैं।"
+            ]
+          },
+          "22": {
+            "id": 1,
+            "head": "हम आपका व्यक्तिगत डेटा कैसे एकत्र करते हैं:",
+            "text1": [
+              "हम आपका डेटा निम्नलिखित तरीकों से एकत्र करते हैं:"
+            ],
+            "bullets": [
+              "आपके द्वारा हमें प्रदान की गई व्यक्तिगत पहचान योग्य जानकारी, और",
+              "व्यक्तिगत पहचान योग्य जानकारी स्वचालित रूप से वेबसाइट पर आपकी विज़िट के अनुरूप एकत्र की जाती है।"
+            ],
+            "headSmall1": "ए। आपके द्वारा प्रदान किया गया डेटा",
+            "textSmall1": "सेलब्रेशन प्राइवेट लिमिटेड उदाहरणों के लिए, इस वेबसाइट के आपके उपयोग से आपकी व्यक्तिगत पहचान योग्य जानकारी को विभिन्न तरीकों से एकत्र कर सकती है:",
+            "bulletsSmall1": [
+              "जब आप वेबसाइट के माध्यम से हम तक पहुंचते हैं (ई-मेल पते, हाइपरलिंक या उसमें पोस्ट किए गए सोशल मीडिया पते के माध्यम से किसी भी रूप में),",
+              "जब आप किसी सेलब्रेशन कंपनी के उत्पादों और/या सेवाओं को प्राप्त करने के लिए हमारे साथ नामांकन करते हैं,",
+              "जब आप हमारे द्वारा या हमारे लिए किए गए सर्वेक्षणों में भाग लेते हैं,",
+              "जब आप हमसे कोई संचार (किसी भी प्रचार प्रस्ताव, किसी भी समाचार पत्र सहित) प्राप्त करने का चुनाव करते हैं, और",
+              "विवरण स्वेच्छा से आपके द्वारा प्रदान किया जा सकता है"
+            ],
+            "headSmall2": "बी डेटा जो स्वचालित रूप से एकत्र किया जाता है",
+            "textSmall2": "वेबसाइट पर आपकी विज़िट के बारे में कुछ जानकारी स्वचालित रूप से हमारे द्वारा एकत्रित की जाती है। यह जानकारी हमें वेबसाइट की सामग्री और नेविगेशन को अपग्रेड करने में मदद करती है और इसमें आपका आईपी पता और जिस तरह से आप इसकी सामग्री का उपयोग और बातचीत करते हैं, शामिल हैं:",
+            "bulletsSmall2": [
+              "हमारे वेब सर्वर या सहयोगी जो एनालिटिक्स और निष्पादन वृद्धि सेवाएं प्रदान करते हैं, आईपी पता, ऑपरेटिंग सिस्टम विशेषताएँ, ब्राउज़िंग विशेषताएँ, उपकरण विशेषताएँ और भाषा सेटिंग्स एकत्र करते हैं। विज़िट की संख्या, वेबसाइट पर बिताए गए औसत समय, देखे गए पेज और इसी तरह की जानकारी का अनुमान लगाने के लिए जानकारी एकत्र की जाती है। सेलब्रेशन प्राइवेट लिमिटेड इस जानकारी का उपयोग साइट के उपयोग को मापने, सामग्री में सुधार करने और सुरक्षा और सुरक्षा की गारंटी देने के साथ-साथ वेबसाइट के प्रदर्शन को बढ़ाने के लिए करता है।",
+              "हम आपके ब्राउज़र पर कुकी सेटिंग्स के अनुरूप, स्वचालित रूप से कुकीज़ के माध्यम से आपकी व्यक्तिगत पहचान योग्य जानकारी एकत्र कर सकते हैं। कुकीज़ के बारे में अधिक जानकारी के लिए, कृपया नीचे \"कुकीज़\" शीर्षक वाला अनुभाग देखें।"
+            ]
+          },
+          "cookie": {
+            "head": "कुकीज़ का प्रयोग:",
+            "headSmall1": "कुकी का प्रकार",
+            "headSmall2": "उद्देश्य",
+            "inner1Small1": "_utma,_utmb,_utmc, _utmz, display_features_cookie",
+            "inner1Small2": "_clck, _clsk, CLID, ANONCHK, MR, MUID, SM",
+            "inner2Small1": [
+              "वेबसाइट पर बिताए गए औसत समय, देखे गए पृष्ठों और अन्य प्रासंगिक उपयोग आंकड़ों के बारे में गुमनाम जानकारी एकत्र करके विज़िटर ट्रैफ़िक और साइट प्रदर्शन ट्रैफ़िक को ट्रैक करने के लिए वेबसाइटों पर Google Analytics का उपयोग किया जाता है।",
+              "Google Analytics द्वारा ट्रैक किए जाने से ऑप्ट आउट करने के लिए:"
+            ],
+            "inner2Small2": [
+              "Microsoft Clarity का उपयोग वेबसाइट पर बिताए गए औसत समय, देखे गए पृष्ठों और अन्य प्रासंगिक उपयोग आंकड़ों के बारे में गुमनाम जानकारी एकत्र करके विज़िटर ट्रैफ़िक और साइट प्रदर्शन ट्रैफ़िक को ट्रैक करने के लिए वेबसाइट पर किया जाता है।",
+              "Microsoft Clarity द्वारा ट्रैक किए जाने से ऑप्ट आउट करने के लिए:"
+            ]
+          }
+        },
+        "tandc": [
             {
               "head": "उपयोग की सामान्य शर्तें:",
               "text": [

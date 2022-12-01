@@ -4,8 +4,12 @@ import navbar_icon from './../../assets/image/navbar_img/navbar_button_img.svg'
 import NavPanel from './../Nav/index';
 import nav_close from './../../assets/image/nav_img/nav_cross_img.svg';
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
-
+import langAll from './../../assets/store/lang.json';
+import * as React from 'react';
+import TextField from '@mui/material/TextField';
+import Autocomplete from '@mui/material/Autocomplete';
+import Switch from '@mui/material/Switch';
+import { useNavigate,useLocation  } from 'react-router-dom';
 
 
 
@@ -80,6 +84,50 @@ const NavBar=(props)=>{
     closeNavClicked();
     navigate("/");
   }
+
+
+
+  function onChangeLang(lang,route)
+    {
+        var langEle="english"
+        if(lang==="English")
+        {
+            langEle="english";
+        }
+        else if(lang==="deutsch")
+        {
+            langEle="german";
+        }
+        else if(lang==="हिन्दी")
+        {
+            langEle="hindi";
+        }
+        else if(lang==="français")
+        {
+            langEle="french";
+        }
+        else if(lang==="русский")
+        {
+            langEle="russian";
+        }
+        else if(lang==="Português")
+        {
+            langEle="portuguese";
+        }
+        else if(lang==="中国人")
+        {
+            langEle="chinese";
+        }
+        else if(lang==="español")
+        {
+            langEle="spanish";
+        }
+        else
+        {
+            langEle="japnese";
+        }
+        props.changeLang(langEle,route,lang);
+    }
   return (
     <>
     <NavPanel navDisplay={props.navDisplay} closeNav={props.closeNav} closeNavClicked={closeNavClicked}/>
@@ -103,16 +151,16 @@ const NavBar=(props)=>{
             <input type="text" placeholder="Search..." className="navbar__search__field"/>
           </div>
           <div className="navbar__right__select">
-            <select className="navbar__language__select" value={props.lang} onChange={(e)=>{props.changeLang(e.target.value,props.name)}}>
-              <option className="navbar__language__option" value={"english"}>English</option>
-              <option className="navbar__language__option" value={"german"}>German</option>
-              <option className="navbar__language__option" value={"spanish"}>Spanish</option>
-              <option className="navbar__language__option" value={"hindi"}>Hindi</option>
-              <option className="navbar__language__option" value={"russian"}>Russian</option>
-              <option className="navbar__language__option" value={"chinese"}>Chinese</option>
-              <option className="navbar__language__option" value={"french"}>French</option>
-              <option className="navbar__language__option" value={"portuguese"}>Portuguese</option>
-              <option className="navbar__language__option" value={"japnese"}>Japanese</option>
+            <select className="navbar__language__select" value={props.viewLang} onChange={(e)=>{onChangeLang(e.target.value,props.name)}}>
+              <option className="navbar__language__option" value={"English"}>English</option>
+              <option className="navbar__language__option" value={"deutsch"}>deutsch</option>
+              <option className="navbar__language__option" value={"हिन्दी"}>हिन्दी</option>
+              <option className="navbar__language__option" value={"français"}>français</option>
+              <option className="navbar__language__option" value={"русский"}>русский</option>
+              <option className="navbar__language__option" value={"Português"}>Português</option>
+              <option className="navbar__language__option" value={"中国人"}>中国人</option>
+              <option className="navbar__language__option" value={"español"}>español</option>
+              <option className="navbar__language__option" value={"日本"}>日本</option>
             </select>
           </div>
         </div>

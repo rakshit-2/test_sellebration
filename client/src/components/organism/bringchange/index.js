@@ -61,7 +61,7 @@ return (
     <>
     <div className="bringchange__outer">
         <div className="bringchange__inner">
-            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang} name={location.pathname}/>
+            <Navbar  navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav} changeLang={props.changeLang} lang={props.lang}  name={location.pathname} viewLang={props.viewLang}/>
             <div className='bringchange__inner__inner'>
 
                 

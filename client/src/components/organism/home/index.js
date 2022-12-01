@@ -170,7 +170,7 @@ const Home=(props)=>{
         <>
         <div className="home__outer">
             <div className="home__inner">
-            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname}/>
+            <Navbar navDisplay={props.navDisplay} openNav={props.openNav}  closeNav={props.closeNav}  changeLang={props.changeLang} lang={props.lang} name={location.pathname} viewLang={props.viewLang}/>
             <div className="home__inner__section1">
                 <div className="home__inner__section1__img__outer">
                     <img src={map} className="home__inner__section1__img"/>

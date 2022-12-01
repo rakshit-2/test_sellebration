@@ -499,115 +499,192 @@ TJO.init({
 
 var ele=
 {
-  "privacy":
-        [
-            {
-                "head":"GENERAL TERMS OF USE: ",
-                "text":
-                [
-                    "Please devour these terms and conditions of use attentively before using this website. If you do not agree to all these Terms and conditions of use, restrict yourself from using this website. Sellebration may amend these Terms and Conditions from time to time. Your regular usage of website is contemplated as an implied acceptance of the changes and that you concur to stay confirm of these terms and conditions.",
-                    "The terms and conditions set forth underneath (The “TERMS”) as well as those accommodated in the privacy policy of the website exercise control over your use of the website on the world wide web and are legitimately binding on you. If you cease to agree with any of these terms, please do not access or otherwise use this website or any information curbed on the website. Your use of the website shall be deemed to be your understanding of and agreement to each of the terms and conditions mentioned underneath."
-                ]
-            },
-            {
-                "head":"WEBSITE USER RESTRICTIONS:",
-                "text":
-                [
-                    "All the particulars and information and materials on this website, inclusive of text, trademarks, logo, graphics, and images (The “Materials”), are the copyrighted works and other forms of intellectual property of Sellebration or third forces who have authorized use of the materials on the website, Sellebration vouchsafes you only the limited license to exhibit the materials on your personal computer or personal wireless device, and to facsimile and download such materials, provided that, any copyright, trademark or other notice coming into sight on such materials also kept by, showed, facsimiled, or downloaded as part of the materials and is not detected abstrused such exhibition, copy or download is used solely for your confidential information. Such materials may not be disseminated, transmitted, showed or scattered by any means or for any purpose. You acknowledge and concur that you have no right to nor will you alter or modify, edit or enhance any of the materials in any manner. This limited right terminates impulsively unescorted by any notice to you, if you violate any of the terms upon termination of this limited right of display, user concurs to instantly erase or otherwise destroy any downloaded and printed materials. Except as expressly started herein, you acknowledge that you have no hold on the legitimate right or title or interest or to the materials other than a limited against right of display."
-                ]
-            },
-            {
-                "head":"THIRD FORCE CONTENT:",
-                "text":[
-                    "Sellebration has no specified prior review process or editorial control over the third forces content. Any school of thought, guidance, affirmations, services, offers or other information or content indicated or made available by third parties, inclusive of information providers, members, or any other user of this website, are those of the respective parties and not necessarily those for Sellebration. Neither Sellebration nor any other third-party provider of information swears to the accuracy, completeness, or usefulness of any third force content, nor its merchantability or robustness for any particular purpose."
-                ]
-            },
-            {
-                "head":"LINKS TO AND FROM THIRD FORCE’S SITES:",
-                "text":[
-                    "There may be links orthodoxed between this Website and other websites on the world wide web or internet which are not under our command or benchmarked by Sellebration Private Limited. Such links do not necessarily account for an endorsement by Sellebration of those websites. Sellebration tackles no obligation to keep track of these websites, and the user concurs that Sellebration is not at the helm of content of such websites, or any technical or other problems linked with any such third-party website, links or usage. You further concur that if you establish link from any other website to the website, you will spontaneously discontinuous such link upon receiving written notice from Sellebration of its remonstration to any such link."
-                ]
-            },
-            {
-                "head":"FEEDBACK:",
-                "text":["The user feedback and data capitulated is guarded by privacy laws as per requirement changes in Terms and conditions and changes in website Sellebration may in its solitary discretion and at interims of its sole choosing, upgrade this website and the website use policies linked with them at any time and without prior notice. It is the liability of each user to keep track of such changes, and to determine whether or not to endure to access and use the website based upon any such changes."]
-            },
-            {
-                "head":"TERMINATION:",
-                "text":["User’s access to website will be subject to Sellebration’s authorization to access the website. Sellebration reserves the right to end user’s access to the website at any time without notice, for any reason (including but not limited to if you violate these terms) or for no reason. While Sellebration’s preferred course of action is to instruct you of your inappropriate behavior and put forward any necessary corrective measures, Sellebration does not represent that it will, nor it is required to either actively monitor such behavior or to provide such notice to you. Sellebration’s right to terminate user’s access is in addition to all other legal or equitable reforms available to Sellebration- hereunder, which rights are fully and expressly reserved by Sellebration. Upon termination of this agreement for any incentive, user shall cease to use or further access any website’s content or services and be accountable for any unauthorized attempts to do so via any means."]
-            },
-            {
-                "head":"PROPRIETARY MATERIALS AGREEMENT:",
-                "text":
-                [
-                    "You acknowledge that all the materials provided on this website are the proprietary property of Sellebration or companies with Sellebration Groups and are sheltered by copyright, trade secret, and other applicable laws in the respective jurisdiction.",
-                    "You have the restricted right to display the materials on your personal computer, and to copy and download the materials provided that:", 
-                    "1) any copyright and trademark notifications appearing on such materials are also exhibited, facsimiled or downloaded as part of the materials, and are not removed, moved, or obscured, and",
-                    "2) such display, copy or download is solely for your private informational utilization. The restricted right to access, display and use of the website terminates spontaneously, without notice to you, if you breach any of these terms.",
-                    "You admit and concur that you have no right to modify, edit, alter, or enhance any of the materials in any manner. The materials may not be dispersed, transmitted or scatter in any manner, for any commercial purpose unless expressly authorized to so by Sellebration in advance and in written. You concur not to use the stuff in any way that would compromise the proprietary nature of the stuff. Without restricting all the foregoing, you concur not to provide the materials themselves, either reproduced or modified, or anything derived from the materials, either orally or in written, as a part of seminar, training program, workshop, consulting, or indistinguishable business activity which you make obtainable to your clients or to others, except with the prior in paper consent of Sellebration.",
-                    "Except as expressly stated herein, you understand that you have no privilege, title, or interest of any kind on any legal basis in or to the materials upon termination of this limited license or usage, you concur to spontaneously destroy any downloaded or printed materials that you may have in your possession or control."
-                ]
-            },
-            {
-                "head":"NO AGENCY OR PARTNERSHIP:",
-                "text":["The parties are maverick contractors. Neither party may direct or administer the frequent activities of the other; neither party may create or assume any legal obligation in aid of the other."]
-            },
-            {
-                "head":"NOTICES:",
-                "text":[
-                    "Sellebration may provide notice to user via email provided on user’s registration form or such other address provided by user to Sellebration. User shall provide notice to Sellebration via email to hello@sellebration.ltd., with a replica sent via to the address on the user’s registration form."
-                ]
-            },
-            {
-                "head":"ENTIRE AGREEMENT, SEVERABILITY, NO UNINTERNATIONAL WAIVER:",
-                "text":[
-                    "This Agreement, including the Website’s Privacy Policy and Disclaimer, account for the entire user agreement between user and Sellebration, and supersedes any previous agreements or understandings between user and Sellebration. No alteration or modification hereof will be valid or binding upon either party unless made in writing and signed by the authorized emissary of both parties."
-                ]
-            },
-            {
-                "head":"NO THIRD-PARTY BENEFICIARIES:",
-                "text":[
-                    "User understands and concurs that this Agreement shall in no scenario be constructed as a third-party beneficiary contract, and that it is not intended for benefit of any person or company or whomsoever except the parties hereto."
-                ]
-            },
-            {
-                "head":"ASSIGNMENT:",
-                "text":
-                [
-                    "Sellebration may designate any or all of its rights and commitment hereunder to any party without the prior consent of or notice of user."
-                ]
-            },
-            {
-                "head":"GOVERNING LAW:",
-                "text":[
-                    "The parties agree that any dissension or claim arising out of or relating to this Agreement or the breach thereof, shall be governed by and elucidated in accordance with laws of India and parties capitulate to the exclusive jurisdiction of the courts of Haryana."
-                ]
-            },
-            {
-                "head":"DISCLAIMER OF WARRANTIES:",
-                "text":[
-                    "You as a user of the website acknowledge and concur that Sellebration has no accountability for any errors or exclusions in the website, including in the materials, whether provided by Sellebration or third parties. You further acknowledge and agree that Sellebration makes no warranty or representation of any kind as to the availability of the website or portions thereof, that the website or portions thereof may be inaccessible for various time periods (whether due to internet Service provider problems or otherwise) and that Sellebration shall have no accountability for any unavailability of or inaccuracy in the website or the materials. User will endure all risk analogous with any content that user accesses. User accessing of any content made available by or through www.sellebration.ltd. and third parties is subject to your agreement to this provision and these Terms and conditions."
-                ]
-            },
-            {
-                "head":"DISCLAIMER NOTICE:",
-                "text":[
-                    "ALL SERVICES PROVIDED THROUGH THIS WEBSITE ARE PROVIDED “AS IS” WITH NO WARRANTIES WHATSOEVER. ALL EXPRESS, IMPLIED AND JUDICIAL WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR RESOLUTION AND NON-INFRINGEMENT, ARE EXPRESSLY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW, SELLEBRATION DISCLAIMS ANY WARRANTIES FOR THE SECURITY, RELIABILITY, TIMELINESS AND PRESENTATION OF THIS SERVICE. SELLEBRATION DISCLAIMS ANY WARRANTIES FOR OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THIS WEBSITE OR RECEIVED THROUGH ANY LINKS PROVIDED IN THIS WEBSITE AS WELL AS ANY INFORMATION OR ADVICE RECEIVED THROUGH THE WEBSITE, AS WELL AS FOR ANY INFORMATION OR ADVICE RECEIVED THROUGH THE WEBSITE OR THROUGH ANY LINKS PROVIDED IN THE WEBSITE. SELLEBRATION SIMILARLY DISCLAIMS ANY WARRANTIES FOR ANY INFORMATION OR ADVICE OBTAINED THROUGH THE SITE.",
-                    "YOU ACKNOWLEDGE AND CONCUR THAN ANY STUFF DOWNLOADED OR OTHERWISE ACQUIRED THROUGH THE USE OF THE PRODUCTS AND SERVICES IS DONE AT YOUR OWN CIRCUMSPECTION AND RISK, AND THAT YOU WILL BE EXCLUSIVELY RESPONSIBLE FOR ANY DAMAGES TO YOUR COMPUTER SYSTEM OR MISLAY OF DATA THAT MAY RESULT IN THE DOWNLOAD OF SUCH STUFF.",
-                    "UNDER NO SET OF AFFAIRS SHALL SELLEBRATION BE ACCOUNTABLE TO ANY USER ON ACCOUNT OF THAT USER’S USE OR MISUSE OF AND/OR RELIANCE ON THE WEBSITE, OR ITS ASSOCIATED PRODUCTS AND SERVICES. USER EXPRESSLY AGREES THAT SUCH LIMITATION OF CHARGABILITY SHALL APPLY TO PREVENT RECOVERY OF DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY AND PUNITIVE DAMAGES (EVEN IF SELLEBRATION HAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES). SUCH DAMPDOWN OF LIABILITY SHALL APPLY WHETHER THE DESTRUCTION ARISE FROM USE OR MISUSE OF AND RELIANCE ON THE WEBSITE, PRODUCTS OR SERVICES, FROM INABILITY TO USE THE WEBSITE, OR FROM THE INTERRUPTION, ADJOURNMENT OR TERMINATION OF THE WEBSITES OR DAMAGES INCURRED BY REASON OF OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THIS SERVICE OR RECEIVED THROGH ANY LINKS PROVIDED ON THIS WEBSITE, AS WELL AS BY REASON OF ANY PARTICULARS OR ADVICE RECEIVED THROUGH OR ADVERTISED ON THE SERVICES, OR RECEIVED THROGH ANY LINKS PROVIDED IN THE PRODUCTS AND SERVICES."
-                ]
-            },
-            {
-                "head":"INDEMNITIES:",
-                "text":[
-                    "By using this website, user concurs to reimburse and defend Sellebration and its parents, subsidiaries, affiliates, directors, officers, consultants, and employees and hold them harmless from any and all claims and expenses including attorney’s fees, arising from user’s misuse of this website or service."
-                ]
-            },
-            {
-                "head":"QUESTIONS, COMMENTS OR QUERIES:",
-                "text":["If you possess any questions, comments or doubts, notices about the website or this Agreement, please feel free to contact us at hello@sellebration.ltd."]
-            }
-        ]
+  "0":
+  [
+    {
+      "head":"INTRODUCTION:",
+      "text":
+      [
+          "In the world where everything is overexposed, Sellebration Private Limited is following this privacy policy to protect your personal identifiable information that you provide to Sellebration Private Limited through www.sellebration.ltd. You must also review and accept our Website Terms of Use as it is also applicable and govern the use of the website.",
+          "This Privacy Policy does not apply to any Personal Identifiable Information that you may share with the third-party entities (including Sellebration Private Limited Entities), such as through other websites that draw a connection to the website. Please be conscious in case you opt to visit any such third-party website, you should get in touch with third party directly for their privacy policy as that third parties privacy policy will govern your activities and any Personal Identifiable Information shared with them, this privacy policy won’t be applicable there.",
+          "This privacy policy describes the purposes for which Sellebration Private Limited processes your Personal Identifiable Information through its Website."  
+      ]
+    }
+  ],
+  "11":
+  {
+      "head":"PURPOSE OF GATHERING AND PROCESSING:",
+      "text1":
+      [
+        "We may gather your information like title, name, gender, date of birth, email addresses, mobile number, location, and other personal identifiable information that you submit on the website (“Personal Identifiable Information”) to provide you:"
+      ],
+      "bullets":
+      [
+        "Unwrinkled, structured, and customized experience,",
+        "To enable Sellebration Private Limited entities to connect with you in relation to programs managed by them or products/ services offered by them,",
+        "To enable us to refine our products & services, as well as of the Sellebration Private Limited entities,",
+        "To process your communication requests (such as responding to your queries or complaints),",
+        "To assess your candidature for anticipated career opportunities with us,",
+        "To drive promotional communications, marketing campaign for which you have consented",
+        "To protect our vital interest."
+      ],
+      "text2":
+      [
+        "The PII collected for the afore mentioned purposes will not be posted in areas of the website viewable by the public or the users of the site."
+      ]
+  },
+  "22":{
+      "id":1,
+      "head":"How We Collect Your Personal Data:",
+      "text1":
+      [
+        "We collect your data in the following ways:"
+      ],
+      "bullets":[
+        "Personal Identifiable Information provided to us by you, and",
+        "Personal Identifiable Information gathered automatically conforming to your visit to the website."
+      ],
+      "headSmall1":"A. Data provided by you",
+      "textSmall1":"Sellebration Private Limited may gather your Personal Identifiable Information in different ways from your use of this website, for instances:",
+      "bulletsSmall1":
+      [
+        "When you reach out to us through the website (through any form via e-mail address, hyperlink or social media address posted therein),",
+        "When you enroll with us to receive products and/or services of any of the Sellebration Companies,",
+        "When you take part in surveys conducted by or for us,",
+        "When you elect to receive any communication (including any promotional offers, any newsletter) from us, and",
+        "Details may be voluntarily provided by you"
+      ],
+      "headSmall2":"B. Data that is gathered automatically",
+      "textSmall2":"Some information about your visit to the website is automatically collected by us. This information helps us to upgrade website content and navigation and includes your IP address and the way you use and interact with its content, namely:",
+      "bulletsSmall2":
+      [
+        "Our web servers or affiliates who provide analytics and execution enhancement services collects IP address, Operating System attributes, browsing attributes, device attributes, and language settings. The information is aggregated to estimate the number of visits, average time spent on the website, pages viewed and similar information. Sellebration Private Limited uses this information to measure the site usage, improve content, and to guarantee safety and security, as well enhance the performance of website.",
+        "We may gather your Personal Identifiable Information automatically via cookies, in line with the cookie settings on your browser. For more information about Cookies, please see the section below titled “Cookies”."
+      ]
+  },
+  "cookie":
+  {
+    "head":"Use of Cookies:",
+    "headSmall1":"TYPE OF COOKIE",
+    "headSmall2":"PURPOSE",
+    "inner1Small1":"_utma,_utmb,_utmc, _utmz, display_features_cookie",
+    "inner1Small2":"_clck, _clsk, CLID, ANONCHK, MR, MUID, SM",
+    "inner2Small1":
+    [
+      "Google Analytics is used on the Websites to track visitor traffic and site performance traffic by collecting anonymous information about the average time spent on the website, the pages viewed and other relevant usage statistics.",
+      "To opt out of being tracked by Google Analytics visit:"
+    ],
+    "inner2Small2":
+    [
+      "Microsoft Clarity is used on the Website to track visitor traffic and site performance traffic by collecting anonymous information about the average time spent on the website, the pages viewed and other relevant usage statistics.",
+      "To opt out of being tracked by Microsoft Clarity visit:"
+    ]
+  },
+  "1":
+  [
+    {
+      "head":"TRANSFER OF PERSONAL IDENTIFIABLE INFORMATION TO SELLEBRATION PRIVATE LIMITED ENTITIES:",
+      "text":
+      [
+          "The www.sellebration.ltd website is designed to give you one stop view of Sellebration Private Limited Conglomerate and enable you to uprise issues related to any product / services being offered by Sellebration Private Limited Entities. To enable us to provide you flawless experience, we may have to share your personal identifiable information with Sellebration Private Limited entities, including but not limited those listed on website. To the scope that these entities have access to your Personal Identifiable Information, we will appeal them to treat it at least as protectively as they treat Personal Identifiable Information they obtain from their authorized sources. It is possible that any of the Sellebration Private Limited Entities or amalgamation of them could merge or be acquired by another business entity. Should such a combination occur, you should expect that Sellebration Private Limited would share some or all your Personal Identifiable Information to continue to maintain and provide access to the website.  "  
+      ]
+    },
+    {
+      "head":"TRANSFER OF PERSONAL IDENTIFIABLE INFORMATION:",
+      "text":
+      [
+          "The Personal Identifiable Information that we gather from you may be conveyed to and reserved at locations that may or may not be in India. It may be processed by the workforce operating outside the territory of India, who work for or are engaged by Sellebration Private Limited."  
+      ]
+    },
+    {
+      "head":"LINKS TO OTHER WEBSITES:",
+      "text":
+      [
+          "Our website has links that switch you to our social networking pages such as Twitter, Facebook, LinkedIn, YouTube, and others that may be added in future. Your visits and activity thereon vis-à-vis those portals shall be looked after by their own privacy policy applicable for visiting their websites. Please read their privacy policy for getting information on their privacy practices."  
+      ]
+    },
+    {
+      "head":"PARTNER:",
+      "text":
+      [
+          "To allow us to provide you intensified and secured user experience, we may foot into contract with various third-party vendors on periodic basis. Such engagements may include sharing of your personal identifiable information, we will ask them to treat it at least as protectively as they treat personally identifiable information they obtain from their other authorized sources.",
+          "We do not market or sell your personal data to any third party."
+      ]
+    },
+    {
+      "head":"DATA RETENTION POLICY:",
+      "text":
+      [
+        "We keep possession of your data for a reasonable time and/or as may be judicially required to be maintained as per applicable law/ or arising out of admissible purposes. We shall take reasonable steps to knock down or permanently de-identify Personal Identifiable Information that is no longer needed, including that managed by third party vendors engaged by the company quite often."
+      ]
+    },
+    {
+      "head":"CHANGING YOUR PERSONAL IDENTIFIABLE INFORMATION:",
+      "text":
+      [
+        "Sellebration Private Limited gives you the ability to amend your Personal Identifiable Information at any time, an appeal should be made to hello@sellebration.ltd. We will, however, hold information in our files and databases Personal Identifiable Information you have requested to remove to use it in some set of conditions, such as to resolve disputes, troubleshoot problems, and implement terms and conditions of use. Further, such old Personal Identifiable Information is never completely removed from our databases due to technical and legal reasons, not limited to stored “back-up” systems. Therefore, you should be clear that all your Personal Identifiable Information will not be completely removed from our systems in response to your appeal."
+      ]
+    }
+    ,
+    {
+      "head":"REGULATORY OBLIGATIONS:",
+      "text":
+      [
+        "Due to existing regulatory environment, we can’t guarantee that all of your Personal Information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be required to disclose your Personal Identifiable Information to the government, law enforcement agencies, etc."
+      ]
+    },
+    {
+      "head":"DATA SECURITY:",
+      "text":
+      [
+        "To safeguard your privacy and security, we will also take reasonable steps to verify your identity before granting access. We are committed for safeguarding your Personal Identifiable Information in our custody and have taken the steps to ensure appropriate physical, technical and managerial safeguards to protect your Personal Data from unauthorized access, alteration, transmission, and deletion. Encryption is being used at relevant points to protect your data. We test our systems on periodic basis for ensuring security of data processing."
+      ]
+    },
+    {
+      "head":"DISCLAIMER:",
+      "text":
+      [
+        "To safeguard your privacy as mentioned above, we take finest efforts and adopt best Industry Standards Information Practice, however you acknowledge that 100% does not exist over internet. You are accountable for protecting your Personal Identifiable Information and you should not share your login credentials and/or leave your personal devices unattended while you are accessing the website, etc. The company does not guarantee, and you should not expect in the event of malware attack or negligence on your part that your Personal Information will remain private. "
+      ]
+    },
+    {
+      "head":"YOUR CONSENT:",
+      "text":
+      [
+        "By agreeing this privacy policy and our Terms, you expressly consent to our use and disclosure of your Personal Information in the manner prescribed in this Privacy Policy."
+      ]
+    },
+    {
+      "head":"RIGHTS UNDER APPLICABLE LAWS:",
+      "text":
+      [
+        "Your personal data is processed basis the consent you have provided by accepting this Privacy Policy.",
+        "Your right to access, rectification, erasure, restriction of the processing, data portability and object to the processing of your personal data is being acknowledged by us. However, these rights are not absolute in nature and are subjected to contract, applicable legislation, record keeping requirement under applicable statutes, ongoing disputes, or potential disputes Sellebration Private Limited may foresee. To exercise these rights with respect to your personal data you may contact hello@sellebration.ltd.",
+        "In the event of any misconduct/fraud/cybercrime, etc. on your part, the Company shall be at liberty to use your PII as evidence in the Court of law and shall also be entitled to carry out investigations/inquiries as it deems fit with the help of private agencies or authorities as it deems fit. By you consenting to this Notice, you agree to sharing of your PII for the aforesaid purposes and understand that exercise of your rights to that extent shall be restricted."
+      ]
+    },
+    {
+      "head":"QUESTIONS AND GRIEVANCES/ RIGHT TO LODGE A COMPLAINT:",
+      "text":
+      [
+        "In the event, you are of the view that your personal data is not processed in accordance with the purposes as disclosed in this Privacy Policy or if you have any query related to your privacy of information or in relation to your rights under applicable law, please feel free to contact us at hello@sellebration.ltd. "
+      ]
+    },
+    {
+      "head":"NOTIFICATION OF CHANGES:",
+      "text":
+      [
+        "Sellebration Private Limited expressly reserves at its sole discretion the right to change this Privacy Policy periodically in the future without prior notice to the Users. User shall review our Privacy Policy regularly to be sure you are fully updated with our practices and procedures in this area."
+      ]
+    },
+    {
+      "head":"Questions and updates ",
+      "text":
+      [
+        "If you have any questions or suggestions about our privacy practices, please feel free to contact us at hello@sellebration.ltd. "
+      ]
+    }
+  ]
 }
 
 const createJson=(query,name,lang)=>
