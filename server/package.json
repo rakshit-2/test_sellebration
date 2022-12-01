@@ -11,6 +11,7 @@
   "author": "rakshit,samarth dev",
   "license": "ISC",
   "dependencies": {
+    "@haileybot/captcha-generator": "^1.7.0",
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",
@@ -20,6 +21,7 @@
     "mysql2": "^2.3.3",
     "node-cron": "^3.0.2",
     "nodemon": "^2.0.19",
+    "svg-captcha": "^1.4.0",
     "translate-json-object": "^2.3.7"
   }
 }

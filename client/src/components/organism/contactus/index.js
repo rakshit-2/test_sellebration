@@ -9,17 +9,49 @@ import { useEffect, useState } from 'react';
 import alert from './../../assets/image/event/alert.svg';
 import Axios from 'axios';
 import ApiLink from './../../assets/store/apiLink';
-import { useLocation } from 'react-router-dom';
+import { useLocation ,useNavigate} from 'react-router-dom';
 
 
 
 const ContactUs=(props)=>{
-
-
+    const navigate=useNavigate();
+    const[captcha,setCaptcha]=useState("CAPTCHA");
+    const[captchaValue,setCaptchaValue]=useState(-1)
+    const[contactLoading,setContactLoading]=useState(true)
     const location = useLocation();
     // scroll to top
 
+
+    function getRandomInt(max) {
+        return Math.floor(Math.random() * max);
+    }
+
+    function generateCaptcha()
+    {
+        var ele=0;
+        ele=getRandomInt(36*36*36*36)
+        if(ele)
+        {
+            setContactLoading(false);
+            setCaptcha(ele.toString())
+        }
+    }
+
+
+
+    function randomString(length, chars) {
+        var result = '';
+        for (var i = length; i > 0; --i) result += chars[Math.floor(Math.random() * chars.length)];
+        return result;
+    }
+
+
+
+
+
     useEffect(() => {
+        generateCaptcha()
+        setCaptcha(randomString(5, '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'));
         window.scrollTo(0, 0);
     }, []);
 
@@ -78,10 +110,6 @@ const ContactUs=(props)=>{
         setErrHiding("none");
     }
 
-    function changeSubmit()
-    {
-        setSubmitClickedChange({submit:"flex",loading:"none",success:"none"});
-    }
 
     function changeSubmit()
     {
@@ -167,7 +195,14 @@ const ContactUs=(props)=>{
             setTimeout(hidingError, 3000);
             return;
         }
-
+        if(captchaValue!==captcha)
+        {
+            setErrHiding("flex");
+            setErrorMessage("Your Captcha Failed");
+            setTimeout(hidingError, 3000);
+            generateCaptcha()
+            return;
+        }
         setSubmitClickedChange({submit:"none",loading:"flex",success:"none"})
         Axios.post(ApiLink+'/contact-us/full-data',
         {
@@ -182,6 +217,23 @@ const ContactUs=(props)=>{
         }).then((res)=>{
             setSubmitClickedChange({submit:"none",loading:"none",success:"flex"});
             setTimeout(changeSubmit, 3000);
+            setName("");
+            setEmail("");
+            setOrganisation("");
+            setContactNumber("");
+            setQueryIsFor("Select Company");
+            setQueryType("Select Query");
+            setYourQuery("");
+
+            document.getElementById("name0").value="";
+            document.getElementById("name1").value="";
+            document.getElementById("name2").value="";
+            document.getElementById("name3").value="";
+            document.getElementById("qfor").value="";
+            document.getElementById("qtype").value="";
+            document.getElementById("textareaField").value="";
+            document.getElementById("captchaVal").value="";
+            
         })
 
 
@@ -208,7 +260,7 @@ const ContactUs=(props)=>{
                                     <div className='contactus__inner__seaction2__dispaly__each__heading'>
                                         {name}<span style={{color:"red",display:`${star}`}}>*</span>
                                     </div>
-                                    <input type={type} placeholder={placeholder} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{checker(e.target.value,name)}} />
+                                    <input id={"name"+id.toString()} type={type} placeholder={placeholder} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{checker(e.target.value,name)}} />
                                 </div>
                             )
                         })}
@@ -219,7 +271,7 @@ const ContactUs=(props)=>{
                             <div className='contactus__inner__seaction2__dispaly__each__heading'>
                                 Query is for<span style={{color:"red"}}>*</span>
                             </div>
-                            <select className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setQueryIsFor(e.target.value)}}>
+                            <select  id="qfor"  className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setQueryIsFor(e.target.value)}}>
                                 {ContactUsData.selectCompany.map((ele)=>{
                                     const{id,name}=ele;
                                     return(
@@ -232,7 +284,7 @@ const ContactUs=(props)=>{
                             <div className='contactus__inner__seaction2__dispaly__each__heading'>
                                 Query type<span style={{color:"red"}}>*</span>
                             </div>
-                            <select className='contactus__inner__seaction2__dispaly__each__input'  onChange={(e)=>{setQueryType(e.target.value)}}>
+                            <select  id="qtype" className='contactus__inner__seaction2__dispaly__each__input'  onChange={(e)=>{setQueryType(e.target.value)}}>
                                 {ContactUsData.selectQuery.map((ele)=>{
                                     const{id,name}=ele;
                                     return(
@@ -245,16 +297,16 @@ const ContactUs=(props)=>{
                             <div className='contactus__inner__seaction2__dispaly__each__heading'>
                                 Your query<span style={{color:"red"}}>*</span>
                             </div>
-                            <textarea type={ContactUsData.selectTextarea.type} placeholder={ContactUsData.selectTextarea.placeholder} style={{height:"4rem",paddingLeft:"5px"}} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setYourQuery(e.target.value)}}/>
+                            <textarea id="textareaField" type={ContactUsData.selectTextarea.type} placeholder={ContactUsData.selectTextarea.placeholder} style={{height:"4rem",paddingLeft:"5px"}} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setYourQuery(e.target.value)}}/>
                         </div>
                         <div className='contactus__inner__seaction2__dispaly__each'>
                             <div className='contactus__inner__seaction2__dispaly__each__heading'>
                                 Captcha<span style={{color:"red"}}>*</span>
                             </div>
-                            <ReCAPTCHA
-                                sitekey="Your client site key"
-                                onChange={onChange}
-                            />
+                            <div className='contactus__captcha' id="captcha">
+                                <input id="captchaVal" type={"text"} placeholder={"captcha"} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setCaptchaValue(e.target.value)}} />
+                                <span className='contactus__captcha__each'>{captcha}</span>
+                            </div>
                         </div>
                         
                     </div>

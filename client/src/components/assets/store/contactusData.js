@@ -39,7 +39,7 @@ const ContactUsData={
     ]
     ,
     selectCompany:[
-        {id:0,name:"Select Company"},
+        {id:0,name:"select company"},
         {id:1,name:"company1"},
         {id:2,name:"company2"},
         {id:3,name:"company3"},
@@ -47,7 +47,7 @@ const ContactUsData={
 
     ],
     selectQuery:[
-        {id:0,name:"Select Query"},
+        {id:0,name:"select query"},
         {id:1,name:"query1"},
         {id:2,name:"query2"},
         {id:3,name:"query3"},
