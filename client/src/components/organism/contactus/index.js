@@ -10,7 +10,7 @@ import alert from './../../assets/image/event/alert.svg';
 import Axios from 'axios';
 import ApiLink from './../../assets/store/apiLink';
 import { useLocation ,useNavigate} from 'react-router-dom';
-
+import reload from './../../assets/image/reload.png';
 
 
 const ContactUs=(props)=>{
@@ -22,36 +22,23 @@ const ContactUs=(props)=>{
     // scroll to top
 
 
-    function getRandomInt(max) {
-        return Math.floor(Math.random() * max);
-    }
+    
+
 
     function generateCaptcha()
     {
-        var ele=0;
-        ele=getRandomInt(36*36*36*36)
-        if(ele)
+       
+        Axios.get(ApiLink+'/captcha',
         {
-            setContactLoading(false);
-            setCaptcha(ele.toString())
-        }
+
+        }).then((res)=>{
+            setCaptcha(res.data);
+        })
     }
-
-
-
-    function randomString(length, chars) {
-        var result = '';
-        for (var i = length; i > 0; --i) result += chars[Math.floor(Math.random() * chars.length)];
-        return result;
-    }
-
-
-
 
 
     useEffect(() => {
-        generateCaptcha()
-        setCaptcha(randomString(5, '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'));
+        generateCaptcha();
         window.scrollTo(0, 0);
     }, []);
 
@@ -75,9 +62,6 @@ const ContactUs=(props)=>{
   
 
 
-    function onChange(value) {
-        console.log("Captcha value:", value);
-    }
 
 
     function checker(e,name)
@@ -224,7 +208,6 @@ const ContactUs=(props)=>{
             setQueryIsFor("Select Company");
             setQueryType("Select Query");
             setYourQuery("");
-
             document.getElementById("name0").value="";
             document.getElementById("name1").value="";
             document.getElementById("name2").value="";
@@ -233,6 +216,7 @@ const ContactUs=(props)=>{
             document.getElementById("qtype").value="";
             document.getElementById("textareaField").value="";
             document.getElementById("captchaVal").value="";
+            generateCaptcha()
             
         })
 
@@ -304,8 +288,9 @@ const ContactUs=(props)=>{
                                 Captcha<span style={{color:"red"}}>*</span>
                             </div>
                             <div className='contactus__captcha' id="captcha">
+                                <div className='captcha__outer'><span className='contactus__captcha__each'>{captcha}</span><img src={reload} style={{width:"30px",height:"30px",marginLeft:"1rem",cursor:"pointer"}} onClick={()=>{generateCaptcha()}}/></div>
                                 <input id="captchaVal" type={"text"} placeholder={"captcha"} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setCaptchaValue(e.target.value)}} />
-                                <span className='contactus__captcha__each'>{captcha}</span>
+                                
                             </div>
                         </div>
                         

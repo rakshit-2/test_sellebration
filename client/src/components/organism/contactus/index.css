@@ -17,6 +17,7 @@
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+    text-decoration:overline;
     text-decoration:line-through;
     color:white;
     font-size:19px;
@@ -24,9 +25,18 @@
     letter-spacing:5px;
     padding:8px;
     border-radius: 10px;
+    border:3px solid white;
     background-color: #0AB1EE;
-}
+    filter: blur(0.8px);
 
+}
+.captcha__outer{
+    width:100%;
+    height:fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
 
 
 
