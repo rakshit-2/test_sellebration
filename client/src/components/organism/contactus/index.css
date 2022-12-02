@@ -28,7 +28,7 @@
     border:3px solid white;
     background-color: #0AB1EE;
     filter: blur(0.8px);
-
+    position: relative;
 }
 .captcha__outer{
     width:100%;

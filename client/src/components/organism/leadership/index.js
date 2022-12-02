@@ -5,7 +5,7 @@ import Axios from 'axios';
 import ApiLink from '../../assets/store/apiLink';
 import {useState,useEffect} from 'react';
 import { HashLink } from 'react-router-hash-link';
-import img from './../../assets/image/backtest.jpg';
+import img from './../../assets/image/bucket/Leadership.jpeg';
 import Carousel from "react-multi-carousel";
 import LeadershipPanelData from './../../assets/store/leadershippanelData';
 import LeadershipCard1 from '../../atom/leadershipCard1';

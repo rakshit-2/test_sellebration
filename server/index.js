@@ -230,6 +230,7 @@ const Women_Leadership_Redefining_Boundaries_spanish = require('./store/spanish/
 const Women_Leadership_Better_Together_spanish= require('./store/spanish/Women_Leadership_Better_Together.json');
 
 
+
 const lang_checker={
   "hindi":
   {
@@ -922,8 +923,9 @@ function randomString(length, chars) {
   for (var i = length; i > 0; --i) result += chars[Math.floor(Math.random() * chars.length)];
   return result;
 }
+
 app.get('/captcha',(req,res)=>{
-  res.send(randomString(5, '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'));     
+  res.send(randomString(5, '0123456789abcdeghijklmnopqrstuvwxyzABCDEGHIJKLMNOPQRSTUVWXYZ')); 
 })
 
 

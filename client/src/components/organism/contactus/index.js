@@ -11,11 +11,17 @@ import Axios from 'axios';
 import ApiLink from './../../assets/store/apiLink';
 import { useLocation ,useNavigate} from 'react-router-dom';
 import reload from './../../assets/image/reload.png';
+import line from './../../assets/image/line1.png';
+import captcha_ from './../../assets/image/captcha_.png'
 
+
+import ClientCaptcha from "react-client-captcha"
+import "react-client-captcha/dist/index.css"
 
 const ContactUs=(props)=>{
     const navigate=useNavigate();
     const[captcha,setCaptcha]=useState("CAPTCHA");
+    const[captchaImage,setCaptchaImage]=useState("");
     const[captchaValue,setCaptchaValue]=useState(-1)
     const[contactLoading,setContactLoading]=useState(true)
     const location = useLocation();
@@ -288,7 +294,15 @@ const ContactUs=(props)=>{
                                 Captcha<span style={{color:"red"}}>*</span>
                             </div>
                             <div className='contactus__captcha' id="captcha">
-                                <div className='captcha__outer'><span className='contactus__captcha__each'>{captcha}</span><img src={reload} style={{width:"30px",height:"30px",marginLeft:"1rem",cursor:"pointer"}} onClick={()=>{generateCaptcha()}}/></div>
+                                <div className='captcha__outer'>
+                                    <div className=''>
+                                        <div className='contactus__captcha__each' id="captcha">{captcha}</div>
+                                        {/* <img src={captchaImage} className="contactus__captcha__each"/> */}
+                                        {/* <ClientCaptcha captchaCode={this.setCode}/> */}
+                                    </div>
+                                    <img src={reload} style={{width:"30px",height:"30px",marginLeft:"1rem",cursor:"pointer"}} onClick={()=>{generateCaptcha()}}/>
+                                    
+                                </div>
                                 <input id="captchaVal" type={"text"} placeholder={"captcha"} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setCaptchaValue(e.target.value)}} />
                                 
                             </div>

@@ -13,11 +13,11 @@ import Axios from 'axios';
 import ApiLink from '../../assets/store/apiLink';
 import LoadingScreen from '../../atom/loadingScreen';
 import img from './../../assets/image/test.png';
-import innovation_back from './../../assets/image/innovation_img/innovation_back.png';
+import innovation_back from './../../assets/image/bucket/Innovation.jpeg';
 import { useNavigate ,useLocation} from 'react-router-dom';
 
 
-
+//.innovation
 const Innovation=(props)=>{
     const location = useLocation();
     const navigate = useNavigate();

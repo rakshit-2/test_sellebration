@@ -6,7 +6,7 @@
     flex-direction: column;
     justify-content: center;
     align-items:center;
-    background-color: #D9D9D9;
+    background-image: url('./../../assets/image/bucket/Vision.jpeg');
 }
 .vision__top__inner{
     width:90%;
