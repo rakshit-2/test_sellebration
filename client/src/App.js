@@ -110,13 +110,12 @@ const App=(props)=>{
 
 
 
-
+//images added
 
 
   return (
     <>
     <>
-    
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home 
