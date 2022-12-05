@@ -1,6 +1,10 @@
 {
     "english":
     {
+        "landing":
+        {
+          "0":"PROCEED"
+        },
         "home":
         {
            "0":"Our Stories",
@@ -323,6 +327,10 @@
         ]
     },
     "spanish":{ 
+        "landing":
+        {
+          "0":"CONTINUAR"
+        },
         "home":
         {
             "0": "Nuestras historias",
@@ -620,6 +628,9 @@
           ]
     },
     "french":{
+        "landing":{
+          "0":"PROCÉDER"
+        },
         "home":
         {
             "0": "Nos histoires",
@@ -917,6 +928,9 @@
           ]
     },
     "chinese":{
+        "landing":{
+          "0":"继续"
+        },
         "home":
         {
             "0": "我们的故事",
@@ -1213,6 +1227,9 @@
         ]
     },
     "russian":{
+        "landing":{
+          "0":"ПРОДОЛЖИТЬ"
+        },
         "home":
         {
             "0": "Наши истории",
@@ -1510,6 +1527,9 @@
           ]
     },
     "german":{
+        "landing":{
+          "0":"VERLAUFEN"
+        },
         "home":
         {
             "0": "Unsere Geschichten",
@@ -1807,6 +1827,9 @@
           ]
     },
     "portuguese":{
+        "landing":{
+          "0":"CONTINUAR"
+        },
         "home":
         {
             "0": "Nossas histórias",
@@ -2104,6 +2127,9 @@
           ]
     },
     "japnese":{
+        "landing":{
+          "0":"続行"
+        },
         "home":
         {
             "0": "私たちのストーリー",
@@ -2401,6 +2427,9 @@
           ]
     },
     "hindi":{
+        "landing":{
+          "0":"आगे बढ़ना"
+        },
         "home":
         {
             "0": "हमारी कहानियाँ",

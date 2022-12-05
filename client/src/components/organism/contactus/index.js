@@ -5,18 +5,24 @@ import Footer from './../../molecule/footer/index';
 import ContactUsSection1 from '../../molecule/contactusSection1';
 import ContactUsData from '../../assets/store/contactusData';
 import ReCAPTCHA from "react-google-recaptcha";
+import {
+    GoogleReCaptchaProvider,
+    GoogleReCaptcha
+  } from 'react-google-recaptcha-v3';
+
+
+
+
+
+
+
 import { useEffect, useState } from 'react';
 import alert from './../../assets/image/event/alert.svg';
 import Axios from 'axios';
 import ApiLink from './../../assets/store/apiLink';
 import { useLocation ,useNavigate} from 'react-router-dom';
 import reload from './../../assets/image/reload.png';
-import line from './../../assets/image/line1.png';
-import captcha_ from './../../assets/image/captcha_.png'
-
-
-import ClientCaptcha from "react-client-captcha"
-import "react-client-captcha/dist/index.css"
+ 
 
 const ContactUs=(props)=>{
     const navigate=useNavigate();
@@ -26,10 +32,22 @@ const ContactUs=(props)=>{
     const[contactLoading,setContactLoading]=useState(true)
     const location = useLocation();
     // scroll to top
-
-
+    const [token, setToken] = useState();
+    const [refreshReCaptcha, setRefreshReCaptcha] = useState(false);
     
-
+    
+    
+    
+    
+    
+    
+    
+    const handleVerify = (token) => {
+        setToken(token);
+      };
+    function doSomething(){
+    setRefreshReCaptcha(r => !r);
+    }
 
     function generateCaptcha()
     {
@@ -185,14 +203,14 @@ const ContactUs=(props)=>{
             setTimeout(hidingError, 3000);
             return;
         }
-        if(captchaValue!==captcha)
-        {
-            setErrHiding("flex");
-            setErrorMessage("Your Captcha Failed");
-            setTimeout(hidingError, 3000);
-            generateCaptcha()
-            return;
-        }
+        // if(captchaValue!==captcha)
+        // {
+        //     setErrHiding("flex");
+        //     setErrorMessage("Your Captcha Failed");
+        //     setTimeout(hidingError, 3000);
+        //     generateCaptcha()
+        //     return;
+        // }
         setSubmitClickedChange({submit:"none",loading:"flex",success:"none"})
         Axios.post(ApiLink+'/contact-us/full-data',
         {
@@ -222,7 +240,7 @@ const ContactUs=(props)=>{
             document.getElementById("qtype").value="";
             document.getElementById("textareaField").value="";
             document.getElementById("captchaVal").value="";
-            generateCaptcha()
+            doSomething()
             
         })
 
@@ -290,22 +308,29 @@ const ContactUs=(props)=>{
                             <textarea id="textareaField" type={ContactUsData.selectTextarea.type} placeholder={ContactUsData.selectTextarea.placeholder} style={{height:"4rem",paddingLeft:"5px"}} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setYourQuery(e.target.value)}}/>
                         </div>
                         <div className='contactus__inner__seaction2__dispaly__each'>
-                            <div className='contactus__inner__seaction2__dispaly__each__heading'>
-                                Captcha<span style={{color:"red"}}>*</span>
-                            </div>
-                            <div className='contactus__captcha' id="captcha">
+                            <GoogleReCaptchaProvider reCaptchaKey="6LdbeFQjAAAAALc7X1qAlX4ao7cnZ5wlaaKSv31S">
+                                <GoogleReCaptcha 
+                                onVerify={handleVerify} 
+                                refreshReCaptcha={refreshReCaptcha}
+                                />
+                            </GoogleReCaptchaProvider>
+                            {/* <ReCAPTCHA
+                                sitekey="6LdbeFQjAAAAALc7X1qAlX4ao7cnZ5wlaaKSv31S"
+                                onChange={onChange}
+                            /> */}
+                            {/* <div className='contactus__captcha' id="captcha">
                                 <div className='captcha__outer'>
                                     <div className=''>
                                         <div className='contactus__captcha__each' id="captcha">{captcha}</div>
-                                        {/* <img src={captchaImage} className="contactus__captcha__each"/> */}
-                                        {/* <ClientCaptcha captchaCode={this.setCode}/> */}
+                                        <img src={captchaImage} className="contactus__captcha__each"/>
+                                        <ClientCaptcha captchaCode={this.setCode}/>
                                     </div>
                                     <img src={reload} style={{width:"30px",height:"30px",marginLeft:"1rem",cursor:"pointer"}} onClick={()=>{generateCaptcha()}}/>
                                     
                                 </div>
                                 <input id="captchaVal" type={"text"} placeholder={"captcha"} className='contactus__inner__seaction2__dispaly__each__input' onChange={(e)=>{setCaptchaValue(e.target.value)}} />
                                 
-                            </div>
+                            </div> */}
                         </div>
                         
                     </div>

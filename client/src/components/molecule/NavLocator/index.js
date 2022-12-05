@@ -8,7 +8,7 @@ const NavLocator=(props)=>{
     const navigate = useNavigate();
     function onclickfunction(x,info)
     {
-        var link=["/","/ourprofile","/leadership","/womenleadership","/visionvalue","/milestone",
+        var link=["/home","/ourprofile","/leadership","/womenleadership","/visionvalue","/milestone",
                 "/bussinessbrand","/bussinessbrand","/csr",
                 "/csr","/bringchange","/OurStrategy",
                 "/StoriesofHope","/csr","/Media","/mediarelease","/pressreoprt",

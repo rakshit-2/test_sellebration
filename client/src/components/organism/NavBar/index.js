@@ -82,7 +82,7 @@ const NavBar=(props)=>{
   function HomeRoute()
   {
     closeNavClicked();
-    navigate("/");
+    navigate("/home");
   }
 
 

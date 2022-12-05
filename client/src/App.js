@@ -40,13 +40,12 @@ import Landing from './components/organism/landing';
 import Privacy from './components/organism/privacypolicy'
 
 
-
 const App=(props)=>{
 
 
   AOS.init({
-    offset: 100,
-    duration: 400,
+    offset: 20,
+    duration: 500,
     easing: 'ease-in-sine',
   });
 
@@ -118,7 +117,14 @@ const App=(props)=>{
     <>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home 
+
+        <Route path="/" element={<Landing 
+        changePageState={changePageState} navDisplay={navDisplay} openNav={openNav} 
+        closeNav={closeNav} changeLang={changeLang} lang={lang} routeName={routeName} 
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
+
+
+        <Route path="/home" element={<Home 
         changePageState={changePageState} navDisplay={navDisplay} openNav={openNav} 
         closeNav={closeNav} changeLang={changeLang} lang={lang} routeName={routeName} 
         changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>

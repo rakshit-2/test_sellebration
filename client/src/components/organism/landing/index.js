@@ -1,21 +1,12 @@
 import './index.css';
-import Navbar from './../NavBar/index';
-import image from '../../assets/image/innovation_img/innovation_img.svg';
 import { useEffect } from 'react';
-import Footer2 from './../../molecule/footer2/index';
-import Footer from './../../molecule/footer/index';
 import logo from '../../assets/image/navbar_img/navbar_logo_img.svg';
-import map from '../../assets/image/landing_map.svg';
-import back_img from './../../assets/image/landing_back.svg';
-import centerimg from '../../assets/image/logo/logo_mid.svg';
-import logo_quote from './../../assets/image/logo/logo_quote.svg';
-import logo_quote1 from './../../assets/image/logo/logo_quote1.svg';
 import langAll from './../../assets/store/lang.json';
 import * as React from 'react';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
-import Switch from '@mui/material/Switch';
 import { useNavigate,useLocation  } from 'react-router-dom';
+import StaticModel from './../../assets/store/staticModel.json'
 
 const Landing=(props)=>{
       // scroll to top
@@ -65,10 +56,13 @@ const Landing=(props)=>{
             langEle="japnese";
         }
         props.changeLang(langEle,route,lang);
-        navigate('/')
+        
     }
 
-
+    function proceed()
+    {
+        navigate('/home')
+    }
 
 return (
     <>
@@ -78,7 +72,7 @@ return (
         <div className='landing__inner'>
             <div className='landing__inner__top'>
                 <div className='landing__inner__top__img'>
-                    <img src={logo} style={{width:"100%",height:"100%",borderRadius:"50%"}}/>
+                    <img src={logo} style={{width:"100%",height:"100%",borderRadius:"50%"}} alt="img"/>
                 </div>
                 <div style={{width:"4px",height:"150px",borderRadius:"1rem",backgroundColor:"#2F528E",marginLeft:"25px",marginRight:"1px"}}>
                 </div>
@@ -88,6 +82,19 @@ return (
                     SELLEBRATION PVT. LTD.
                 </div>
             </div>
+            <marquee direction="up" scrollamount="1" loop="100" className='landing__inner__middle'>
+                <div className="landing__inner__middle__div">
+                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Welcome to Sellebration Private Limited</p>
+                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">सेलब्रेशन प्राइवेट लिमिटेड में आपका स्वागत है</p>
+                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Willkommen bei Sellebration Private Limited</p>
+                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bienvenue chez Sellebration Private Limited</p>
+                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Добро пожаловать в Sellebration Private Limited</p>
+                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bem-vindo à Sellebration Private Limited</p>
+                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">欢迎来到 Sellebration 私人有限公司</p>
+                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bienvenido a Selbration Private Limited</p>
+                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Sellebration Private Limited へようこそ</p>
+                </div>
+            </marquee>
             <div className='landing__inner__bottom'>
                 <div className='landing__inner__bottom__inner'>
                 <Autocomplete
@@ -102,6 +109,9 @@ return (
                 onChange={(event: any, newVal:string | null)=>onChangeLang(newVal.label,'/landing')}
                 renderInput={(params) => <TextField {...params} label="" />}
                 />
+                </div>
+                <div className='landing__button' onClick={()=>{proceed()}}>
+                    {StaticModel[props.lang].landing[0]}
                 </div>
             </div>
         </div>
