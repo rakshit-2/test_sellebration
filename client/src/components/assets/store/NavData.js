@@ -6,6 +6,12 @@ import facebook from './../image/nav_img/nav_facebook_img.svg';
 import youtube from './../image/nav_img/nav_youtube_img.svg';
 
 
+import { faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faInstagram } from '@fortawesome/free-brands-svg-icons'
+import { faFacebook } from '@fortawesome/free-brands-svg-icons'
+import { faYoutube } from '@fortawesome/free-brands-svg-icons'
+
 
 const NavData=[
     {
@@ -63,11 +69,11 @@ const NavData=[
             {id:3,info:"Contact Us"}
         ],
         icon:[
-            {id:0,info:twitter,link:"https://twitter.com/i/flow/login"},
-            {id:1,info:linkedin,link:"https://in.linkedin.com/"},
-            {id:2,info:insta,link:"https://www.instagram.com/?hl=en"},
-            {id:3,info:facebook,link:"https://www.facebook.com/login/"},
-            {id:4,info:youtube,link:"https://www.youtube.com/account"},
+            {id:0,info:faTwitter,link:"https://twitter.com/i/flow/login"},
+            {id:1,info:faLinkedin,link:"https://in.linkedin.com/"},
+            {id:2,info:faInstagram,link:"https://www.instagram.com/?hl=en"},
+            {id:3,info:faFacebook,link:"https://www.facebook.com/login/"},
+            {id:4,info:faYoutube,link:"https://www.youtube.com/account"},
         ]
     }
 ]

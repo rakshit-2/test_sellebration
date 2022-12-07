@@ -1,16 +1,14 @@
-import facebook from './../image/home_img/nav_facebook_img.svg';
-import insta from './../image/home_img/nav_insta_img.svg';
-import linkedin from './../image/home_img/nav_linkedin_img.svg';
-import twitter from './../image/home_img/nav_twitter_img.svg';
-import youtube from './../image/home_img/nav_youtube_img.svg';
 
-
-
+import { faTwitter } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faInstagram } from '@fortawesome/free-brands-svg-icons'
+import { faFacebook } from '@fortawesome/free-brands-svg-icons'
+import { faYoutube } from '@fortawesome/free-brands-svg-icons'
 
 const FooterData={
  top:{
     left:[
-        {id:0,data:"About Us",link:'/'},
+        {id:0,data:"About Us",link:'/home'},
         {id:1,data:"Businesses",link:'/bussinessbrand'},
         {id:2,data:"Investors",link:'/investor'},
         {id:3,data:"CSR",link:'/csr'},
@@ -21,18 +19,18 @@ const FooterData={
         {id:8,data:"Contact Us",link:'/contactus'},
     ],
     right:[
-        {id:0,img:twitter},
-        {id:1,img:linkedin},
-        {id:2,img:insta},
-        {id:3,img:facebook},
-        {id:4,img:youtube},
+        {id:0,img:faTwitter},
+        {id:1,img:faLinkedin},
+        {id:2,img:faInstagram},
+        {id:3,img:faFacebook},
+        {id:4,img:faYoutube},
     ]
  },
  middle:"2022 All Rights Reserved, Selebration Pvt. Ltd.",
  bottom:[
     {id:0,data:"Terms and Conditions",link:"/termsandcondition"},
-    {id:1,data:"Privacy policy",link:"/privacypolicy"},
-    {id:2,data:"site map",link:'/sitemap'},
+    {id:1,data:"Privacy Policy",link:"/privacypolicy"},
+    {id:2,data:"Site Map",link:'/sitemap'},
  ]
 }
 export default FooterData;

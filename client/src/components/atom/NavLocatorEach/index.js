@@ -1,7 +1,7 @@
 import './index.css';
 import { useNavigate } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 const NavLocatorEach=(props)=>{
 
@@ -67,7 +67,7 @@ const NavLocatorEach=(props)=>{
                             const {id,info,link}=elel;
                             return (
                                 <>
-                                <a key={id} href={link}><img src={info} /></a>
+                                <a key={id} href={link}><FontAwesomeIcon icon={info} size="xs" color="white" style={{cursor:"pointer"}} /></a>
                                 </>
                             );
                         })}

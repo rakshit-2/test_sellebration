@@ -516,91 +516,102 @@ const createJson=(query,name,lang)=>
 }
 
 
-cron.schedule('0 0 0 * * *', () => {
+// cron.schedule('0 0 0 * * *', () => {
 
-  const finished=(err)=>{
-    if(err)
-    {
-      console.log(err)
-      return;
-    }
-  }
+//   const finished=(err)=>{
+//     if(err)
+//     {
+//       console.log(err)
+//       return;
+//     }
+//   }
 
-  TJO.translate(ele, 'es')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runES.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
-  TJO.translate(ele, 'fr')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runFR.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
-  TJO.translate(ele, 'hi')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runHI.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
-  TJO.translate(ele, 'ja')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runJA.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
-  TJO.translate(ele, 'ru')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runRU.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
-  TJO.translate(ele, 'pt')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runPT.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
+//   TJO.translate(ele, 'es')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runES.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
+//   TJO.translate(ele, 'fr')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runFR.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
+//   TJO.translate(ele, 'hi')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runHI.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
+//   TJO.translate(ele, 'ja')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runJA.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
+//   TJO.translate(ele, 'ru')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runRU.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
+//   TJO.translate(ele, 'pt')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runPT.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
   
-  TJO.translate(ele, 'de')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runDE.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
+//   TJO.translate(ele, 'de')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runDE.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
 
-  TJO.translate(ele, 'zh-CN')
-  .then(function(data) 
-  {
-    const jsonData=JSON.stringify(data,null,2)
-    fs.writeFile('./store/check/runCH.json',jsonData,finished);
-  }).catch(function(err) 
-  {
-    console.log('error',err)
-  });
-})
+//   TJO.translate(ele, 'zh-CN')
+//   .then(function(data) 
+//   {
+//     const jsonData=JSON.stringify(data,null,2)
+//     fs.writeFile('./store/check/runCH.json',jsonData,finished);
+//   }).catch(function(err) 
+//   {
+//     console.log('error',err)
+//   });
+// })
+
+
+
+
+
+
+
+
+
+
+
 
 // cron.schedule('0 0 0 * * *', () => {
 

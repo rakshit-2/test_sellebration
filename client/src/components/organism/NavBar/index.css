@@ -77,26 +77,26 @@
     justify-content: center;
 }
 .navbar__language__select{
-    width:fit-content;
+    width:100px;
     height:2rem;
     padding-left: 4px;
-    
     border: 1px solid white;
     color: white;
     border-radius: 20px;
     outline: none;
-    font-size: 15px;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     background-color: rgba(0, 0, 0, 0);
 }
 .navbar__language__option{
-    color: white;
     border-radius: 20px;
     color: black;
+    font-size: 14px;
     background-color: white;
 
 }
-
-
 
 
 
