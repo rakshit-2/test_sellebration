@@ -2,7 +2,7 @@ import './index.css';
 import { useNavigate } from 'react-router-dom';
 import FooterData from './../../assets/store/footerData';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCopyright, faRegistered } from '@fortawesome/free-regular-svg-icons'
+import { faCopyright } from '@fortawesome/free-regular-svg-icons'
 
 const Footer=(props)=>{
     const navigate = useNavigate();
@@ -41,7 +41,7 @@ return (
                 </div>
             </div>
             <div className='footer__inner__mid'>
-                {FooterData.middle}{'\u00A0'}<FontAwesomeIcon icon={faCopyright} size="lg" color="white" style={{cursor:"pointer"}} />
+            <FontAwesomeIcon icon={faCopyright} size="lg" color="white" style={{cursor:"pointer"}} />{'\u00A0'}{FooterData.middle}
             </div>
             <div className="footer__inner__bottom">
                 {FooterData.bottom.map((item) => {
