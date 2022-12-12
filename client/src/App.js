@@ -38,7 +38,7 @@ import TandC from './components/organism/tandc';
 import Navbar from './components/organism/NavBar/index';
 import Landing from './components/organism/landing';
 import Privacy from './components/organism/privacypolicy'
-
+import Sitemap from './components/organism/sitemap';
 
 const App=(props)=>{
 
@@ -246,6 +246,11 @@ const App=(props)=>{
         changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
 
         <Route path="/landing" element={<Landing 
+        navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
+        changeLang={changeLang} lang={lang} routeName={routeName} 
+        changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>
+
+        <Route path="/sitemap" element={<Sitemap 
         navDisplay={navDisplay} openNav={openNav} closeNav={closeNav} 
         changeLang={changeLang} lang={lang} routeName={routeName} 
         changeRouteName={changeRouteName} viewLang={viewLang}/>} ></Route>

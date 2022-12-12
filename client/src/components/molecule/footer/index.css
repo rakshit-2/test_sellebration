@@ -166,6 +166,13 @@
 {
     .footer__inner__top__left{
         width:90%;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        border:1px solid black;
+    }
+    .footer__inner__top__left__each{
+        margin:10px
     }
     .footer__inner__top__right{
         width:25%;
@@ -191,9 +198,7 @@
     .footer__inner__top__right{
         width:35%;
     }
-    .footer__inner__top__left__each{
-        margin:10px
-    }
+    
 }
 @media screen and (max-width:976px)
 {

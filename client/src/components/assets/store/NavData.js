@@ -1,11 +1,4 @@
 
-import twitter from './../image/nav_img/nav_twitter_img.svg';
-import linkedin from './../image/nav_img/nav_linkedin_img.svg';
-import insta from './../image/nav_img/nav_insta_img.svg';
-import facebook from './../image/nav_img/nav_facebook_img.svg';
-import youtube from './../image/nav_img/nav_youtube_img.svg';
-
-
 import { faTwitter } from '@fortawesome/free-brands-svg-icons'
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 import { faInstagram } from '@fortawesome/free-brands-svg-icons'

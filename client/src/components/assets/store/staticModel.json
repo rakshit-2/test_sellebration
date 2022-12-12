@@ -1,3 +1,5 @@
+
+
 {
     "english":
     {
@@ -5,6 +7,160 @@
         {
           "0":"PROCEED"
         },
+        "sitemap":
+        [
+          {
+            "id":0,
+            "label":"About Us",
+            "link":"/home",
+            "each":
+            [
+              {
+                "id":0,
+                "label":"Our Profile",
+                "link":"/ourprofile"
+              },
+              {
+                "id":1,
+                "label":"Leadership",
+                "link":"/leadership"
+              },
+              {
+                "id":2,
+                "label":"Women Leaders",
+                "link":"/womenleadership"
+              },
+              {
+                "id":3,
+                "label":"Vision&Values",
+                "link":"/visionvalue"
+              },
+              {
+                "id":4,
+                "label":"Milestones",
+                "link":"/milestone"
+              }
+            ]
+          },
+          {
+            "id":1,
+            "label":"CSR",
+            "link":"/csr",
+            "each":
+            [
+              {
+                "id":0,
+                "label":"CSR At Sellebration",
+                "link":"/csr"
+              },
+              {
+                "id":1,
+                "label":"Bringing The Change",
+                "link":"/bringchange"
+              },
+              {
+                "id":2,
+                "label":"Our Strategy",
+                "link":"/OurStrategy"
+              },
+              {
+                "id":3,
+                "label":"Stories of Hope",
+                "link":"/StoriesofHope"
+              },
+              {
+                "id":4,
+                "label":"CSR Policy",
+                "link":"/csr"
+              }
+            ]
+          },
+          {
+            "id":2,
+            "label":"Unknown",
+            "link":"/csr",
+            "each":
+            [
+              {
+                "id":0,
+                "label":"Innovation",
+                "link":"/Innovation"
+              },
+              {
+                "id":1,
+                "label":"Investors",
+                "link":"/investor"
+              },
+              {
+                "id":2,
+                "label":"Careers",
+                "link":"/career"
+              },
+              {
+                "id":3,
+                "label":"Contact Us",
+                "link":"/contactus"
+              }
+            ]
+          },
+          {
+            "id":3,
+            "label":"Media",
+            "link":"/Media",
+            "each":
+            [
+              {
+                "id":0,
+                "label":"Businesses & Brands",
+                "link":"/bussinessbrand"
+              },
+              {
+                "id":1,
+                "label":"Sustainability",
+                "link":"/sustainability"
+              }
+            ]
+          },
+          {
+            "id":4,
+            "label":"Media",
+            "link":"/Media",
+            "each":
+            [
+              {
+                "id":0,
+                "label":"Media Releases",
+                "link":"/mediarelease"
+              },
+              {
+                "id":1,
+                "label":"Media Reports",
+                "link":"/pressreoprt"
+              },
+              {
+                "id":2,
+                "label":"Stories",
+                "link":"/Stories"
+              },
+              {
+                "id":3,
+                "label":"Events",
+                "link":"/event"
+              },
+              {
+                "id":4,
+                "label":"Downloads",
+                "link":"/Downloads"
+              },
+              {
+                "id":5,
+                "label":"Our Logo",
+                "link":"/logo"
+              }
+            ]
+          }
+          
+        ],
         "home":
         {
            "0":"Our Stories",
