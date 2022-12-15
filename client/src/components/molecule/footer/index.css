@@ -150,7 +150,7 @@
 @media screen and (max-width:1674px)
 {
     .footer__inner__top__left{
-        width:75%;
+        width:80%;
         flex-wrap: wrap;
         height: fit-content;
     }
@@ -162,17 +162,24 @@
         margin-top: 5px;
     }
 }
+@media screen and (max-width:1379px)
+{
+    .footer__inner__top__left__each{
+        font-size: 14px;
+    }
+}
 @media screen and (max-width:1264px)
 {
     .footer__inner__top__left{
-        width:90%;
+        width:350px;
         display: flex;
         align-items:center;
-        justify-content: center;
-        border:1px solid black;
+        justify-content: space-around;
     }
+
     .footer__inner__top__left__each{
-        margin:10px
+        margin:10px;
+        font-size: 15px;
     }
     .footer__inner__top__right{
         width:25%;
