@@ -1,17 +1,17 @@
 import './index.css';
 import { useEffect } from 'react';
 import logo from '../../assets/image/navbar_img/navbar_logo_img.svg';
+import map from './../../assets/image/landing_map.svg';
 import langAll from './../../assets/store/lang.json';
 import * as React from 'react';
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
-import { useNavigate,useLocation  } from 'react-router-dom';
+import { useNavigate  } from 'react-router-dom';
 import StaticModel from './../../assets/store/staticModel.json'
 
 const Landing=(props)=>{
       // scroll to top
       const navigate = useNavigate();
-      const location = useLocation();
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
@@ -70,50 +70,53 @@ return (
         <div className='landing__outer__img'>
         </div>
         <div className='landing__inner'>
-            <div className='landing__inner__top'>
-                <div className='landing__inner__top__img'>
-                    <img src={logo} style={{width:"100%",height:"100%",borderRadius:"50%"}} alt="img"/>
+                <div className='landing__inner__top'>
+                    <div className='landing__inner__top__img'>
+                        <img src={logo} style={{width:"100%",height:"100%",borderRadius:"50%"}} alt="img"/>
+                    </div>
+                    <div className='lightblue__line__landing'>
+                    </div>
+                    <div className='darkblue__line__landing'>
+                    </div>
+                    <div className='landing__inner__top__text'>
+                        SELLEBRATION PVT. LTD.
+                    </div>
                 </div>
-                <div style={{width:"4px",height:"150px",borderRadius:"1rem",backgroundColor:"#2F528E",marginLeft:"25px",marginRight:"1px"}}>
+                <marquee direction="up" scrollamount="1" loop="100" className='landing__inner__middle'>
+                    <div className="landing__inner__middle__div">
+                        <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Welcome to Sellebration Private Limited</p>
+                        <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">सेलब्रेशन प्राइवेट लिमिटेड में आपका स्वागत है</p>
+                        <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Willkommen bei Sellebration Private Limited</p>
+                        <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bienvenue chez Sellebration Private Limited</p>
+                        <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Добро пожаловать в Sellebration Private Limited</p>
+                        <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bem-vindo à Sellebration Private Limited</p>
+                        <p style={{color:"#2F528E"}} className="landing__inner__middle__each">欢迎来到 Sellebration 私人有限公司</p>
+                        <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bienvenido a Selbration Private Limited</p>
+                        <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Sellebration Private Limited へようこそ</p>
+                    </div>
+                </marquee>
+                <div className='landing__inner__bottom'>
+                    <div className='landing__inner__bottom__img'>
+                        <img src={map} style={{width:"100%",height:"100%"}} alt="img"/>
+                    </div>
+
+                    <div className='landing__inner__bottom__inner'>
+                        <Autocomplete
+                        disablePortal
+                        defaultValue={null}
+                        className="name-field"
+                        id="combo-box-demo"
+                        placeholder={"language"}
+                        options={langAll}
+                        value={props.viewLang}
+                        onChange={(event: any, newVal:string | null)=>onChangeLang(newVal.label,'/landing')}
+                        renderInput={(params) => <TextField {...params} label="" />}
+                        />
+                    </div>
+                    <div className='landing__button' onClick={()=>{proceed()}}>
+                        {StaticModel[props.lang].landing[0]}
+                    </div>
                 </div>
-                <div style={{width:"4px",height:"150px",borderRadius:"1rem",backgroundColor:"#0AB1EE",marginLeft:"1px",marginRight:"25px"}}>
-                </div>
-                <div className='landing__inner__top__text'>
-                    SELLEBRATION PVT. LTD.
-                </div>
-            </div>
-            <marquee direction="up" scrollamount="1" loop="100" className='landing__inner__middle'>
-                <div className="landing__inner__middle__div">
-                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Welcome to Sellebration Private Limited</p>
-                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">सेलब्रेशन प्राइवेट लिमिटेड में आपका स्वागत है</p>
-                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Willkommen bei Sellebration Private Limited</p>
-                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bienvenue chez Sellebration Private Limited</p>
-                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Добро пожаловать в Sellebration Private Limited</p>
-                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bem-vindo à Sellebration Private Limited</p>
-                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">欢迎来到 Sellebration 私人有限公司</p>
-                    <p style={{color:"#0AB1EE"}} className="landing__inner__middle__each">Bienvenido a Selbration Private Limited</p>
-                    <p style={{color:"#2F528E"}} className="landing__inner__middle__each">Sellebration Private Limited へようこそ</p>
-                </div>
-            </marquee>
-            <div className='landing__inner__bottom'>
-                <div className='landing__inner__bottom__inner'>
-                <Autocomplete
-                disablePortal
-                defaultValue={null}
-                className="name-field"
-                style={{height:"fit-content",borderRadius:"5px",paddingLeft:"0px",fontFamily:"Oswald, sans-serif",fontSize:"12px",width:"200px"}}
-                id="combo-box-demo"
-                placeholder={"language"}
-                options={langAll}
-                value={props.viewLang}
-                onChange={(event: any, newVal:string | null)=>onChangeLang(newVal.label,'/landing')}
-                renderInput={(params) => <TextField {...params} label="" />}
-                />
-                </div>
-                <div className='landing__button' onClick={()=>{proceed()}}>
-                    {StaticModel[props.lang].landing[0]}
-                </div>
-            </div>
         </div>
     </div>
     </>
