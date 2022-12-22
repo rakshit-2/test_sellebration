@@ -5,7 +5,8 @@
     {
         "landing":
         {
-          "0":"PROCEED"
+          "0":"PROCEED",
+          "1":"2022 All Rights Reserved"
         },
         "sitemap":
         [
@@ -485,7 +486,8 @@
     "spanish":{ 
         "landing":
         {
-          "0":"CONTINUAR"
+          "0":"CONTINUAR",
+          "1":"2022 Todos los derechos reservados"
         },
         "home":
         {
@@ -785,7 +787,8 @@
     },
     "french":{
         "landing":{
-          "0":"PROCÉDER"
+          "0":"PROCÉDER",
+          "1":"2022 Tous droits réservés"
         },
         "home":
         {
@@ -1085,7 +1088,8 @@
     },
     "chinese":{
         "landing":{
-          "0":"继续"
+          "0":"继续",
+          "1":"2022 版权所有"
         },
         "home":
         {
@@ -1384,7 +1388,8 @@
     },
     "russian":{
         "landing":{
-          "0":"ПРОДОЛЖИТЬ"
+          "0":"ПРОДОЛЖИТЬ",
+          "1":"2022 Все права защищены"
         },
         "home":
         {
@@ -1684,7 +1689,8 @@
     },
     "german":{
         "landing":{
-          "0":"VERLAUFEN"
+          "0":"VERLAUFEN",
+          "1":"2022 Alle Rechte vorbehalten"
         },
         "home":
         {
@@ -1984,7 +1990,8 @@
     },
     "portuguese":{
         "landing":{
-          "0":"CONTINUAR"
+          "0":"CONTINUAR",
+          "1":"2022 Todos os direitos reservados"
         },
         "home":
         {
@@ -2284,7 +2291,8 @@
     },
     "japnese":{
         "landing":{
-          "0":"続行"
+          "0":"続行",
+          "1":"2022 無断複写・転載を禁じます"
         },
         "home":
         {
@@ -2584,7 +2592,8 @@
     },
     "hindi":{
         "landing":{
-          "0":"आगे बढ़ना"
+          "0":"आगे बढ़ना",
+          "1":"2022 सर्वाधिकार सुरक्षित"
         },
         "home":
         {
